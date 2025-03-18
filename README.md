@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    Best-of Machine Learning with Python
+    Awesome AI Tools & Resources
     <br>
 </h1>
 
