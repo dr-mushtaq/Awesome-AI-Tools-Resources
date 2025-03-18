@@ -93,7 +93,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 
 <br>
 
-## Machine Learning Frameworks
+## Important Website
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
@@ -142,7 +142,7 @@ _General-purpose machine learning and deep learning frameworks._
 	```
 	git clone https://github.com/scikit-learn/scikit-learn
 	```
-- [PyPi](https://pypi.org/project/scikit-learn) (📥 81M / month · 📦 27K · ⏱️ 10.01.2025):
+- [Open Source File Hosting Software](https://openalternative.co/categories/file-hosting):
 	```
 	pip install scikit-learn
 	```
