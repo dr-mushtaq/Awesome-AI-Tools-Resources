@@ -51,6 +51,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 
 <details> 
 <summary> <h2>🎨 Image Tools </h2> </summary>
+	
 | Title/Link | Description |
 |---|---|
 | [**MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
@@ -62,6 +63,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 
 <details> 
 <summary> <h2>🖼️ Image-to-Text </h2> </summary>
+	
 | Title/Link | Description |
 |---|---|
 | [**Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
