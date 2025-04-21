@@ -13,7 +13,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 ---
 
 <p align="center">
-     ## 📬 Stay Updated with Weekly AI tools List!
+     ##📬 Stay Updated with Weekly AI tools List!
 
 Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
 **Join hundreds of AI tool on Substack.**
