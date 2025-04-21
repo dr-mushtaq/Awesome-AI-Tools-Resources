@@ -13,8 +13,17 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 ---
 
 <p align="center">
-     🧙‍♂️&nbsp; Discover other <a href="https://best-of.org">best-of lists</a> or create <a href="https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md">your own</a>.<br>
-    📫&nbsp; Subscribe to our <a href="https://mltooling.substack.com/subscribe">newsletter</a> for updates and trending projects.
+     ## 📬 Stay Updated with Weekly AI tools List!
+
+Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
+**Join hundreds of AI tool on Substack.**
+
+👉 [**Subscribe to Our Coureseateach Newsletter**](https://substack.com/@coursesteach) ✨
+
+💡 Optional Badge (to make it pop)
+
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
+
 </p>
 
 ---
