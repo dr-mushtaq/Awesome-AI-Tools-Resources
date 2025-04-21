@@ -164,20 +164,26 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**SEOBOT**](https://seobot.com/) | SEO optimization and content tools. |
 </details>
 
-### 🌟 Miscellaneous / Others
+<details> 
+<summary> <h2>🌟 Miscellaneous / Others </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**LifeIsTooShort**](https://lifeistooshort.dev/) | Dev-focused productivity tools and quotes. |
+</details>
 
-### 🧑‍💻 GitHub Tools
+<details> 
+<summary> <h2>🧑‍💻 GitHub Tools</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**GitHub Profile README Generator**](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Generate stylish GitHub profile READMEs. |
 | [**GitHub Trending**](https://github.com/trending) | Discover trending repositories. |
 
-### 💻 Code & AI Model Tools
+</details>
+
+<details> 
+<summary> <h2>💻 Code & AI Model Tools</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
@@ -185,32 +191,39 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
 | [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
+</details>
 
-### 📝 Assignment Checking
+<details> 
+<summary> <h2>📝 Assignment Checking</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Highlight This**](https://highlightthis.net/) | Highlights specific words or phrases on webpages. |
+</details>
 
-### 🧠 Knowledge Summarization
-
+<details> 
+<summary> <h2>🧠 Knowledge Summarization</h2> </summary>
+	
 | Title/Link | Description |
 |---|---|
 | [**Notebook LM**](https://notebooklm.google.com/) | Summarize PDFs, websites, videos with AI. |
 | [**Napkin**](https://napkin.one/) | Visual thinking tool to turn ideas into diagrams. |
+</details>
 
-### 🎵 Media Player
+<details> 
+<summary> <h2>🎵 Media Player</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**LL Player**](https://llplayer.io/) | Media player with real-time translation and subtitles. |
+</details>
 
-### ✨ Prompt Engineering Tools
+<details> 
+<summary> <h2>✨ Prompt Engineering Tools</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Prompt Refiner**](https://promptrefiner.ai/) | Optimizes rough ideas into high-quality prompts. |
-
 </details>
 
 - [Machine Learning Frameworks](#machine-learning-frameworks) _63 projects_
