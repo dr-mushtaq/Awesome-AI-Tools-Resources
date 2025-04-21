@@ -8,7 +8,9 @@
     <strong>🏆&nbsp; A ranked list of awesome machine learning Python libraries. Updated weekly.</strong>
 </p>
 
-This curated list contains 920 awesome open-source projects with a total of 4.9M stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/ml-tooling/best-of-ml-python/issues/new/choose), submit a [pull request](https://github.com/ml-tooling/best-of-ml-python/pulls), or directly edit the [projects.yaml](https://github.com/ml-tooling/best-of-ml-python/edit/main/projects.yaml). Contributions are very welcome!
+This curated list highlights some of the most impactful and user-friendly AI tools available today—categorized by use case, such as chatbots, research, writing, video, image tools, web dev, and more. Whether you're a developer, researcher, or creative professional, these tools can boost your productivity and innovation.
+
+If you’d like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
 
 ---
 
