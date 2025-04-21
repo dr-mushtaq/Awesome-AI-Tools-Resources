@@ -122,37 +122,46 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**SmartSheet**](https://www.smartsheet.com/) | Cloud-based platform for work management. |
 </details>
 
-### ✈️ Immigration Tools
+<details> 
+<summary> <h2>✈️ Immigration Tools </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | **Schengen Visa Approval Prediction Tool** | Estimate visa approval likelihood (unofficial tools available online). |
 | **AI Itinerary & Cover Letter Generator** | Generates travel docs for tourist/business visas. |
+</details>
 
-### 📄 Chat with PDFs
+<details> 
+<summary> <h2>📄 Chat with PDFs </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Kotaemon**](https://www.kotaemon.com/) | Chat with your documents using AI. |
 | [**I am Nelima**](https://iamnelima.com/) | AI assistant for document Q&A. |
+</details>
 
-### 🏡 Home Design
+<details> 
+<summary> <h2>🏡 Home Design </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**HomeDesigns AI**](https://www.homedesigns.ai/) | Generate and visualize home interior ideas with AI. |
+</details>
 
-### 👨‍💻 Write Software
+<details> 
+<summary> <h2>👨‍💻 Write Software </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Bolt.new**](https://bolt.new/) | Fast way to start writing and deploying code. |
+</details>
 
-### 📈 SEO Tools
-
+<details> 
+<summary> <h2>📈 SEO Tools </h2> </summary>
 | Title/Link | Description |
 |---|---|
 | [**SEOBOT**](https://seobot.com/) | SEO optimization and content tools. |
+</details>
 
 ### 🌟 Miscellaneous / Others
 
