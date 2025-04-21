@@ -22,6 +22,17 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 
 ## Contents
 
+<details> 
+<summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
+
+## 👁️ Chapter1: - **Free Courses**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
+|[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
+
+</details>
+
 - [Machine Learning Frameworks](#machine-learning-frameworks) _63 projects_
 - [Data Visualization](#data-visualization) _55 projects_
 - [Text Data & NLP](#text-data--nlp) _103 projects_
