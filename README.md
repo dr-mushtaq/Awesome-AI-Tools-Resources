@@ -69,7 +69,8 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
 </details>
 
-### 🎬 Video Tools
+<details> 
+<summary> <h2>🎬 Video Tools </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
@@ -83,6 +84,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
+</details>
 
 ### ✍️ Writing & Idea Generation
 
