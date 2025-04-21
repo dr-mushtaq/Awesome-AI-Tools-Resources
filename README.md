@@ -49,6 +49,8 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
 </details>
 
+<details> 
+<summary> <h2>🎨 Image Tools </h2> </summary>
 ### 🎨 Image Tools
 
 | Title/Link | Description |
@@ -58,6 +60,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
 | [**ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
 | [**Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
+</details>
 
 ### 🖼️ Image-to-Text
 
