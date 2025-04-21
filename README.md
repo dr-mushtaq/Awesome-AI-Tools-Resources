@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome machine learning Python libraries. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome AI tools. Updated weekly.</strong>
 </p>
 
 This curated list highlights some of the most impactful and user-friendly AI tools available today—categorized by use case, such as chatbots, research, writing, video, image tools, web dev, and more. Whether you're a developer, researcher, or creative professional, these tools can boost your productivity and innovation.
