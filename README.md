@@ -158,6 +158,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 
 <details> 
 <summary> <h2>📈 SEO Tools </h2> </summary>
+	
 | Title/Link | Description |
 |---|---|
 | [**SEOBOT**](https://seobot.com/) | SEO optimization and content tools. |
