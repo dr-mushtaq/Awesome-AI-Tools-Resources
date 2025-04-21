@@ -96,25 +96,31 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**Perplexity.ai**](https://www.perplexity.ai/) | Research assistant that answers questions with citations. |
 </details>
 
-### 📄 Text Tools
+<details> 
+<summary> <h2>📄 Text Tools </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**NoteGPT**](https://notegpt.io/) | Take, organize, and summarize notes with AI. |
+</details>
 
-### 💻 Web Development Tools
+<details> 
+<summary> <h2>💻 Web Development Tools </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Hex Colors**](https://www.hexcolortool.com/) | Tool for picking and converting color codes. |
+</details>
 
-### ✅ Project & Task Management
+<details> 
+<summary> <h2>✅ Project & Task Management </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Dooe**](https://dooe.io/) | AI-powered task management assistant. |
 | [**Microsoft Project**](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Project planning and tracking tool. |
 | [**SmartSheet**](https://www.smartsheet.com/) | Cloud-based platform for work management. |
+</details>
 
 ### ✈️ Immigration Tools
 
