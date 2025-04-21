@@ -23,16 +23,7 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 ## Contents
 
 <details> 
-<summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
-
-## 👁️ Chapter1: - **Free Courses**
-| Title/link| Description | Reading Status |
-|---|---|---|
-|[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
-|[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
-## 🌐 Chapter 2: **Important Websites & Online Web Tools**
-
-### 🔍 General Tools and Chatbots
+<summary> <h2>🔍 General Tools and Chatbots </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
@@ -46,14 +37,17 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |
 | [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |
 | [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |
+</details>
 
-### 📚 Research & Writing
+<details> 
+<summary> <h2>📚 Research & Writing </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Khoj**](https://khoj.dev/) | Open-source research assistant for writers and researchers. |
 | [**DeepSeek (Open Source)**](https://github.com/deepseek-ai) | Open-source tools and models from DeepSeek AI. |
 | [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
+</details>
 
 ### 🎨 Image Tools
 
