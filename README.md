@@ -30,6 +30,168 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 |---|---|---|
 |[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
+## 🌐 Chapter 2: **Important Websites & Online Web Tools**
+
+### 🔍 General Tools and Chatbots
+
+| Title/Link | Description |
+|---|---|
+| [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |
+| [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |
+| [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. |
+| [**Poe**](https://poe.com/) | Multi-AI platform enabling access to various models. |
+| [**Groq**](https://groq.com/) | High-performance inference for LLMs. |
+| [**Hugging Face**](https://huggingface.co/) | Hub for AI models, datasets, and ML tools. |
+| [**Mistral Chat**](https://chat.mistral.ai/) | Chatbot powered by Mistral models. |
+| [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |
+| [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |
+| [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |
+
+### 📚 Research & Writing
+
+| Title/Link | Description |
+|---|---|
+| [**Khoj**](https://khoj.dev/) | Open-source research assistant for writers and researchers. |
+| [**DeepSeek (Open Source)**](https://github.com/deepseek-ai) | Open-source tools and models from DeepSeek AI. |
+| [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
+
+### 🎨 Image Tools
+
+| Title/Link | Description |
+|---|---|
+| [**MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
+| [**Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
+| [**Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
+| [**ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
+| [**Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
+
+### 🖼️ Image-to-Text
+
+| Title/Link | Description |
+|---|---|
+| [**Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
+
+### 🎬 Video Tools
+
+| Title/Link | Description |
+|---|---|
+| [**Gling.ai**](https://www.gling.ai/) | AI video editing tool for creators. |
+| [**Online Video Cutter**](https://online-video-cutter.com/) | Simple video trimming and cutting tool. |
+| [**Jitter**](https://jitter.video/) | Motion design tool for animated videos. |
+| [**Renderforest**](https://www.renderforest.com/) | Video, logo, and website maker. |
+| [**Lumen5**](https://lumen5.com/) | Turn text into video content. |
+| [**Kapwing**](https://www.kapwing.com/) | Online video editing and content creation platform. |
+| [**Canvas**](https://www.canva.com/) | (Also supports video creation and editing.) |
+| [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |
+| [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
+| [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
+
+### ✍️ Writing & Idea Generation
+
+| Title/Link | Description |
+|---|---|
+| [**You.com**](https://you.com/) | AI-powered search and writing assistant. |
+| [**Video to Blog**](https://www.videotoblog.com/) | Converts video content into written blog posts. |
+| [**Perplexity.ai**](https://www.perplexity.ai/) | Research assistant that answers questions with citations. |
+
+### 📄 Text Tools
+
+| Title/Link | Description |
+|---|---|
+| [**NoteGPT**](https://notegpt.io/) | Take, organize, and summarize notes with AI. |
+
+### 💻 Web Development Tools
+
+| Title/Link | Description |
+|---|---|
+| [**Hex Colors**](https://www.hexcolortool.com/) | Tool for picking and converting color codes. |
+
+### ✅ Project & Task Management
+
+| Title/Link | Description |
+|---|---|
+| [**Dooe**](https://dooe.io/) | AI-powered task management assistant. |
+| [**Microsoft Project**](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Project planning and tracking tool. |
+| [**SmartSheet**](https://www.smartsheet.com/) | Cloud-based platform for work management. |
+
+### ✈️ Immigration Tools
+
+| Title/Link | Description |
+|---|---|
+| **Schengen Visa Approval Prediction Tool** | Estimate visa approval likelihood (unofficial tools available online). |
+| **AI Itinerary & Cover Letter Generator** | Generates travel docs for tourist/business visas. |
+
+### 📄 Chat with PDFs
+
+| Title/Link | Description |
+|---|---|
+| [**Kotaemon**](https://www.kotaemon.com/) | Chat with your documents using AI. |
+| [**I am Nelima**](https://iamnelima.com/) | AI assistant for document Q&A. |
+
+### 🏡 Home Design
+
+| Title/Link | Description |
+|---|---|
+| [**HomeDesigns AI**](https://www.homedesigns.ai/) | Generate and visualize home interior ideas with AI. |
+
+### 👨‍💻 Write Software
+
+| Title/Link | Description |
+|---|---|
+| [**Bolt.new**](https://bolt.new/) | Fast way to start writing and deploying code. |
+
+### 📈 SEO Tools
+
+| Title/Link | Description |
+|---|---|
+| [**SEOBOT**](https://seobot.com/) | SEO optimization and content tools. |
+
+### 🌟 Miscellaneous / Others
+
+| Title/Link | Description |
+|---|---|
+| [**LifeIsTooShort**](https://lifeistooshort.dev/) | Dev-focused productivity tools and quotes. |
+
+### 🧑‍💻 GitHub Tools
+
+| Title/Link | Description |
+|---|---|
+| [**GitHub Profile README Generator**](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Generate stylish GitHub profile READMEs. |
+| [**GitHub Trending**](https://github.com/trending) | Discover trending repositories. |
+
+### 💻 Code & AI Model Tools
+
+| Title/Link | Description |
+|---|---|
+| [**AI Code Convert**](https://aicodeconvert.com/) | Translate code between programming languages. |
+| [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
+| [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
+| [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
+
+### 📝 Assignment Checking
+
+| Title/Link | Description |
+|---|---|
+| [**Highlight This**](https://highlightthis.net/) | Highlights specific words or phrases on webpages. |
+
+### 🧠 Knowledge Summarization
+
+| Title/Link | Description |
+|---|---|
+| [**Notebook LM**](https://notebooklm.google.com/) | Summarize PDFs, websites, videos with AI. |
+| [**Napkin**](https://napkin.one/) | Visual thinking tool to turn ideas into diagrams. |
+
+### 🎵 Media Player
+
+| Title/Link | Description |
+|---|---|
+| [**LL Player**](https://llplayer.io/) | Media player with real-time translation and subtitles. |
+
+### ✨ Prompt Engineering Tools
+
+| Title/Link | Description |
+|---|---|
+| [**Prompt Refiner**](https://promptrefiner.ai/) | Optimizes rough ideas into high-quality prompts. |
 
 </details>
 
