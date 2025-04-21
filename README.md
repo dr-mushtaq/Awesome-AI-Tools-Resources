@@ -86,13 +86,15 @@ This curated list contains 920 awesome open-source projects with a total of 4.9M
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
 </details>
 
-### ✍️ Writing & Idea Generation
+<details> 
+<summary> <h2>✍️ Writing & Idea Generation </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**You.com**](https://you.com/) | AI-powered search and writing assistant. |
 | [**Video to Blog**](https://www.videotoblog.com/) | Converts video content into written blog posts. |
 | [**Perplexity.ai**](https://www.perplexity.ai/) | Research assistant that answers questions with citations. |
+</details>
 
 ### 📄 Text Tools
 
