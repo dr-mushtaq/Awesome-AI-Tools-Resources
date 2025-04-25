@@ -214,11 +214,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📝 Assignment Checking</h2> </summary>
+<summary> <h2>📝 Education tools</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
-| [**Highlight This**](https://highlightthis.net/) | Highlights specific words or phrases on webpages. |
+| [**✅1-Highlight This**](https://highlightthis.net/) | Highlights specific words or phrases on webpages. |
+| [**✅2- Google Meet Attendance List**](https://chromewebstore.google.com/detail/google-meet-attendance-li/appcnhiefcidclcdjeahgklghghihfok?hl=en) | Easiest way to save the attendance list for your meetings or lectures |
+| [**✅3- Meet Attendance Tracker**](https://chromewebstore.google.com/detail/meet-attendance-tracker/ldjjokmalaidehbgbifihdfdondjgfha?utm_source=item-share-c) | The most accurate and reliable chrome extension to track attendance in Google Meet™ with just a single click ! |
 </details>
 
 <details> 
