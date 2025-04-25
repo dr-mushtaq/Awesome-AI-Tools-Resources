@@ -65,7 +65,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 | Title/Link | Description |
 |---|---|
-| [**Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva’s AI suite (Magic Write, Magic Design, Magic Edit…)|
+| [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva’s AI suite (Magic Write, Magic Design, Magic Edit…)|
 </details>
 
 
@@ -74,11 +74,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 	
 | Title/Link | Description |
 |---|---|
-| [**MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
-| [**Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
-| [**Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
-| [**ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
-| [**Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
+| [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
+| [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
+| [**✅Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
+| [**✅ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
+| [**✅Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
 </details>
 
 <details> 
@@ -86,7 +86,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 	
 | Title/Link | Description |
 |---|---|
-| [**Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
+| [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
 </details>
 
 <details> 
