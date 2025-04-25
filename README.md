@@ -214,7 +214,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📝 Education tools</h2> </summary>
+<summary> <h2>📝 Academic Tools</h2> </summary>
 
 | Title/Link | Description |
 |---|---|
