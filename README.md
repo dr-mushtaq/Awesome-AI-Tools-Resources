@@ -58,6 +58,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Khoj**](https://khoj.dev/) | Open-source research assistant for writers and researchers. |
 | [**DeepSeek (Open Source)**](https://github.com/deepseek-ai) | Open-source tools and models from DeepSeek AI. |
 | [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
+| [**✅Writing Tools**](https://chat.lmsys.org/) | Writing Tools is an Apple Intelligence-inspired application for Windows, Linux, and macOS that supercharges your writing with an AI LLM (cloud-based or local).. |
 </details>
 
 <details> 
