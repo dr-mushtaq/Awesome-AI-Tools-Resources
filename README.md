@@ -117,6 +117,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>✍️ Window Tools </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅Everything**](https://www.voidtools.com/downloads/) | Everything by Voidtools is one of the fastest and most lightweight file search tools for Windows. Here's how to make the best use of it. |
+</details>
+
+<details> 
 <summary> <h2>📄 Text Tools </h2> </summary>
 
 | Title/Link | Description |
