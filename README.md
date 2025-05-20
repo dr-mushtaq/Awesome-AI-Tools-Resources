@@ -98,6 +98,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅Hugging Face Spaces and Hub**](https://huggingface.co/docs/hub/en/spaces) | lets you deploy model demos or apps with Gradio, Streamlit, or custom Docker.. |
 | [**✅Streamlit Community Cloud**](https://streamlit.io/cloud) | Its Community Cloud (formerly Streamlit Sharing) lets you deploy Streamlit (or plain Python) apps directly from a GitHub repo. |
 | [**✅Render (Free Web Services)**](https://render.com/docs/free) |Render is a cloud hosting provider (like Heroku) that offers a free tier. You can deploy web services (e.g. a Flask or FastAPI model server) or static sites to Render. |
+| [**✅PythonAnywhere**](https://www.pythonanywhere.com/) |You upload your code or connect a Git repo. It’s very beginner-friendly for small projects. You get a small amount of CPU and disk. |
 </details>
 
 <details> 
