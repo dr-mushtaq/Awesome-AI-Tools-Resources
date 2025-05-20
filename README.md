@@ -91,6 +91,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>🖼️ FREE Platforms to Host ML models </h2> </summary>
+	
+| Title/Link | Description |
+|---|---|
+| [**✅Hugging Face Spaces and Hub**](https://huggingface.co/docs/hub/en/spaces) | lets you deploy model demos or apps with Gradio, Streamlit, or custom Docker.. |
+</details>
+
+<details> 
 <summary> <h2>🎬 Video Tools </h2> </summary>
 
 | Title/Link | Description |
