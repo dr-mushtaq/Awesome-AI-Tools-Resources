@@ -69,6 +69,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva’s AI suite (Magic Write, Magic Design, Magic Edit…)|
 </details>
 
+<details> 
+<summary> <h2>📚 Best AI Humanizer </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅Un AI My Text**](https://unaimytext.com/) | Turn AI-generated text into natural, human-like writing with our top Humanize AI tool.|
+</details>
+
 
 <details> 
 <summary> <h2>🎨 Image Tools </h2> </summary>
