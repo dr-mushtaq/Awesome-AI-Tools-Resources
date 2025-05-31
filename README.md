@@ -48,12 +48,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |Chatbot, Paid, Free Tier|
 | [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. | Assistant, Free, Microsoft
 | [**Poe**](https://poe.com/) | Multi-AI platform enabling access to various models. | Multi-Model, Chatbot, Free/Paid |
-| [**Groq**](https://groq.com/) | High-performance inference for LLMs. |
-| [**Hugging Face**](https://huggingface.co/) | Hub for AI models, datasets, and ML tools. |
-| [**Mistral Chat**](https://chat.mistral.ai/) | Chatbot powered by Mistral models. |
-| [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |
-| [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |
-| [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |
+| [**Groq**](https://groq.com/) | High-performance inference for LLMs. |Inference, Developer Tools, Free|
+| [**Hugging Face**](https://huggingface.co/) | Hub for AI models, datasets, and ML tools. |Open-Source, Models, Hosting |
+| [**Mistral Chat**](https://chat.mistral.ai/) | Chatbot powered by Mistral models. |Chatbot, Free, Mistral |
+| [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |Personal Assistant, Free |
+| [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |Open-Source, Chatbot, Free |
+| [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |Search, Chatbot, Free |
 </details>
 
 <details> 
