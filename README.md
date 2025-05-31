@@ -42,8 +42,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>🔍 General Tools and Chatbots </h2> </summary>
 
-| Title/Link | Description |
-|---|---|
+| Title/Link | Description |Tage|
+|---|---|---|
 | [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |
 | [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |
 | [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. |
