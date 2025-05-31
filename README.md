@@ -34,36 +34,19 @@ If you're not familiar with Git or Pull Requests, you can still contribute:
 
 - Open a **GitHub Issue** with the following format:
 
-
+Tool Name: Tool Title
+Description: One-line summary of what it does.
+Suggested Category: e.g., Video Tools, Chatbots
+Tags: Free, Web, Chatbot
 
 ---
-## 🤝 Contributing
 
-We welcome suggestions and contributions to this list of awesome AI tools!
-1. Fork this repository.
+### 📫 Contact
 
-2. Add your tool in the appropriate category (alphabetically, if possible).
+For bulk suggestions, feedback, or collaboration, feel free to [open an issue](https://github.com/your-repo/issues) or reach out via email/LinkedIn.
 
-3- Include:
 
-   Tool Name (with link)
 
-   Short description (max 15–20 words)
-
-   Tags (e.g., Chatbot, Free, Web)
-
-4. Create a Pull Request (PR) with a clear title and description of your addition.
-
-Alternatively, if you're not comfortable with Git, you can:
-
-Open a GitHub Issue with the tool details.
-
-Use the following format:
-
-Tool Name: [Tool Title](link)
-Description: One-line summary of what it does.
-Suggested Category: [e.g., Video Tools, Chatbots]
-Tags: Free, Web, Chatbot
 
 
 ## 📬 Stay Updated with Weekly AI Tools List!
