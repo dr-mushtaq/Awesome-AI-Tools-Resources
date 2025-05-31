@@ -13,6 +13,34 @@ This curated list highlights some of the most impactful and user-friendly AI too
 If you’d like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
 
 ---
+## 🤝 Contributing
+
+We welcome suggestions and contributions to this list of awesome AI tools!
+1. Fork this repository.
+
+2. Add your tool in the appropriate category (alphabetically, if possible).
+
+3- Include:
+
+   Tool Name (with link)
+
+   Short description (max 15–20 words)
+
+   Tags (e.g., Chatbot, Free, Web)
+
+4. Create a Pull Request (PR) with a clear title and description of your addition.
+
+Alternatively, if you're not comfortable with Git, you can:
+
+Open a GitHub Issue with the tool details.
+
+Use the following format:
+
+Tool Name: [Tool Title](link)
+Description: One-line summary of what it does.
+Suggested Category: [e.g., Video Tools, Chatbots]
+Tags: Free, Web, Chatbot
+
 
 ## 📬 Stay Updated with Weekly AI Tools List!
 
