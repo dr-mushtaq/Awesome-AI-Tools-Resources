@@ -322,4 +322,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅Chat gpt prompt chaining extension**](https://chromewebstore.google.com/detail/chains-chatgpt-workflow-a/dcoffbjjaffpagnpjlplnlmnjgpbaejl?hl=en) |  the ultimate Chrome extension to automate sequences of prompts, generate images at scale, insert smart delays, and build dynamic creative pipelines with ease. ✨.|
 </details>
 
+<details> 
+<summary> <h2>Important Tutorial</h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**🚀 Essential Websites and Tools for Modern Educators in the Digital Age**](https://substack.com/@coursesteach/note/c-126681029?utm_source=notes-share-action&r=f2squ) | Important tool and webiste for education |
+| [**🚀 Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help) | Important tool and webiste for education |
+</details>
+
    
