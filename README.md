@@ -290,6 +290,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅1-Highlight This**](https://highlightthis.net/) | Highlights specific words or phrases on webpages. |
 | [**✅2- Google Meet Attendance List**](https://chromewebstore.google.com/detail/google-meet-attendance-li/appcnhiefcidclcdjeahgklghghihfok?hl=en) | Easiest way to save the attendance list for your meetings or lectures |
 | [**✅3- Meet Attendance Tracker**](https://chromewebstore.google.com/detail/meet-attendance-tracker/ldjjokmalaidehbgbifihdfdondjgfha?utm_source=item-share-c) | The most accurate and reliable chrome extension to track attendance in Google Meet™ with just a single click ! |
+| [**✅4- Sscreen Recorder extension**](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden?pli=1) | The most accurate and reliable chrome extension to track attendance in Google Meet™ with just a single click ! |
 </details>
 
 <details> 
