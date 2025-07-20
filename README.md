@@ -280,6 +280,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
 | [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
+| [**zencoder**](https://zencoder.ai/download) | Latest ML papers with linked code. |
 </details>
 
 <details> 
