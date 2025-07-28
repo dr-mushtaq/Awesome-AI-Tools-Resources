@@ -322,6 +322,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅GeneratePrompt.AI**](https://generateprompt.ai/en/) | he Easiest Way to Supercharge Your Prompts ✨.|
 | [**✅Promptengine**](https://www.promptengine.cc/onboarding?callbackUrl=https%3A%2F%2Fwww.promptengine.cc%2Fsign-in) | he Easiest Way to Supercharge Your Prompts ✨.|
 | [**✅Chat gpt prompt chaining extension**](https://chromewebstore.google.com/detail/chains-chatgpt-workflow-a/dcoffbjjaffpagnpjlplnlmnjgpbaejl?hl=en) |  the ultimate Chrome extension to automate sequences of prompts, generate images at scale, insert smart delays, and build dynamic creative pipelines with ease. ✨.|
+| [**✅Redomyprompt**](https://redomyprompt.com/dashboard) | Millions use AI daily, but nearly everyone is stuck typing into the same tiny, broken box.Go to Dashboard. ✨.|
 </details>
 
 <details> 
