@@ -311,6 +311,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**LL Player**](https://llplayer.io/) | Media player with real-time translation and subtitles. |
 </details>
 
+<summary> <h2>Important Websites</h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**freetoolsuite**](https://freetoolsuite.com/tools/mass-converter) | Find free tools. |
+</details>
+
 <details> 
 <summary> <h2>✨ Prompt Engineering Tools</h2> </summary>
 
