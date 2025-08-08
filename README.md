@@ -129,6 +129,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
 | [**✅ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
 | [**✅Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
+| [**✅photopea**](https://www.photopea.com/) | Free image edit tool|
 </details>
 
 <details> 
