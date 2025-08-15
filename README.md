@@ -89,6 +89,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |Personal Assistant, Free |
 | [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |Open-Source, Chatbot, Free |
 | [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |Search, Chatbot, Free |
+| [**✅kimi**](https://www.kimi.com/) | AI assistant known for long-context reading and reasoning. Works in the browser with no install, and can handle large document uploads.. |Search, Chatbot, Free |
+| [**✅kimi**](https://www.kimi.com/) | AI assistant known for long-context reading and reasoning. Works in the browser with no install, and can handle large document uploads.. |Search, Chatbot, Free |
 </details>
 
 <details> 
