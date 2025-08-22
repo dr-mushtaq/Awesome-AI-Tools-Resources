@@ -177,7 +177,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
 | [**Kling 2.1 Master**](https://klingai.com/global/) | for image-to-video (Kling ended up at “God tier” in my most recent image-to-video test. Kling often upgrades its platform, introduces cool features, and gives free credits.. |
-| [**Wan 2.1**]([https://klingai.com/global/](https://github.com/Wan-Video/Wan2.1)) |is still the best open-source video model and was Tier #1 in my image-to-video test. If you have the know-how and the hardware, you can even run it locally. If not, wan.video gives you free daily credits. |
+| [**Wan 2.1**]([https://klingai.com/global/](https://github.com/Wan-Video/Wan2.1) |is still the best open-source video model and was Tier #1 in my image-to-video test. If you have the know-how and the hardware, you can even run it locally. If not, wan.video gives you free daily credits. |
 </details>
 
 <details> 
