@@ -224,12 +224,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📄 Chat with PDFs </h2> </summary>
+<summary> <h2>📄 Chatbots </h2> </summary>
 
 | Title/Link | Description |
 |---|---|
 | [**Kotaemon**](https://www.kotaemon.com/) | Chat with your documents using AI. |
 | [**I am Nelima**](https://iamnelima.com/) | AI assistant for document Q&A. |
+| [**poe**](https://poe.com/) | Contain multiple Chatbot|
 </details>
 
 <details> 
