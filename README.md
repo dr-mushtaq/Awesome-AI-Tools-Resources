@@ -314,8 +314,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 	
 | Title/Link | Description |
 |---|---|
-| [**Notebook LM**](https://notebooklm.google.com/) | Summarize PDFs, websites, videos with AI. |
+| [**Notebook LM**](https://notebooklm.google.com/) | NotebookLM remains an easy recommendation! I’ve been a fan since March 2024, and NotebookLM only keeps getting better. Since my last update, NotebookLM introduced interactive mind maps, native source discovery, and multilingual audio podcasts based on your uploads. |
 | [**Napkin**](https://napkin.one/) | Visual thinking tool to turn ideas into diagrams. |
+| [**Learn About**]([https://napkin.one/](https://learning.google.com/experiments/learn-about/signup)) |Learn About is another Google product that complements NotebookLM nicely. While NotebookLM is grounded in your preselected sources and synthesizes info across them, Learn About can browse the web and is built for open-ended exploration of any topic. |
 </details>
 
 <details> 
