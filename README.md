@@ -141,6 +141,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
 </details>
+<details> 
+<summary> <h2>🖼️ Code Writing Tool </h2> </summary>
+	
+| Title/Link | Description |Extra Resources|
+|---|---|---|
+| [**✅claude**](https://claude.ai/new) | or brainstorming and creative work. Claude has a “fresh” conversational feel and tends to suggest|[]()|
+</details>
 
 <details> 
 <summary> <h2>🖼️ FREE Platforms to Host ML models </h2> </summary>
