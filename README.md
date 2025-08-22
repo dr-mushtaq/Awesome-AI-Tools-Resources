@@ -135,11 +135,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>🖼️ Image-to-Text </h2> </summary>
+<summary> <h2>🖼️ Image Tools</h2> </summary>
 	
 | Title/Link | Description |
 |---|---|
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
+| [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It’s close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
 </details>
 <details> 
 <summary> <h2>🖼️ Code Writing Tool </h2> </summary>
