@@ -71,15 +71,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 [![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
 
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-**Join hundreds of AI tool on Substack.**
-
-👉 [**Subscribe to Our Coureseateach Newsletter**](https://substack.com/@coursesteach) ✨
-
-💡 Optional Badge (to make it pop)
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
-
 </p>
 
 ---
