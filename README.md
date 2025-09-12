@@ -208,6 +208,17 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**NoteGPT**](https://notegpt.io/) | Take, organize, and summarize notes with AI. |
 </details>
 
+<summary> <h2>🛡️ Tools to Detect AI-Generated or Plagiarized Content </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**Turnitin**](https://www.turnitin.com/login_page.asp?lang=en_us) | Besides traditional plagiarism detection, the platform now incorporates AI text classifier technology in an attempt to identify content produced by AI writing tools. |
+| [**GPTZero**](https://gptzero.me/?via=startzero) | which boasts the ability to not only accurately detect ChatGPT, but also other generative AI such as Bard, and the pay-for-service ChatGPT 4.0 |
+| [**Scribbr’s AI detector**](https://www.scribbr.com/ai-detector/) | This AI detector is based on some of the same technology as Turnitin and therefore will have some of the very same weaknesses as Turnitin. The nice thing about this option is that it is free t |
+| [**X-Detector**](https://xdetector.ai/) | This AI detector is based on some of the same technology as Turnitin and therefore will have some of the very same weaknesses as Turnitin. The nice thing about this option is that it is free t |
+</details>
+
+
 <details> 
 <summary> <h2>💻 Web Development Tools </h2> </summary>
 
