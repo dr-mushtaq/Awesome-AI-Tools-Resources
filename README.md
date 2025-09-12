@@ -208,8 +208,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**NoteGPT**](https://notegpt.io/) | Take, organize, and summarize notes with AI. |
 </details>
 
+<details> 
 <summary> <h2>🛡️ Tools to Detect AI-Generated or Plagiarized Content </h2> </summary>
-
 | Title/Link | Description |
 |---|---|
 | [**Turnitin**](https://www.turnitin.com/login_page.asp?lang=en_us) | Besides traditional plagiarism detection, the platform now incorporates AI text classifier technology in an attempt to identify content produced by AI writing tools. |
