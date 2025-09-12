@@ -129,9 +129,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>📚 Best AI Humanizer </h2> </summary>
 
-| Title/Link | Description |
-|---|---|
-| [**✅Un AI My Text**](https://unaimytext.com/) | Turn AI-generated text into natural, human-like writing with our top Humanize AI tool.|
+| Title/Link | Description |Paid/Unpaid|
+|---|---|---|
+| [**✅Un AI My Text**](https://unaimytext.com/) | Turn AI-generated text into natural, human-like writing with our top Humanize AI tool.|Free|
+| [**✅Stealth Writer**](https://stealthwriter.ai/) | It is an AI tool that rewrites AI generated text into natural, human likecontent to reduce detection. |Paid-Unpaid|
 </details>
 
 
