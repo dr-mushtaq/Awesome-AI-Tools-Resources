@@ -43,9 +43,19 @@ Tags: Free, Web, Chatbot
 
 ### 📫 Contact
 
-For bulk suggestions, feedback, or collaboration, feel free to [open an issue](https://github.com/your-repo/issues) or reach out via email/LinkedIn.
+For inquiries and contributions, contact Dr. Mushtaq at:
 
+- Email: mushtaqmsit@gmail.com, Skype ID:themushtaq48
 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mushtaq-hussain-21417814/)
+
+- YouTube: [CoursesTeach](https://www.youtube.com/@coursesteach-mv5si/videos)
+
+- Website: [CoursesTeach](https://coursesteach.com/)
+
+We welcome contributions from developers, researchers, and educators! Let's revolutionize e-learning with AI-driven assistance. 🚀
+
+Star this repo if you find it useful ⭐
 
 ## **🌍 Join Our Community**
 
