@@ -344,11 +344,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>Important Websites</h2> </summary>
+<summary> <h2>🌐 Important Websites</h2> </summary>
+
 | Title/Link | Description |
 |---|---|
-| [**freetoolsuite**](https://freetoolsuite.com/tools/mass-converter) | Find free tools. |
+| [**FreeToolSuite**](https://freetoolsuite.com/tools/mass-converter) | A collection of handy online tools including converters, calculators, and other utilities — all available for free. |
+
 </details>
+
 
 <details> 
 <summary> <h2>✨ Prompt Engineering Tools</h2> </summary>
