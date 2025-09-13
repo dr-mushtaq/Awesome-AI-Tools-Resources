@@ -96,7 +96,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | 3 | [Docear](https://www.docear.org/) | Academic literature management tool | — | — |
 | 4 | [Connected Papers](https://www.connectedpapers.com/) | Visualize relationships between papers | — | — |
 | 5 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered research assistant | — | — |
-| 6 | [Catalyzex](https://www.catalyzex.com/) | AI research discovery with browser extensions | — | — |
+| 6 | [Catalyzex](https://www.catalyzex.com/) | AI research discovery with browser extensions | [1](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/?fbclid=IwAR2N_I1htqKSaHEZ-gYoa-J4AVnBpZKyZmLvK5Y8sjuS1hDDY_s-LEZKKbQ)[2](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil)[-3](https://www.youtube.com/watch?v=Oht0VwWad1g) | — |
 | 7 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search | — | — |
 | 8 | [Content Mine](http://contentmine.org/) | Open access text mining | — | — |
 | 9 | [Elicit](https://elicit.org/) | AI tool for literature reviews | — | — |
