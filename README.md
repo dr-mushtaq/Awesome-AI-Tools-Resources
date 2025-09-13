@@ -123,6 +123,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | 30 | [Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | AI2 Scholar QA answers from research literature | ✅ | — |
 | 31 | [Research Rabbit App](https://researchrabbitapp.com/home) | Find and manage literature review | ✅ | — |
 | 32 | [Research GAP ChatGPT](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find research gaps with ChatGPT | ✅ | — |
+| 29 | [scilit](https://www.scilit.com/) | Free and comprehensive content aggregator platform for scholarly publications | — | — |
 
 </details>
 
