@@ -87,9 +87,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## Contents
 
 <details>
-<summary>📕 Research Resources</summary>
-
-## 🔍 Chapter 1: Literature Management and Search
+<summary>## 🔍 Chapter 1: Literature Management and Search</summary>
 
 | No. | Tool | Description | Resources | Feedback |
 |-----|------|-------------|-----------|----------|
