@@ -86,6 +86,49 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 ## Contents
 
+<details>
+<summary>📕 Research Resources</summary>
+
+## 🔍 Chapter 1: Literature Management and Search
+
+| No. | Tool | Description | Resources | Feedback |
+|-----|------|-------------|-----------|----------|
+| 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network | — | — |
+| 2 | [Naimai - Tutorial 1](#) | Literature management tutorial | — | — |
+| 3 | [Docear](https://www.docear.org/) | Academic literature management tool | — | — |
+| 4 | [Connected Papers](https://www.connectedpapers.com/) | Visualize relationships between papers | — | — |
+| 5 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered research assistant | — | — |
+| 6 | [Catalyzex](https://www.catalyzex.com/) | AI research discovery with browser extensions | — | — |
+| 7 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search | — | — |
+| 8 | [Content Mine](http://contentmine.org/) | Open access text mining | — | — |
+| 9 | [Elicit](https://elicit.org/) | AI tool for literature reviews | — | — |
+| 10 | [Paper Digest](https://www.paperdigest.org/) | Auto-summary of research papers | — | — |
+| 11 | [Papers with Code](https://paperswithcode.com/) | Papers + Code + evaluation tables | — | — |
+| 12 | [arXiv](https://arxiv.org/) | Preprint server for scientific papers | — | — |
+| 13 | [Research Rabbit](https://www.researchrabbit.ai/) | Visual citation exploration tool | — | — |
+| 14 | [Litmaps](https://www.litmaps.com/) | Track, correlate, and monitor research | — | — |
+| 15 | [Scinapse](https://www.scinapse.io/) | Academic search engine | — | — |
+| 16 | [PaperAI](https://www.paperai.tech/) | AI assistant for academic research | — | — |
+| 17 | [LabML Papers](https://papers.labml.ai/) | Track trending ML papers | — | — |
+| 18 | [AI Paper Club](https://aipaperclub.com/) | Community-driven paper highlights | — | — |
+| 19 | [Paper Parrot](https://paperparrot.com/) | Literature summarizer | — | — |
+| 20 | [Consensus](https://consensus.app/) | AI answers from research papers | — | — |
+| 21 | [Bing](https://www.bing.com/) | Web & scholarly search | — | — |
+| 22 | [Komo AI](https://www.komo.ai/) | AI-powered search engine | — | — |
+| 23 | [You.com](https://you.com/) | Personalized AI search | — | — |
+| 24 | [Yep](https://yep.com/) | Search engine supporting content creators | — | — |
+| 25 | [Andi Search](https://andisearch.com/) | Visual and conversational search | — | — |
+| 26 | [Trending AI Papers](https://trendingpapers.com/) | ML paper trends tracker | — | — |
+| 27 | [Phind](https://www.phind.com/) | AI for developer-oriented search | — | — |
+| 28 | [ResearchPal](https://researchpal.ai/) | Refine and polish research drafts | — | — |
+| 29 | [Outread.ai](https://www.outread.ai/) | Find the perfect paper for your review | — | — |
+| 30 | [Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | AI2 Scholar QA answers from research literature | ✅ | — |
+| 31 | [Research Rabbit App](https://researchrabbitapp.com/home) | Find and manage literature review | ✅ | — |
+| 32 | [Research GAP ChatGPT](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find research gaps with ChatGPT | ✅ | — |
+
+</details>
+
+
 <details> 
 <summary> <h2>🔍 General Tools and Chatbots </h2> </summary>
 
