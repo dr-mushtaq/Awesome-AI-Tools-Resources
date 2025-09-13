@@ -92,7 +92,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | No. | Tool | Description | Resources | Feedback |
 |-----|------|-------------|-----------|----------|
 | 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network | — | — |
-| 2 | [Naimai - Tutorial 1](#) | Literature management tutorial | — | — |
+| 2 | [Naimai](https://www.naimai.fr/) | Literature management tutorial | [1](https://yaassinekaddi.medium.com/scientific-literature-generation-ii-73628aebd4fb) | — |
 | 3 | [Docear](https://www.docear.org/) | Academic literature management tool | — | — |
 | 4 | [Connected Papers](https://www.connectedpapers.com/) | Visualize relationships between papers | — | — |
 | 5 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered research assistant | — | — |
