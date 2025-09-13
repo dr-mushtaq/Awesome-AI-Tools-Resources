@@ -87,7 +87,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## Contents
 
 <details>
-<summary><h2>🔍 Literature Management and Search< </h2></summary>
+<summary><h2>🔍 Literature Management and Search</h2></summary>
 
 | No. | Tool | Description | Resources | Feedback |
 |-----|------|-------------|-----------|----------|
