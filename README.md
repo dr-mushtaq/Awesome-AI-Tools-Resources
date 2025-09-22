@@ -235,6 +235,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Wan 2.1**](https://github.com/Wan-Video/Wan2.1) |is still the best open-source video model and was Tier #1 in my image-to-video test. If you have the know-how and the hardware, you can even run it locally. If not, wan.video gives you free daily credits. |
 | [**CapCut**](https://www.capcut.com/my-edit?from_page=landing_page&start_tab=video) | it free site for video creation and editing |
 | [**online-video-cutter**](https://online-video-cutter.com/) | it free site for Video triming |
+| [**Research Paper Video Generator**](https://researchpapervideos.com/) | Transform complex research papers into engaging educational videos in minutes |
 </details>
 
 <details> 
