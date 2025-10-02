@@ -432,4 +432,15 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**🚀 Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help) | Important tool and webiste for education |
 </details>
 
+## **✨Top Contributors**
+We would love your help in making this repository even better! If you know of an amazing AI Tool that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
+
+                       Together, let's make this the best AI learning hub website! 🚀
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
+
+<a href="https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dr-mushtaq/Awesome-AI-Tools-Resources" />
+</a>
+
    
