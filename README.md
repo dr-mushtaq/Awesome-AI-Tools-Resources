@@ -12,6 +12,9 @@ This curated list highlights some of the most impactful and user-friendly AI too
 
 If you’d like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
 
+![GitHub Repo stars](https://img.shields.io/github/stars/dr-mushtaq/Awesome-AI-Tools-Resources?style=social)
+
+
 ## 🤝 Contributing
 
 We welcome suggestions and contributions to this list of awesome AI tools!
