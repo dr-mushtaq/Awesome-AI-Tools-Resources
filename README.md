@@ -17,7 +17,7 @@ If you’d like to suggest a tool or contribute to this directory, feel free to 
 <div>
 <h2>💖 Sponsors</h2>
 
-<p>Our amazing sponsors for supporting my open-source contribution and the <strong>Python Notes for Beginners and Data Science Learners</strong> series!</p>
+<p>Our amazing sponsors for supporting my open-source contribution and the <strong>Awesome AI Tools Resources</strong> series!</p>
 
 <h3>Current Sponsor</h3>
 <hr />
