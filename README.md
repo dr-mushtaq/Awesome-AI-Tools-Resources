@@ -414,6 +414,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅3- Meet Attendance Tracker**](https://chromewebstore.google.com/detail/meet-attendance-tracker/ldjjokmalaidehbgbifihdfdondjgfha?utm_source=item-share-c) | The most accurate and reliable chrome extension to track attendance in Google Meet™ with just a single click ! |
 | [**✅4- Sscreen Recorder extension**](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden?pli=1) | The most accurate and reliable chrome extension to track attendance in Google Meet™ with just a single click ! |
 | [**✅5-Twee**](https://app.twee.com/auth/signin) | Twee is a web-based platform that uses artificial intelligence to create personalized and engaging lesson materials for English teachers and student |
+| [**✅6-Chalkie AI**](https://app.chalkie.ai/lessons/a015b88d-5fc0-4bff-90af-3ad93b6dc539) | Full lesson plans in seconds  |
+</details>
 </details>
 
 <details> 
