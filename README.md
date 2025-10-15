@@ -294,6 +294,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>✍️ Text to Spech </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅tts**](https://tts.thinkins.xyz/) | convert text to spech |
+</details>
+
+<details> 
 <summary> <h2>📄 Text Tools </h2> </summary>
 
 | Title/Link | Description |
