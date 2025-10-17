@@ -204,6 +204,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>📚 Child Resources and Tools </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅Alan Becker**](https://www.youtube.com/@alanbecker) |Teach Math  using Cartoon|
+</details>
+
+<details> 
 <summary> <h2>📚 Best AI Humanizer </h2> </summary>
 
 | Title/Link | Description |Paid/Unpaid|
