@@ -214,6 +214,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Title/Link | Tag |
 |---|---|
 | [**✅Browse AI**](https://chromewebstore.google.com/detail/browse-ai-fast-web-scrapi/obpcenkclppghkfpielmefegceegofeh) |If you frequently scrape different elements from websites or need to monitor a site for specific updates, give Browse AI a look.)|
+| [**✅ Explain AI**](https://chromewebstore.google.com/detail/explain-ai-explain-anythi/hgdhahipoomjkhbadikhoopfdkllpbgf) |Get in-context explanations for words and phrases|
 </details>
 
 <details> 
