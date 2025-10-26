@@ -209,6 +209,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>📚 AI Extensions </h2> </summary>
+
+| Title/Link | Tag |
+|---|---|
+| [**✅Browse AI**](If you frequently scrape different elements from websites or need to monitor a site for specific updates, give Browse AI a look.) | Canva’s AI suite (Magic Write, Magic Design, Magic Edit…)|
+</details>
+
+<details> 
 <summary> <h2>📚 Child Resources and Tools </h2> </summary>
 
 | Title/Link | Description |
