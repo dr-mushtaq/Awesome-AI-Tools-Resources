@@ -215,6 +215,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|
 | [**✅Browse AI**](https://chromewebstore.google.com/detail/browse-ai-fast-web-scrapi/obpcenkclppghkfpielmefegceegofeh) |If you frequently scrape different elements from websites or need to monitor a site for specific updates, give Browse AI a look.)|
 | [**✅ Explain AI**](https://chromewebstore.google.com/detail/explain-ai-explain-anythi/hgdhahipoomjkhbadikhoopfdkllpbgf) |Get in-context explanations for words and phrases|
+| [**✅ Guidde**](https://chromewebstore.google.com/detail/guidde-magically-create-v/oacmmmjedhheaijfjidilonpngccnhdl) |Document any process automatically|
 </details>
 
 <details> 
