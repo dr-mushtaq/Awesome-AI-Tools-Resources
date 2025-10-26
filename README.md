@@ -213,7 +213,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 | Title/Link | Tag |
 |---|---|
-| [**✅Browse AI**](If you frequently scrape different elements from websites or need to monitor a site for specific updates, give Browse AI a look.) | Canva’s AI suite (Magic Write, Magic Design, Magic Edit…)|
+| [**✅Browse AI**](https://chromewebstore.google.com/detail/browse-ai-fast-web-scrapi/obpcenkclppghkfpielmefegceegofeh) |If you frequently scrape different elements from websites or need to monitor a site for specific updates, give Browse AI a look.)|
 </details>
 
 <details> 
