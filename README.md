@@ -223,6 +223,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ Scholarcy**](https://chromewebstore.google.com/detail/scholarcy-browser-extensi/oekgknkmgmaehhpegfeioenikocgbcib) |Make research papers more digestible|
 | [**✅ Scribe**](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii?hl=en) |Save your process as a shareable doc|
 | [**✅ Teleprompt AI**](https://chromewebstore.google.com/detail/teleprompt-ai-%E2%80%93-prompt-ge/alfpjlcndmeoainjfgbbnphcidpnmoae) |Write better prompts inside any AI chat|
+| [**✅ Trancy**](https://chromewebstore.google.com/detail/trancy-immersive-translat/mjdbhokoopacimoekfgkcoogikbfgngb) |Learn languages while watching videos|
 </details>
 
 <details> 
