@@ -216,6 +216,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅Browse AI**](https://chromewebstore.google.com/detail/browse-ai-fast-web-scrapi/obpcenkclppghkfpielmefegceegofeh) |If you frequently scrape different elements from websites or need to monitor a site for specific updates, give Browse AI a look.)|
 | [**✅ Explain AI**](https://chromewebstore.google.com/detail/explain-ai-explain-anythi/hgdhahipoomjkhbadikhoopfdkllpbgf) |Get in-context explanations for words and phrases|
 | [**✅ Guidde**](https://chromewebstore.google.com/detail/guidde-magically-create-v/oacmmmjedhheaijfjidilonpngccnhdl) |Document any process automatically|
+| [**✅ AI Google Form Builder**](https://chromewebstore.google.com/detail/ai-google-form-builder/kjglafdhoohlhlicoklkgjffiedneeem) |Create fully functional Google Forms with minimal effort|
+| [**✅ NotebookLM Web Importer**](https://chromewebstore.google.com/detail/notebooklm-web-importer/ijdefdijdmghafocfmmdojfghnpelnfn?hl=en) |Throw any page or YouTube video directly into NotebookLM|
+| [**✅ SaveDay**](https://chromewebstore.google.com/detail/saveday-ai-bookmark-manag/gmfaoihlkhopieoibopcponemocgbloj) |Save and organize bookmarks with AI|
+| [**✅ Save my Chatbot**](https://chromewebstore.google.com/detail/save-my-chatbot-ai-conver/agklnagmfeooogcppjccdnoallkhgkod) |Download any AI chat as a markdown file|
 </details>
 
 <details> 
