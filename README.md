@@ -263,6 +263,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Title/Link | Description |Extra Resources|
 |---|---|---|
 | [**✅claude**](https://claude.ai/new) | or brainstorming and creative work. Claude has a “fresh” conversational feel and tends to suggest|[]()|
+| [**✅Grok**](https://grok.com/) | or brainstorming and creative work. Claude has a “fresh” conversational feel and tends to suggest|[]()|
 </details>
 
 <details> 
