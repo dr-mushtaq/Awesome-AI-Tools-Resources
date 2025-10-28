@@ -220,6 +220,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ NotebookLM Web Importer**](https://chromewebstore.google.com/detail/notebooklm-web-importer/ijdefdijdmghafocfmmdojfghnpelnfn?hl=en) |Throw any page or YouTube video directly into NotebookLM|
 | [**✅ SaveDay**](https://chromewebstore.google.com/detail/saveday-ai-bookmark-manag/gmfaoihlkhopieoibopcponemocgbloj) |Save and organize bookmarks with AI|
 | [**✅ Save my Chatbot**](https://chromewebstore.google.com/detail/save-my-chatbot-ai-conver/agklnagmfeooogcppjccdnoallkhgkod) |Download any AI chat as a markdown file|
+| [**✅ Scholarcy**](https://chromewebstore.google.com/detail/scholarcy-browser-extensi/oekgknkmgmaehhpegfeioenikocgbcib) |Make research papers more digestible|
+| [**✅ Scribe**](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii?hl=en) |Save your process as a shareable doc|
 </details>
 
 <details> 
