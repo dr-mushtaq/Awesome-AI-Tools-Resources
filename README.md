@@ -431,6 +431,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|
 | [**GitHub Profile README Generator**](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Generate stylish GitHub profile READMEs. |
 | [**GitHub Trending**](https://github.com/trending) | Discover trending repositories. |
+| [**Related Repos**](https://relatedrepos.com/) | Discover related open source projects. Updated daily. |
 
 </details>
 
