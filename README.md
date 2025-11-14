@@ -201,6 +201,17 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>📚 Tools about prediction about Market </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**AskSurf.ai**](https://asksurf.ai/chat) | Perfect for those in finance, crypto, or research-heavy fields. You can ask complex questions about markets, companies, or trends and get summarized insights from verified data sources.
+Why it’s great: Reliable, data-backed answers for job prep or reports.
+Alternative to: TokenTerminal, ChatGPT |
+</details>
+
+
+<details> 
 <summary> <h2>📚 Design Tool </h2> </summary>
 
 | Title/Link | Description |
