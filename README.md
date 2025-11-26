@@ -192,6 +192,15 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>📚 Research Paper review  </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**paperreview.ai**](https://paperreview.ai/) | Stanford Agentic Reviewer|
+
+</details>
+
+<details> 
 <summary> <h2>📚 Research & Writing </h2> </summary>
 
 | Title/Link | Description |
