@@ -529,6 +529,7 @@ Alternative to: TokenTerminal, ChatGPT |
 | [**✅Chat gpt prompt chaining extension**](https://chromewebstore.google.com/detail/chains-chatgpt-workflow-a/dcoffbjjaffpagnpjlplnlmnjgpbaejl?hl=en) |  the ultimate Chrome extension to automate sequences of prompts, generate images at scale, insert smart delays, and build dynamic creative pipelines with ease. ✨.|
 | [**✅Redomyprompt**](https://redomyprompt.com/dashboard) | Millions use AI daily, but nearly everyone is stuck typing into the same tiny, broken box.Go to Dashboard. ✨.|
 | [**✅ Teleprompt AI**](https://chromewebstore.google.com/detail/teleprompt-ai-%E2%80%93-prompt-ge/alfpjlcndmeoainjfgbbnphcidpnmoae) |Write better prompts inside any AI chat|
+| [**✅ Prompt Maker**](https://chatgpt.com/g/g-hhh4w3eov-prompt-maker) |Write better prompts inside any AI chat|
 </details>
 
 <details> 
