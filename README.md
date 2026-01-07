@@ -233,6 +233,14 @@ Alternative to: TokenTerminal, ChatGPT |
 </details>
 
 <details> 
+<summary> <h2>📚 Screen Recorder</h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅Screen Recorder**](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden?hl=en) | chrom extension|
+</details>
+
+<details> 
 <summary> <h2>📚 AI Extensions </h2> </summary>
 
 | Title/Link | Tag |
