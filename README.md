@@ -446,6 +446,7 @@ Alternative to: TokenTerminal, ChatGPT |
 | Title/Link | Description |
 |---|---|
 | [**SEOBOT**](https://seobot.com/) | SEO optimization and content tools. |
+| [**RankingRider**](https://www.rankingrider.com/) | AI-powered bulk SEO optimization for Shopify products via CSV. |
 </details>
 
 <details> 
