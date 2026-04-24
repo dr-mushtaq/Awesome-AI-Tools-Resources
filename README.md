@@ -508,6 +508,7 @@ Alternative to: TokenTerminal, ChatGPT |
 | [**Perplexity**](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false) |Perplexity I don’t use Perplexity too often, but its “Pro” search is a good midway point between simple web browsing and the time-intensive “Deep Research” tools. |
 | [**Google AI Studio**](https://aistudio.google.com/live?model=gemini-2.5-flash-preview-native-audio-dialog) |It’s still crazy to me that Google makes so much available for free via Google AI Studio. You can access its latest frontier models (Gemini 2.5 Pro), image generation, voice generation, coding tools, and live calls with screen or camera sharing. It’s a great way to sample most of what Google has to offer at no charge.. |
 | [**surfsense**](https://www.surfsense.com/dashboard/16523/new-chat/17533) |it is alternative of Notbookllm |
+| [**MindMap AI**](https://mindmapai.app/ai-summarizer) | A powerful AI mind mapping tool that converts text, PDFs, videos, and research into structured visual mind maps. Perfect for organizing ideas, planning content, and simplifying complex information for productivity, learning, and business workflows. |
 </details>
 
 <details> 
