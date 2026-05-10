@@ -120,9 +120,9 @@ Star this repo if you find it useful ⭐
 
 ## **🌍 Join Our Community**
 
-🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/)
+🔗 [**Whatsapp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
+🔗 [**YouTube Channel**](https://www.youtube.com/@coursesteach-mv5si/videos)
 
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
