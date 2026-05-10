@@ -10,6 +10,23 @@
 
 This curated list highlights some of the most impactful and user-friendly AI tools available today—categorized by use case, such as chatbots, research, writing, video, image tools, web dev, and more. Whether you're a developer, researcher, or creative professional, these tools can boost your productivity and innovation.
 
+<p align="center">
+  <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing">
+    <img 
+      src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA" 
+      alt="AI Code Gen"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/imresizer-Media%20(1).jpg?raw=true"
+    alt="Natural Language Processing Banner"
+    width="850"
+  />
+</p>
+
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
