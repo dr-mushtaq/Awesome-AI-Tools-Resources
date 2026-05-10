@@ -573,6 +573,12 @@ Alternative to: TokenTerminal, ChatGPT |
 | [**🚀 Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help) | Important tool and webiste for education |
 </details>
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+All source code and educational material in this repository are released under the MIT License.
+
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI Tool that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
