@@ -562,6 +562,8 @@ Alternative to: TokenTerminal, ChatGPT |
 | [**✅Redomyprompt**](https://redomyprompt.com/dashboard) | Millions use AI daily, but nearly everyone is stuck typing into the same tiny, broken box.Go to Dashboard. ✨.|
 | [**✅ Teleprompt AI**](https://chromewebstore.google.com/detail/teleprompt-ai-%E2%80%93-prompt-ge/alfpjlcndmeoainjfgbbnphcidpnmoae) |Write better prompts inside any AI chat|
 | [**✅ Prompt Maker**](https://chatgpt.com/g/g-hhh4w3eov-prompt-maker) |Write better prompts inside any AI chat|
+| [**✅ ainews**](https://ainews.tech/skills) |A free index for AI learners — guides, prompts, skills, tools, glossary|
+</details>
 </details>
 
 <details> 
