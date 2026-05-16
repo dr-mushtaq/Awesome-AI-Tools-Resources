@@ -300,6 +300,7 @@ Alternative to: TokenTerminal, ChatGPT |
 	
 | Title/Link | Description |
 |---|---|
+| [**✅Aurcue**](https://www.aurcue.com) | AI personal aesthetic assistant for color analysis, outfit guidance, hairstyles, and glasses from one photo. |
 | [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
 | [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
 | [**✅Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
