@@ -423,6 +423,7 @@ Alternative to: TokenTerminal, ChatGPT |
 | Title/Link | Description |
 |---|---|
 | [**HomeDesigns AI**](https://www.homedesigns.ai/) | Generate and visualize home interior ideas with AI. |
+| [**✅LandscapioAI**](https://www.landscapioai.com/) | AI landscape design tool that turns yard photos into redesign concepts and cost-aware ideas. |
 </details>
 
 <details> 
