@@ -277,6 +277,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
 | [**✅Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
 | [**✅photopea**](https://www.photopea.com/) | Free image edit tool|
+| [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
+| [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It’s close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
 </details>
 
 <details> 
@@ -543,7 +545,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ Teleprompt AI**](https://chromewebstore.google.com/detail/teleprompt-ai-%E2%80%93-prompt-ge/alfpjlcndmeoainjfgbbnphcidpnmoae) |Write better prompts inside any AI chat|
 | [**✅ Prompt Maker**](https://chatgpt.com/g/g-hhh4w3eov-prompt-maker) |Write better prompts inside any AI chat|
 | [**✅ ainews**](https://ainews.tech/skills) |A free index for AI learners — guides, prompts, skills, tools, glossary|
-</details>
+| [**✅ 50 ChatGPT Image Prompts**](https://sifuyik.substack.com/p/50-chatgpt-image-prompts?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true) |50 ChatGPT Image Prompts|
 </details>
 
 <details> 
