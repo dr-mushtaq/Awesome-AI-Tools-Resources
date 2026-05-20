@@ -59,8 +59,8 @@ Tags: Free, Web, Chatbot
 ---
 
 <details> 
-<summary> <h2>📚 Todo List  </h2> </summary>
 The tasks listed below are pending completion. If any team member has availability, kindly take them up and complete them.
+<summary> <h2>📚 Todo List </h2> </summary>
 
 | Title/Link | Task |Status|
 |---|---|---|
