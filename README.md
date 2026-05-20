@@ -58,6 +58,11 @@ Tags: Free, Web, Chatbot
 
 ---
 
+### ✅ Todo List
+
+1. **Create new category(Learn any thing) and put all data from link** [Learn any thing](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true).
+2. 
+
 ### 📫 Contact
 
 For inquiries and contributions, contact Dr. Mushtaq at:
