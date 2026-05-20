@@ -64,9 +64,8 @@ Tags: Free, Web, Chatbot
 | Title/Link | Task |Status|
 |---|---|---|
 | [**[Learn any thing](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true). | Create new category(Learn any thing) and put all data from link|Pending|
-
 </details>
-3. 
+
 
 ### 📫 Contact
 
