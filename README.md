@@ -270,6 +270,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Title/Link | Description |Paid/Unpaid|
 |---|---|---|
 | [**✅MLConsole**](https://mlconsole.com/) |ML Console allows everyone to build powerful machine learning models for free, and in less than a minute: no advanced AI expertise, lengthy sign-ups or credit-card info required!|Free|
+| [**✅Mlcontests**](https://mlcontests.com/) |Discover machine learning, data science & robotics competitions|Free|
 </details>
 
 
