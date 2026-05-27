@@ -271,6 +271,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
 | [**✅Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
 | [**✅photopea**](https://www.photopea.com/) | Free image edit tool|
+| [**✅PhotoRestore.ai**](https://photorestore.ai) | AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images. Free trial. |
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
 | [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It’s close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
 </details>
