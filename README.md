@@ -13,6 +13,11 @@ This curated list highlights some of the most impactful and user-friendly AI too
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
+ ## Quick Start Checklist with Links
+
+- Subscribe to [Awesome AI Tools & Resources on YouTube](https://www.youtube.com/playlist?list=PLLC7bmONapvCTGlSgfd3lhkceBnnoR45C) and review the playlist
+- Enroll in AI Tools Courese [Machine Learning!](https://coursesteach.com/course/view.php?id=6) and copyt in important tool in this Repo.  
+
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/1adb02cb-941f-4231-b9a6-15fc19593593_735x843.jpg"></a>
