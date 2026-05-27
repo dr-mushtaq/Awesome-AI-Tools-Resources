@@ -158,6 +158,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | 32 | [Research GAP ChatGPT](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find research gaps with ChatGPT | ✅ | — |
 | 29 | [scilit](https://www.scilit.com/) | Free and comprehensive content aggregator platform for scholarly publications | — | — |
 | 30 | [NeurIPS 2025 papers](https://neurips.zeroentropy.dev/) | Show me NeurIPS 2025 papers on efficient transformers / multimodal models / robustness / RL | — | — |
+| 32 | [AMiner](https://www.aminer.cn/) | is an AI-powered academic research and technology intelligence platform that helps users search, analyze, and summarize scientific papers, patents, and scholar data. | ✅ | — |
 
 
 </details>
