@@ -266,12 +266,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📚 Online AI training model platform </h2> </summary>
+<summary> <h2>🏆 AI Challenges, Training & Model Building Platforms </h2> </summary>
 
 | Title/Link | Description |Paid/Unpaid|
 |---|---|---|
 | [**✅MLConsole**](https://mlconsole.com/) |ML Console allows everyone to build powerful machine learning models for free, and in less than a minute: no advanced AI expertise, lengthy sign-ups or credit-card info required!|Free|
 | [**✅Mlcontests**](https://mlcontests.com/) |Discover machine learning, data science & robotics competitions|Free|
+| [**✅Aicrowd**](https://www.aicrowd.com/) |AIcrowd enables data science experts and enthusiasts to collaboratively solve real-world problems, through challenges.|Free|
 </details>
 
 
