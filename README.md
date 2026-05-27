@@ -264,6 +264,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅Stealth Writer**](https://stealthwriter.ai/) | It is an AI tool that rewrites AI generated text into natural, human likecontent to reduce detection. |Paid-Unpaid|
 </details>
 
+<details> 
+<summary> <h2>📚 Online AI training model platform </h2> </summary>
+
+| Title/Link | Description |Paid/Unpaid|
+|---|---|---|
+| [**✅MLConsole**](https://mlconsole.com/) |ML Console allows everyone to build powerful machine learning models for free, and in less than a minute: no advanced AI expertise, lengthy sign-ups or credit-card info required!|Free|
+</details>
+
 
 <details> 
 <summary> <h2>🎨 Image Tools </h2> </summary>
