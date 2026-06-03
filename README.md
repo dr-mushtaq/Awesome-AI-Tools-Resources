@@ -103,16 +103,7 @@ Star this repo if you find it useful ⭐
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
-## 📬 Stay Updated with Weekly AI Tools List!
 
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-**Join hundreds of AI tool users on Substack.**
-
-👉 [**Subscribe to Our Coursesteach Newsletter**](https://substack.com/@coursesteach) ✨
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
-
-</p>
 
 ---
 
@@ -246,7 +237,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ Trancy**](https://chromewebstore.google.com/detail/trancy-immersive-translat/mjdbhokoopacimoekfgkcoogikbfgngb) |Learn languages while watching videos|
 | [**✅ Trupeer**](https://chromewebstore.google.com/detail/trupeer-ai-screen-recorde/doedlfgeilocafjipkkhegndbhlkoedo) |Turn screen recordings into training videos|
 | [**✅ YouTube to NotebookLM**](https://chromewebstore.google.com/detail/youtube-to-notebooklm/kobncfkmjelbefaoohoblamnbackjggk) |Adding YouTube videos to NotebookLM one by one|
-| [**✅ NotebookLM Web Importer**](https://chromewebstore.google.com/detail/youtube-to-notebooklm/kobncfkmjelbefaoohoblamnbackjggk) |Saving web articles and blog posts to NotebookLM requires copying URLs manually. There’s no quick capture.|
+| [**✅ NotebookLM Web Importer**](https://chromewebstore.google.com/detail/notebooklm-web-importer/ijdefdijdmghafocfmmdojfghnpelnfn) |Saving web articles and blog posts to NotebookLM |
 
 </details>
 
