@@ -246,6 +246,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ Trancy**](https://chromewebstore.google.com/detail/trancy-immersive-translat/mjdbhokoopacimoekfgkcoogikbfgngb) |Learn languages while watching videos|
 | [**✅ Trupeer**](https://chromewebstore.google.com/detail/trupeer-ai-screen-recorde/doedlfgeilocafjipkkhegndbhlkoedo) |Turn screen recordings into training videos|
 | [**✅ YouTube to NotebookLM**](https://chromewebstore.google.com/detail/youtube-to-notebooklm/kobncfkmjelbefaoohoblamnbackjggk) |Adding YouTube videos to NotebookLM one by one|
+| [**✅ NotebookLM Web Importer**](https://chromewebstore.google.com/detail/youtube-to-notebooklm/kobncfkmjelbefaoohoblamnbackjggk) |Saving web articles and blog posts to NotebookLM requires copying URLs manually. There’s no quick capture.|
 
 </details>
 
