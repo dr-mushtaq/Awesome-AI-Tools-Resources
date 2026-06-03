@@ -245,6 +245,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ Teleprompt AI**](https://chromewebstore.google.com/detail/teleprompt-ai-%E2%80%93-prompt-ge/alfpjlcndmeoainjfgbbnphcidpnmoae) |Write better prompts inside any AI chat|
 | [**✅ Trancy**](https://chromewebstore.google.com/detail/trancy-immersive-translat/mjdbhokoopacimoekfgkcoogikbfgngb) |Learn languages while watching videos|
 | [**✅ Trupeer**](https://chromewebstore.google.com/detail/trupeer-ai-screen-recorde/doedlfgeilocafjipkkhegndbhlkoedo) |Turn screen recordings into training videos|
+| [**✅ YouTube to NotebookLM**](https://chromewebstore.google.com/detail/youtube-to-notebooklm/kobncfkmjelbefaoohoblamnbackjggk) |Adding YouTube videos to NotebookLM one by one|
 
 </details>
 
