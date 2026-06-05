@@ -150,6 +150,7 @@ Star this repo if you find it useful ⭐
 | 29 | [scilit](https://www.scilit.com/) | Free and comprehensive content aggregator platform for scholarly publications | — | — |
 | 30 | [NeurIPS 2025 papers](https://neurips.zeroentropy.dev/) | Show me NeurIPS 2025 papers on efficient transformers / multimodal models / robustness / RL | — | — |
 | 32 | [AMiner](https://www.aminer.cn/) | is an AI-powered academic research and technology intelligence platform that helps users search, analyze, and summarize scientific papers, patents, and scholar data. | ✅ | — |
+| 33 | [✅𝐖𝐢𝐬𝐏𝐚𝐩𝐞𝐫](https://www.wispaper.ai/app/search?utm_source=ldn&utm_content=faheem) |Helps you in searching papers for your literature review | — | — |
 
 
 </details>
