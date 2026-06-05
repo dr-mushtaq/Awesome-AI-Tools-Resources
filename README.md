@@ -151,7 +151,9 @@ Star this repo if you find it useful ⭐
 | 30 | [NeurIPS 2025 papers](https://neurips.zeroentropy.dev/) | Show me NeurIPS 2025 papers on efficient transformers / multimodal models / robustness / RL | — | — |
 | 32 | [AMiner](https://www.aminer.cn/) | is an AI-powered academic research and technology intelligence platform that helps users search, analyze, and summarize scientific papers, patents, and scholar data. | ✅ | — |
 | 33 | [✅𝐖𝐢𝐬𝐏𝐚𝐩𝐞𝐫](https://www.wispaper.ai/app/search?utm_source=ldn&utm_content=faheem) |Helps you in searching papers for your literature review | — | — |
-
+| 34 | [✅ 𝐏𝐚𝐭𝐒𝐧𝐚𝐩 𝐄𝐮𝐫𝐞𝐤𝐚](https://eureka.patsnap.com/ai-search/sess_834d0110244945a1) |➝ Helps you in identifying trends in your research field
+| — | — |
+ 
 
 </details>
 
