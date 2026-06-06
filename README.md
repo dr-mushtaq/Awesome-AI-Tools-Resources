@@ -245,7 +245,7 @@ Star this repo if you find it useful ⭐
 | [**✅ NotebookLM Tools**](https://chromewebstore.google.com/detail/notebooklm-tools/hiibkpjljigehlnnecbgehkhfibmahjn) |Sou need five different extensions to do what this one does |
 | [**✅ NotebookLM Ultra Exporter**](https://chromewebstore.google.com/detail/notebooklm-ultra-exporter/afchokljnhhggkhedfbmkcmdagjmjchj) |This adds export buttons to every asset you create in NotebookLM. Reports, slides, infographics, flashcards, mind maps, chat history — all downloadable in multiple formats..|
 | [**✅ NotebookLM Mindmap Extractor**]([https://chromewebstore.google.com/detail/kortex-notebooklm/hdapplggdhndkblofffknpmnnnnbncbn](https://chromewebstore.google.com/detail/notebooklm-mindmap-export/jeaclciaoglkeohcfeobijdojpclkmkb)) |NotebookLM only lets you download mind maps as PNG images. You can’t edit a single node.|
-| [**✅ ExtendLM — NotebookLM Extension**](https://chromewebstore.google.com/detail/notebooklm-extension-exte/jefclkefiknlccjcjmkkhlcfkdgcmgcm) |You want one extension that handles importing, language switching, audio playlists, and a prompt manager — without paying for anything.|
+| [**✅ ExtendLM — NotebookLM Extension**](https://chromewebstore.google.com/detail/notebooklm-extension-exte/jefclkefiknlccjcjmkkhlcfkdgcmgcm) |You want one extension that handles importing, language switching, audio playlists, and a prompt manager — without paying fordfd anything.|
 
 </details>
 
