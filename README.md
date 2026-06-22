@@ -336,6 +336,7 @@ Star this repo if you find it useful ⭐
 | [**CapCut**](https://www.capcut.com/my-edit?from_page=landing_page&start_tab=video) | it free site for video creation and editing |
 | [**online-video-cutter**](https://online-video-cutter.com/) | it free site for Video triming |
 | [**Google Flow (Veo 3)**](https://www.veo3ai.io/text-to-video) | Text to video with native audio, cinematic quality |
+| [**ImagineClip**](https://imagineclip.com) | Create avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects. |
 | [**Research Paper Video Generator**](https://researchpapervideos.com/) | Transform complex research papers into engaging educational videos in minutes |
 | [**PVID**](http://pvid.app/) | Free AI video generator with Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video with 100 free credits. |
 | [**Cyber Collector**](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io) |
