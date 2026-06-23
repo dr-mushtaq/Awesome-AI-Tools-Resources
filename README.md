@@ -289,6 +289,7 @@ Star this repo if you find it useful ⭐
 | [**✅Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
 | [**✅ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
 | [**✅Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
+| [**✅ClearCrowds**](https://www.clearcrowds.com/) | AI photo cleanup editor for removing crowds, objects, shadows, glare, glasses, and product-photo distractions with focused presets. |
 | [**✅photopea**](https://www.photopea.com/) | Free image edit tool|
 | [**✅PhotoRestore.ai**](https://photorestore.ai) | AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images. Free trial. |
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
