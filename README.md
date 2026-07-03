@@ -224,6 +224,15 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
+<summary> <h2>📚 Important Github Repo</h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅Awesome AI Tools by Toolkitly**](https://github.com/ToolkitlyAI/awesome-ai-tools/tree/master) | chrom extension|
+</details>
+
+
+<details> 
 <summary> <h2>📚 AI Extensions </h2> </summary>
 
 | Title/Link | Tag |
