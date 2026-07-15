@@ -8,7 +8,7 @@
     <strong>🏆&nbsp; A ranked list of awesome AI tools. Updated weekly.</strong>
 </p>
 
-This curated list highlights some of the most impactful and user-friendly AI tools available today—categorized by use case, such as chatbots, research, writing, video, image tools, web dev, and more. Whether you're a developer, researcher, or creative professional, these tools can boost your productivity and innovation.
+This curated list highlights some of the most impactful and user-friendly **Free and open source AI tools** available today—categorized by use case, such as chatbots, research, writing, video, image tools, web dev, and more. Whether you're a developer, researcher, or creative professional, these tools can boost your productivity and innovation.
 
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
