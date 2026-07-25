@@ -351,6 +351,7 @@ Star this repo if you find it useful ⭐
 | [**ImagineClip**](https://imagineclip.com) | Create avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects. |
 | [**Research Paper Video Generator**](https://researchpapervideos.com/) | Transform complex research papers into engaging educational videos in minutes |
 | [**PVID**](http://pvid.app/) | Free AI video generator with Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video with 100 free credits. |
+| [**Video Upscaler**](https://videoupscaler.video) | Upscale and enhance video resolution in the browser for clearer playback and reuse. |
 | [**ImagineClip**](https://imagineclip.com?ref=awesome-ai-tools-resources) | AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects. |
 | [**Cyber Collector**](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io) |
 </details>
