@@ -294,6 +294,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅Aurcue**](https://www.aurcue.com) | AI personal aesthetic assistant for color analysis, outfit guidance, hairstyles, and glasses from one photo. |
+| [**✅Blur Background**](https://blurbackground.vip) | Automatically blur photo backgrounds in the browser for portraits, products, and social media images. |
 | [**✅HairWow**](https://www.gohairwow.com) | AI hairstyle try-on for previewing haircuts, colors, beards, and barber references from one photo. |
 | [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
 | [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
