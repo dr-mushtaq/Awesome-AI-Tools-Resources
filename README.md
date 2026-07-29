@@ -196,6 +196,7 @@ Star this repo if you find it useful ⭐
 | [**DeepSeek (Open Source)**](https://github.com/deepseek-ai) | Open-source tools and models from DeepSeek AI. |
 | [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
 | [**✅Writing Tools**](https://chat.lmsys.org/) | Writing Tools is an Apple Intelligence-inspired application for Windows, Linux, and macOS that supercharges your writing with an AI LLM (cloud-based or local).. |
+| [**✅WizGenerator Story Generator**](https://wizgenerator.com/image-generators/) | Writing, Storytelling, Free, WebLM (cloud-based or local).. |
 </details>
 
 <details> 
