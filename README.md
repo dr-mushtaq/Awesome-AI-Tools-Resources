@@ -196,7 +196,6 @@ Star this repo if you find it useful ⭐
 | [**DeepSeek (Open Source)**](https://github.com/deepseek-ai) | Open-source tools and models from DeepSeek AI. |
 | [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
 | [**✅Writing Tools**](https://chat.lmsys.org/) | Writing Tools is an Apple Intelligence-inspired application for Windows, Linux, and macOS that supercharges your writing with an AI LLM (cloud-based or local).. |
-| [**✅WizGenerator Story Generator**](https://wizgenerator.com/image-generators/) | Writing, Storytelling, Free, WebLM (cloud-based or local).. |
 </details>
 
 <details> 
@@ -300,6 +299,7 @@ Star this repo if you find it useful ⭐
 | [**✅HairWow**](https://www.gohairwow.com) | AI hairstyle try-on for previewing haircuts, colors, beards, and barber references from one photo. |
 | [**✅Image Describer**](https://imagedescriber.dev) | Generate detailed descriptions of uploaded images for accessibility, study, and content workflows in the browser. |
 | [**✅ImageChanger**](https://aiimagechanger.app/) | Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations. |
+| [**✅YingTu**](https://yingtu.ai/en) | Browser playground for testing AI image and video routes, prompts, reference inputs, sizes, and downloadable outputs. |
 | [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
 | [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
 | [**✅Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
