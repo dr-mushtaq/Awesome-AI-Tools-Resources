@@ -302,8 +302,8 @@ Star this repo if you find it useful ⭐
 | [**✅ImageChanger**](https://aiimagechanger.app/) | Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations. |
 | [**✅YingTu**](https://yingtu.ai/en) | Browser playground for testing AI image and video routes, prompts, reference inputs, sizes, and downloadable outputs. |
 | [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
-| [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |
-| [**✅Rao Edits**](https://raoedits.top/) | AI image generation and photo editing platform for creative projects, social content, and CapCut templates. |
+| [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |Free|
+| [**✅Rao Edits**](https://raoedits.top/) | AI image generation and photo editing platform for creative projects, social content, and CapCut templates. |Paid|
 | [**✅Canvas**](https://www.canva.com/) | Design and editing platform for images and presentations. |
 | [**✅ThisPersonDoesNotExist**](https://thispersondoesnotexist.com/) | AI-generated photorealistic human faces. |
 | [**✅Fal.ai**](https://fal.ai/) | AI platform for image transformation and enhancement. |
