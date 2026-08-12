@@ -481,6 +481,7 @@ Star this repo if you find it useful ⭐
 | [**SEOBOT**](https://seobot.com/) | SEO optimization and content tools. |
 | [**RankingRider**](https://www.rankingrider.com/) | AI-powered bulk SEO optimization for Shopify products via CSV. |
 | [**NotFair**](https://github.com/nowork-studio/NotFair) | Open-source Claude Code agent skills (~2.9k stars) for SEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. |
+| [**AISO Tools**](https://aisotools.com) | AI-search visibility (GEO) auditing — checks whether ChatGPT, Perplexity, and Google AI Overviews recommend a given site for a query, and reports the gaps blocking citation. Free audit; MCP server for agent access. |
 </details>
 
 <details> 
