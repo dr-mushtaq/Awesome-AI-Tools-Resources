@@ -23,7 +23,7 @@ This curated list highlights some of the most impactful and user-friendly **Free
 <img src="https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/1adb02cb-941f-4231-b9a6-15fc19593593_735x843.jpg"></a>
 </p>
 
-If you’d like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
+If you'd like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/dr-mushtaq/Awesome-AI-Tools-Resources?style=social)
 
@@ -214,7 +214,7 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
-| [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva’s AI suite (Magic Write, Magic Design, Magic Edit…)|
+| [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva's AI suite (Magic Write, Magic Design, Magic Edit…)|
 </details>
 
 <details> 
@@ -256,7 +256,7 @@ Star this repo if you find it useful ⭐
 | [**✅ Bookshelf**](https://chromewebstore.google.com/detail/bookshelf-folder-manager/ibjbgddbhlcookmdhehgljaneccjidik) | Folder Manager for NotebookLM |
 | [**✅ NotebookLM Tools**](https://chromewebstore.google.com/detail/notebooklm-tools/hiibkpjljigehlnnecbgehkhfibmahjn) |Sou need five different extensions to do what this one does |
 | [**✅ NotebookLM Ultra Exporter**](https://chromewebstore.google.com/detail/notebooklm-ultra-exporter/afchokljnhhggkhedfbmkcmdagjmjchj) |This adds export buttons to every asset you create in NotebookLM. Reports, slides, infographics, flashcards, mind maps, chat history — all downloadable in multiple formats..|
-| [**✅ NotebookLM Mindmap Extractor**](https://chromewebstore.google.com/detail/notebooklm-mindmap-export/jeaclciaoglkeohcfeobijdojpclkmkb)|NotebookLM only lets you download mind maps as PNG images. You can’t edit a single node.|
+| [**✅ NotebookLM Mindmap Extractor**](https://chromewebstore.google.com/detail/notebooklm-mindmap-export/jeaclciaoglkeohcfeobijdojpclkmkb)|NotebookLM only lets you download mind maps as PNG images. You can't edit a single node.|
 | [**✅ ExtendLM — NotebookLM Extension**](https://chromewebstore.google.com/detail/notebooklm-extension-exte/jefclkefiknlccjcjmkkhlcfkdgcmgcm) |You want one extension that handles importing, language switching, audio playlists, and a prompt manager — without paying fordfd anything.|
 | [**✅ kortex-notebooklm**](https://www.kortex-notebooklm.com/roadmap) |helps you make your workflow with notebooklm seamless and save you a lot of time..|
 | [**✅ Chrome extension to track AI and NLP conference deadlines**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
@@ -313,7 +313,39 @@ Star this repo if you find it useful ⭐
 | [**✅photopea**](https://www.photopea.com/) | Free image edit tool|
 | [**✅PhotoRestore.ai**](https://photorestore.ai) | AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images. Free trial. |
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
-| [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It’s close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
+| [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It's close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
+</details>
+
+<details> 
+<summary> <h2>🎨 Free AI Design & Image Tools — Free AI Tools Series Pt. 3</h2> </summary>
+
+Same rule as Parts 1 and 2: verified free tiers, not disguised trials. This round: design & image.
+
+| Title/Link | Description |Free-Paid|
+|---|---|---|
+| [**✅Canva**](https://www.canva.com/) | Free tier includes real AI features (Magic Studio, background remover, text-to-image), not locked behind Pro. |Free/Paid|
+| [**✅Adobe Firefly**](https://firefly.adobe.com/) | Free monthly generative credits, no card required to start. |Free/Paid|
+| [**✅Remove.bg**](https://www.remove.bg/) | Free background removal, no watermark on standard resolution. |Free/Paid|
+| [**✅Photopea**](https://www.photopea.com/) | Free browser-based Photoshop alternative, no signup needed at all. |Free|
+| [**✅Krea AI**](https://www.krea.ai/) | Free tier for real-time AI image generation. |Free/Paid|
+| [**✅Microsoft Designer**](https://designer.microsoft.com/) | Free, uses DALL·E under the hood, no separate subscription. |Free|
+| [**✅Ideogram**](https://ideogram.ai/) | Free daily credits, especially strong at generating readable text inside images. |Free/Paid|
+| [**✅Playground AI**](https://playground.com/) | Free daily image generations, decent editing tools built in. |Free/Paid|
+| [**✅Clipdrop**](https://clipdrop.co/) | Free tier covers background removal, upscaling, and relighting tools. |Free/Paid|
+| [**✅Vectorizer.ai**](https://vectorizer.ai/) | Free tier for converting raster images to vector, genuinely useful and often overlooked. |Free/Paid|
+
+**Bonus: Fully Open-Source (Free Forever, No Signup)**
+
+These aren't "free tier" — they're open-weight models you can run yourself, with zero recurring cost or watermark, ever:
+
+| Title/Link | Description |License|
+|---|---|---|
+| [**✅Stable Diffusion 3.5**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | The most mature open-source image model, huge community, tons of tutorials. Free to self-host. |Stability AI Community License|
+| [**✅FLUX.1 Schnell**](https://huggingface.co/black-forest-labs/FLUX.1-schnell) | Genuinely no strings attached, fast generation, strong quality. |Apache 2.0|
+| [**✅ComfyUI**](https://github.com/comfyanonymous/ComfyUI) | Free, node-based interface for running Stable Diffusion/FLUX locally, the standard tool serious hobbyists use. |Free|
+| [**✅AUTOMATIC1111 WebUI**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | The most beginner-friendly free interface for running Stable Diffusion on your own machine. |Free|
+| [**✅Qwen-Image**](https://huggingface.co/Qwen) | Particularly good at rendering readable text inside images, clear commercial rights. |Apache 2.0|
+
 </details>
 
 <details> 
@@ -321,8 +353,8 @@ Star this repo if you find it useful ⭐
 	
 | Title/Link | Description |Extra Resources|
 |---|---|---|
-| [**✅claude**](https://claude.ai/new) | or brainstorming and creative work. Claude has a “fresh” conversational feel and tends to suggest|[]()|
-| [**✅Grok**](https://grok.com/) | or brainstorming and creative work. Claude has a “fresh” conversational feel and tends to suggest|[]()|
+| [**✅claude**](https://claude.ai/new) | or brainstorming and creative work. Claude has a "fresh" conversational feel and tends to suggest|[]()|
+| [**✅Grok**](https://grok.com/) | or brainstorming and creative work. Claude has a "fresh" conversational feel and tends to suggest|[]()|
 | **✅Codex**| Codex is an AI model created by OpenAI. It powers tools like GitHub Copilot and the coding features in ChatGPT|[1](https://amanxai.com/2026/04/18/code-in-minutes-using-codex/?fbclid=IwY2xjawRP_0dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0gmfLVLzlm5NnHg2-VzWCA20CWs_08Nsr-88idjM4pp4D7NDoYWkZ1yjtA8_aem_xuT8mDF3509oFHO_JED1Qg)|
 </details>
 
@@ -334,7 +366,7 @@ Star this repo if you find it useful ⭐
 | [**✅Hugging Face Spaces and Hub**](https://huggingface.co/docs/hub/en/spaces) | lets you deploy model demos or apps with Gradio, Streamlit, or custom Docker.. |
 | [**✅Streamlit Community Cloud**](https://streamlit.io/cloud) | Its Community Cloud (formerly Streamlit Sharing) lets you deploy Streamlit (or plain Python) apps directly from a GitHub repo. |
 | [**✅Render (Free Web Services)**](https://render.com/docs/free) |Render is a cloud hosting provider (like Heroku) that offers a free tier. You can deploy web services (e.g. a Flask or FastAPI model server) or static sites to Render. |
-| [**✅PythonAnywhere**](https://www.pythonanywhere.com/) |You upload your code or connect a Git repo. It’s very beginner-friendly for small projects. You get a small amount of CPU and disk. |
+| [**✅PythonAnywhere**](https://www.pythonanywhere.com/) |You upload your code or connect a Git repo. It's very beginner-friendly for small projects. You get a small amount of CPU and disk. |
 </details>
 
 <details> 
@@ -352,7 +384,7 @@ Star this repo if you find it useful ⭐
 | [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
-| [**Kling 2.1 Master**](https://klingai.com/global/) | for image-to-video (Kling ended up at “God tier” in my most recent image-to-video test. Kling often upgrades its platform, introduces cool features, and gives free credits.. |
+| [**Kling 2.1 Master**](https://klingai.com/global/) | for image-to-video (Kling ended up at "God tier" in my most recent image-to-video test. Kling often upgrades its platform, introduces cool features, and gives free credits.. |
 | [**Wan 2.1**](https://github.com/Wan-Video/Wan2.1) |is still the best open-source video model and was Tier #1 in my image-to-video test. If you have the know-how and the hardware, you can even run it locally. If not, wan.video gives you free daily credits. |
 | [**CapCut**](https://www.capcut.com/my-edit?from_page=landing_page&start_tab=video) | it free site for video creation and editing |
 | [**online-video-cutter**](https://online-video-cutter.com/) | it free site for Video triming |
@@ -415,8 +447,8 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**Turnitin**](https://www.turnitin.com/login_page.asp?lang=en_us) | Widely used in academia for plagiarism detection. Recently, it has integrated AI text classification to identify content generated by tools like ChatGPT and other large language models. |
-| [**GPTZero**](https://gptzero.me/?via=startzero) | A popular AI-detection tool designed to spot text generated by ChatGPT, Bard, and even paid versions like GPT-4. It highlights “perplexity” and “burstiness” to flag AI-written text. |
-| [**Scribbr’s AI Detector**](https://www.scribbr.com/ai-detector/) | A free tool built on similar technology to Turnitin. While it shares some limitations, it’s accessible for students and educators looking for quick AI detection checks. |
+| [**GPTZero**](https://gptzero.me/?via=startzero) | A popular AI-detection tool designed to spot text generated by ChatGPT, Bard, and even paid versions like GPT-4. It highlights "perplexity" and "burstiness" to flag AI-written text. |
+| [**Scribbr's AI Detector**](https://www.scribbr.com/ai-detector/) | A free tool built on similar technology to Turnitin. While it shares some limitations, it's accessible for students and educators looking for quick AI detection checks. |
 | [**X-Detector**](https://xdetector.ai/) | Another free AI text detector using similar principles as Turnitin. Useful for basic checks, but not foolproof against advanced AI-generated writing. |
 
 </details>
@@ -537,12 +569,12 @@ Star this repo if you find it useful ⭐
 	
 | Title/Link | Description |Extra Resources|
 |---|---|---|
-| [**Notebook LM**](https://notebooklm.google.com/) | NotebookLM remains an easy recommendation! I’ve been a fan since March 2024, and NotebookLM only keeps getting better. Since my last update, NotebookLM introduced interactive mind maps, native source discovery, and multilingual audio podcasts based on your uploads. |[1](https://www.ai-supremacy.com/p/how-to-use-notebooklm-for-personalized)[2](https://excellentprompts.substack.com/p/notebooklm)[-2](https://www.learnwithmeai.com/p/notebooklm-and-gemini-i-built-2-ai)[-3](https://excellentprompts.substack.com/p/best-notebooklm-infographic-prompts)|
+| [**Notebook LM**](https://notebooklm.google.com/) | NotebookLM remains an easy recommendation! I've been a fan since March 2024, and NotebookLM only keeps getting better. Since my last update, NotebookLM introduced interactive mind maps, native source discovery, and multilingual audio podcasts based on your uploads. |[1](https://www.ai-supremacy.com/p/how-to-use-notebooklm-for-personalized)[2](https://excellentprompts.substack.com/p/notebooklm)[-2](https://www.learnwithmeai.com/p/notebooklm-and-gemini-i-built-2-ai)[-3](https://excellentprompts.substack.com/p/best-notebooklm-infographic-prompts)|
 | [**Notebook LM Alternative**](https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/NotebookLM%20alternatives.md) | |[1](https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/NotebookLM%20alternatives.md)|
-| [**Napkin**](https://napkin.one/) | Visual thinking tool to turn ideas into diagrams.Napkin automatically turns walls of text into catchy visuals like diagrams, infographics, etc. For design-challenged people like myself, it’s a superb way to illustrate concepts with minimal effort. |
+| [**Napkin**](https://napkin.one/) | Visual thinking tool to turn ideas into diagrams.Napkin automatically turns walls of text into catchy visuals like diagrams, infographics, etc. For design-challenged people like myself, it's a superb way to illustrate concepts with minimal effort. |
 | [**Learn About**](https://learning.google.com/experiments/learn-about/signup) |Learn About is another Google product that complements NotebookLM nicely. While NotebookLM is grounded in your preselected sources and synthesizes info across them, Learn About can browse the web and is built for open-ended exploration of any topic. |
-| [**Perplexity**](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false) |Perplexity I don’t use Perplexity too often, but its “Pro” search is a good midway point between simple web browsing and the time-intensive “Deep Research” tools. |
-| [**Google AI Studio**](https://aistudio.google.com/live?model=gemini-2.5-flash-preview-native-audio-dialog) |It’s still crazy to me that Google makes so much available for free via Google AI Studio. You can access its latest frontier models (Gemini 2.5 Pro), image generation, voice generation, coding tools, and live calls with screen or camera sharing. It’s a great way to sample most of what Google has to offer at no charge.. |
+| [**Perplexity**](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false) |Perplexity I don't use Perplexity too often, but its "Pro" search is a good midway point between simple web browsing and the time-intensive "Deep Research" tools. |
+| [**Google AI Studio**](https://aistudio.google.com/live?model=gemini-2.5-flash-preview-native-audio-dialog) |It's still crazy to me that Google makes so much available for free via Google AI Studio. You can access its latest frontier models (Gemini 2.5 Pro), image generation, voice generation, coding tools, and live calls with screen or camera sharing. It's a great way to sample most of what Google has to offer at no charge.. |
 | [**surfsense**](https://www.surfsense.com/dashboard/16523/new-chat/17533) |it is alternative of Notbookllm |
 | [**MindMap AI**](https://mindmapai.app/ai-summarizer) | A powerful AI mind mapping tool that converts text, PDFs, videos, and research into structured visual mind maps. Perfect for organizing ideas, planning content, and simplifying complex information for productivity, learning, and business workflows. |
 </details>
@@ -608,5 +640,3 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dr-mushtaq/Awesome-AI-Tools-Resources" />
 </a>
-
-   
