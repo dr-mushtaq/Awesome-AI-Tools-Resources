@@ -363,6 +363,8 @@ Star this repo if you find it useful ⭐
 | [**Video Upscaler**](https://videoupscaler.video) | Upscale and enhance video resolution in the browser for clearer playback and reuse. |
 | [**ImagineClip**](https://imagineclip.com?ref=awesome-ai-tools-resources) | AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects. |
 | [**Cyber Collector**](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io) |
+| [**Shotcut**](https://www.shotcut.org/) | free, open-source video editor, no AI built in but genuinely powerful and permanently free.|
+| [**OpenShot**](https://www.openshot.org/) | free, open-source, beginner-friendly editor |
 </details>
 
 <details>
