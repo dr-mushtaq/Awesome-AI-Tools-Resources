@@ -542,6 +542,7 @@ These aren't "free tier" — they're open-weight models you can run yourself, wi
 
 | Title/Link | Description |
 |---|---|
+| [**Agent QA**](https://github.com/vostride/agent-qa) | Runs natural-language web and mobile tests with persistent test memory, self-healing flows, and coding-agent integrations. `Testing, MCP, Free` |
 | [**AI Code Convert**](https://aicodeconvert.com/) | Translate code between programming languages. |
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
