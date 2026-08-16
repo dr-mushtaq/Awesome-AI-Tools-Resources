@@ -379,6 +379,7 @@ These aren't "free tier" — they're open-weight models you can run yourself, wi
 | [**Jitter**](https://jitter.video/) | Motion design tool for animated videos. |
 | [**Renderforest**](https://www.renderforest.com/) | Video, logo, and website maker. |
 | [**Lumen5**](https://lumen5.com/) | Turn text into video content. |
+| [**videos.social**](https://videos.social/?utm_source=dr-mushtaq-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. |
 | [**Kapwing**](https://www.kapwing.com/) | Online video editing and content creation platform. |
 | [**Canvas**](https://www.canva.com/) | (Also supports video creation and editing.) |
 | [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |
