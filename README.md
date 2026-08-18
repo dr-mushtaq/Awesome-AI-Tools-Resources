@@ -314,38 +314,19 @@ Star this repo if you find it useful ⭐
 | [**✅PhotoRestore.ai**](https://photorestore.ai) | AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images. Free trial. |
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
 | [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It's close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
-</details>
-
-<details> 
-<summary> <h2>🎨 Free AI Design & Image Tools — Free AI Tools Series Pt. 3</h2> </summary>
-
-Same rule as Parts 1 and 2: verified free tiers, not disguised trials. This round: design & image.
-
-| Title/Link | Description |Free-Paid|
-|---|---|---|
-| [**✅Canva**](https://www.canva.com/) | Free tier includes real AI features (Magic Studio, background remover, text-to-image), not locked behind Pro. |Free/Paid|
 | [**✅Adobe Firefly**](https://firefly.adobe.com/) | Free monthly generative credits, no card required to start. |Free/Paid|
 | [**✅Remove.bg**](https://www.remove.bg/) | Free background removal, no watermark on standard resolution. |Free/Paid|
-| [**✅Photopea**](https://www.photopea.com/) | Free browser-based Photoshop alternative, no signup needed at all. |Free|
 | [**✅Krea AI**](https://www.krea.ai/) | Free tier for real-time AI image generation. |Free/Paid|
 | [**✅Microsoft Designer**](https://designer.microsoft.com/) | Free, uses DALL·E under the hood, no separate subscription. |Free|
 | [**✅Ideogram**](https://ideogram.ai/) | Free daily credits, especially strong at generating readable text inside images. |Free/Paid|
 | [**✅Playground AI**](https://playground.com/) | Free daily image generations, decent editing tools built in. |Free/Paid|
 | [**✅Clipdrop**](https://clipdrop.co/) | Free tier covers background removal, upscaling, and relighting tools. |Free/Paid|
 | [**✅Vectorizer.ai**](https://vectorizer.ai/) | Free tier for converting raster images to vector, genuinely useful and often overlooked. |Free/Paid|
-
-**Bonus: Fully Open-Source (Free Forever, No Signup)**
-
-These aren't "free tier" — they're open-weight models you can run yourself, with zero recurring cost or watermark, ever:
-
-| Title/Link | Description |License|
-|---|---|---|
 | [**✅Stable Diffusion 3.5**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | The most mature open-source image model, huge community, tons of tutorials. Free to self-host. |Stability AI Community License|
-| [**✅FLUX.1 Schnell**](https://huggingface.co/black-forest-labs/FLUX.1-schnell) | Genuinely no strings attached, fast generation, strong quality. |Apache 2.0|
+| [**✅FLUX.1 Schnell**](https://huggingface.co/black-forest-labs/FLUX.1-schnell) | Apache 2.0 licensed, genuinely no strings attached, fast generation, strong quality. |Apache 2.0, Free|
 | [**✅ComfyUI**](https://github.com/comfyanonymous/ComfyUI) | Free, node-based interface for running Stable Diffusion/FLUX locally, the standard tool serious hobbyists use. |Free|
 | [**✅AUTOMATIC1111 WebUI**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | The most beginner-friendly free interface for running Stable Diffusion on your own machine. |Free|
-| [**✅Qwen-Image**](https://huggingface.co/Qwen) | Particularly good at rendering readable text inside images, clear commercial rights. |Apache 2.0|
-
+| [**✅Qwen-Image**](https://huggingface.co/Qwen) | Apache 2.0 license (clear commercial rights), particularly good at rendering readable text inside images. |Apache 2.0, Free|
 </details>
 
 <details> 
