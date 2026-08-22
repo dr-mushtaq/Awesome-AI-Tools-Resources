@@ -529,6 +529,7 @@ Star this repo if you find it useful ⭐
 | [**AI Code Convert**](https://aicodeconvert.com/) | Translate code between programming languages. |
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
+| [**Orkas**](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. `Agents, Desktop, Free` |
 | [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
 | [**zencoder**](https://zencoder.ai/download) | Latest ML papers with linked code. |
 </details>
