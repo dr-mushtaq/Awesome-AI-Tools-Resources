@@ -353,8 +353,8 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>🎬 Video Tools </h2> </summary>
 
-| Title/Link | Description |
-|---|---|
+| Title/Link | Description |Free-Paid|
+|---|---|---|
 | [**Gling.ai**](https://www.gling.ai/) | AI video editing tool for creators. |
 | [**Online Video Cutter**](https://online-video-cutter.com/) | Simple video trimming and cutting tool. |
 | [**Jitter**](https://jitter.video/) | Motion design tool for animated videos. |
@@ -363,7 +363,7 @@ Star this repo if you find it useful ⭐
 | [**videos.social**](https://videos.social/?utm_source=dr-mushtaq-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. |
 | [**Kapwing**](https://www.kapwing.com/) | Online video editing and content creation platform. |
 | [**Canvas**](https://www.canva.com/) | (Also supports video creation and editing.) |
-| [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |
+| [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |Free|
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
 | [**Kling 2.1 Master**](https://klingai.com/global/) | for image-to-video (Kling ended up at "God tier" in my most recent image-to-video test. Kling often upgrades its platform, introduces cool features, and gives free credits.. |
