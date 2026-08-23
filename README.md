@@ -619,7 +619,7 @@ All source code and educational material in this repository are released under t
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI Tool that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
-                       Together, let's make this the best AI learning hub website! 🚀
+                       Together, let's make this the best AI Tools hub website! 🚀
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
