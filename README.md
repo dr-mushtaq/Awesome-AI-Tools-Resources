@@ -154,6 +154,10 @@ Star this repo if you find it useful ⭐
 | 33 | [✅𝐖𝐢𝐬𝐏𝐚𝐩𝐞𝐫](https://www.wispaper.ai/app/search?utm_source=ldn&utm_content=faheem) |Helps you in searching papers for your literature review | — | — |
 | 34 | [✅ 𝐏𝐚𝐭𝐒𝐧𝐚𝐩 𝐄𝐮𝐫𝐞𝐤𝐚](https://eureka.patsnap.com/ai-search/sess_834d0110244945a1) |➝ Helps you in identifying trends in your research field|--|--|
 | 35 | [✅Paperguide](https://www.wispaper.ai/app/search?utm_source=ldn&utm_content=faheem) |Paperguide to run full systematic screening, extraction, and drafting. | — | — |
+| 36 | [✅Lateral](https://lateral.io/) |Organise, analyse and connect academic research | — | — |
+| 37 | [✅ undermind.ai](https://www.undermind.ai/mcp) |AI research agent that hunts deeply through scientific literature | — | — |
+| 38 | [✅ Afforai](https://logically.app/reference-manager) |Research assistant for searching and analysing multiple source | — | — |
+| 39 | [✅ Sourcely](https://app.sourcely.net/signup) |Finds credible academic sources for your writing | — | — |
 | — | — |
  
 
