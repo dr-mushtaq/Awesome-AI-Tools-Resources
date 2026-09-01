@@ -212,6 +212,14 @@ Star this repo if you find it useful ⭐
 | [**AskSurf.ai**](https://asksurf.ai/chat) | Perfect for those in finance, crypto, or research-heavy fields. You can ask complex questions about markets, compani |
 </details>
 
+<details> 
+<summary> <h2>📚 Important Platform to Learn AI </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**OpenAI Academy**](https://academy.openai.com/public/clubs/builders-etkn1/videos/codex-for-software-engineers-2026-03-13 | Perfect for those in finance, crypto, or research-heavy fields. You can ask complex questions about markets, compani |
+</details>
+
 
 <details> 
 <summary> <h2>📚 Design Tool </h2> </summary>
