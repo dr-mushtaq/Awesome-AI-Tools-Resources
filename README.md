@@ -217,7 +217,8 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
-| [**OpenAI Academy**](https://academy.openai.com/) | Perfect for those in finance, crypto, or research-heavy fields. You can ask complex questions about markets, compani |
+| [✅**OpenAI Academy**](https://academy.openai.com/) | Learn AI foundations, applied AI, agents, workflows, and practical AI skills. |
+| [✅**Hugging Face Learn**](https://huggingface.co/learn) | Explore LLMs, AI agents, diffusion models, computer vision, audio, robotics, and open-source AI.  |
 </details>
 
 
