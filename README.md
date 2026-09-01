@@ -219,6 +219,8 @@ Star this repo if you find it useful ⭐
 |---|---|
 | [✅**OpenAI Academy**](https://academy.openai.com/) | Learn AI foundations, applied AI, agents, workflows, and practical AI skills. |
 | [✅**Hugging Face Learn**](https://huggingface.co/learn) | Explore LLMs, AI agents, diffusion models, computer vision, audio, robotics, and open-source AI.  |
+| [✅**Google AI**](https://huggingface.co/learn) | Explore Generative AI, LLMs, AI agents, Gemini, AI fundamentals, and Google's latest AI learning resources. |
+| [✅**Hugging Face Learn**](https://huggingface.co/learn) | Explore LLMs, AI agents, diffusion models, computer vision, audio, robotics, and open-source AI.  |
 </details>
 
 
