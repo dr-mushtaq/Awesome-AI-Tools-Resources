@@ -221,6 +221,11 @@ Star this repo if you find it useful ⭐
 | [✅**Hugging Face Learn**](https://huggingface.co/learn) | Explore LLMs, AI agents, diffusion models, computer vision, audio, robotics, and open-source AI.  |
 | [✅**Google AI**](https://huggingface.co/learn) | Explore Generative AI, LLMs, AI agents, Gemini, AI fundamentals, and Google's latest AI learning resources. |
 | [✅**Hugging Face Learn**](https://huggingface.co/learn) | Explore LLMs, AI agents, diffusion models, computer vision, audio, robotics, and open-source AI.  |
+| [✅**Microsoft Learn AI**](https://learn.microsoft.com/en-us/ai/) | Build skills in Generative AI, AI agents, Microsoft Foundry, Azure AI, Copilot, and enterprise AI   |
+| [✅**NVIDIA Deep Learning Institute**](https://www.nvidia.com/en-us/training/) | Develop hands-on skills in Generative AI, LLMs, deep learning, AI infrastructure, and accelerated computing.  |
+| [✅**AWS Skill Builder**](https://skillbuilder.aws/) | Build practical cloud and AI skills with AWS training, hands-on labs, and AI-focused learning experiences.   |
+| [✅**IBM SkillsBuild**]( [Learn AI, data, cybersecurity, and other technology skills through free learning resources from IBM.](https://skillsbuild.org/) ) |  Learn AI, data, cybersecurity, and other technology skills through free learning resources from IBM.   |
+
 </details>
 
 
