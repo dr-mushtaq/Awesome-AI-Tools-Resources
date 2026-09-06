@@ -546,6 +546,7 @@ Star this repo if you find it useful ⭐
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
 | [**Orkas**](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. `Agents, Desktop, Free` |
 | [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
+| [**YYLO**](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree. `Agents, CLI, Open-Source` |
 | [**zencoder**](https://zencoder.ai/download) | Latest ML papers with linked code. |
 </details>
 
