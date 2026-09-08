@@ -246,6 +246,14 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
+<summary> <h2>📚 PDF Tools</h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**✅pdf24**](https://tools.pdf24.org/en/extract-pdf-pages) |extract specific page from pdf files|
+</details>
+
+<details> 
 <summary> <h2>📚 Important Github Repo</h2> </summary>
 
 | Title/Link | Description |
