@@ -169,6 +169,7 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |Tage|
 |---|---|---|
+| [**StudyArena**](https://studyarena.com) | Students compare three anonymous AI answers to a study question, vote, and then reveal the models for free. | Multi-Model, Chatbot, Free Tier, Web |
 | [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |Directory,Paid,Free,Tire|
 | [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |Chatbot, Paid, Free Tier|
 | [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. | Assistant, Free, Microsoft
