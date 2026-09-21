@@ -218,7 +218,12 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
-|**LangChain / LangGraph**| If you’re building LLM applications, I’d learn LangChain and especially LangGraph |
+|**✅LangChain / LangGraph**| If you’re building LLM applications, I’d learn LangChain and especially LangGraph |
+|**✅Hugging Face**| t’s important for AI Engineers not to rely only on hosted models and APIs. |
+|**✅MLflow**| t’s including experiment tracking, model lifecycle management, tracing, evaluation, and observability. |
+|**✅Docker**| Docker packages your app and its dependencies into a consistent environment.. |
+|**✅An LLM API + Evaluation Stack**| ocus on understanding the whole workflow of using an LLM in an application. |
+</details>
 </details>
 
 <details> 
