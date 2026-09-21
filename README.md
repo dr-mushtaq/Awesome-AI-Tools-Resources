@@ -214,6 +214,14 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
+<summary> <h2>📚 AI Tools to Learn for AI Engineer Roles </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+|**LangChain / LangGraph**| If you’re building LLM applications, I’d learn LangChain and especially LangGraph |
+</details>
+
+<details> 
 <summary> <h2>📚 Important Platform to Learn AI </h2> </summary>
 
 | Title/Link | Description |
