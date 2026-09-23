@@ -544,6 +544,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**LifeIsTooShort**](https://lifeistooshort.dev/) | Dev-focused productivity tools and quotes. |
+| [**NextReset**](https://nextreset.ai/) | Source-linked public Codex reset history, official AI service incidents, and a browser-local personal timer. |
 </details>
 
 <details> 
