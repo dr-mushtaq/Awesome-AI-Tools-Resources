@@ -424,6 +424,7 @@ Star this repo if you find it useful ⭐
 | [**SEELE TV**](https://seele.tv/) | Browser-based AI video creation studio. |
 | [**OpenShot**](https://www.openshot.org/) | free, open-source, beginner-friendly editor |
 | [**OrkasVideoStudio**](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed CLI and MCP toolkit for coding agents to build editable JSON timelines and assemble videos automatically. `Open-Source, TypeScript` |
+| [**shortshort**](https://www.shortshort.io/) | Turns a long video upload or YouTube link into vertical 9:16 shorts with word-by-word captions and face-tracked reframing. `Video, Web, Freemium` |Freemium|
 </details>
 
 <details>
