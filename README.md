@@ -374,8 +374,8 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>🖼️ Code Writing Tool </h2> </summary>
 	
-| Title/Link | Description |Extra Resources|
-|---|---|---|
+| Title/Link | Description |Extra Resources|Paid/Unpaid|
+|---|---|---|---|
 | [**✅claude**](https://claude.ai/new) | or brainstorming and creative work. Claude has a "fresh" conversational feel and tends to suggest|[]()|
 | [**✅Grok**](https://grok.com/) | or brainstorming and creative work. Claude has a "fresh" conversational feel and tends to suggest|[]()|
 | **✅Codex**| Codex is an AI model created by OpenAI. It powers tools like GitHub Copilot and the coding features in ChatGPT|[1](https://amanxai.com/2026/04/18/code-in-minutes-using-codex/?fbclid=IwY2xjawRP_0dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0gmfLVLzlm5NnHg2-VzWCA20CWs_08Nsr-88idjM4pp4D7NDoYWkZ1yjtA8_aem_xuT8mDF3509oFHO_JED1Qg)[-2](https://academy.openai.com/public/clubs/builders-etkn1/videos/codex-for-software-engineers-2026-03-13)[-3](https://charliehills.substack.com/p/codex-beginner-advanced?utm_source=share&utm_medium=android&r=f2squ)|
