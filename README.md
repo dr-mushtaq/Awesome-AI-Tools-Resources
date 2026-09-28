@@ -435,6 +435,7 @@ Star this repo if you find it useful ⭐
 | [**You.com**](https://you.com/) | AI-powered search and writing assistant. |
 | [**Video to Blog**](https://www.videotoblog.com/) | Converts video content into written blog posts. |
 | [**Perplexity.ai**](https://www.perplexity.ai/) | Research assistant that answers questions with citations. |
+| [**kdpbook.io**](https://kdpbook.io/?utm_source=dr-mushtaq-awesome-ai-tools&utm_medium=github) | AI book studio for Amazon KDP: describe a book in a chat, get print PDF, cover, Kindle eBook and listing. `Writing, Web, Freemium` |
 </details>
 
 <details> 
