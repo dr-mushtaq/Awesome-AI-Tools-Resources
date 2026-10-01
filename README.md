@@ -572,6 +572,7 @@ Star this repo if you find it useful ⭐
 | [**OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay) | Records a coding-agent run beneath the harness and replays it offline from the recording with no model called. `CLI, MCP, Open-Source` |
 | [**Orkas**](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. `Agents, Desktop, Free` |
 | [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
+| [**RunAPI MCP Server**](https://github.com/runapi-ai/mcp) | Discovers models and runs image, video, music, audio, and other model API tasks from AI agents. `MCP, Models, Open-Source` |
 | [**YYLO**](https://github.com/yylo-dev/yylo) | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree. `Agents, CLI, Open-Source` |
 | [**zencoder**](https://zencoder.ai/download) | Latest ML papers with linked code. |
 </details>
