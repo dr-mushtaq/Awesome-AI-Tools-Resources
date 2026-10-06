@@ -571,6 +571,7 @@ Star this repo if you find it useful ⭐
 | [**AI Code Convert**](https://aicodeconvert.com/) | Translate code between programming languages. |
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
+| [**Hyperconsciousness**](https://github.com/louis030195/hyperconsciousness) | Developer-alpha Rust knowledge store with encrypted, append-only records, device sync, and scoped, expiring MCP access for AI agents. `MCP, Rust, Open-Source` |
 | [**OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay) | Records a coding-agent run beneath the harness and replays it offline from the recording with no model called. `CLI, MCP, Open-Source` |
 | [**Orkas**](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. `Agents, Desktop, Free` |
 | [**Papers With Code**](https://paperswithcode.com/) | Latest ML papers with linked code. |
