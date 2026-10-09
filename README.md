@@ -499,6 +499,7 @@ Star this repo if you find it useful ⭐
 | [**Dooe**](https://dooe.io/) | AI-powered task management assistant. |
 | [**Microsoft Project**](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Project planning and tracking tool. |
 | [**SmartSheet**](https://www.smartsheet.com/) | Cloud-based platform for work management. |
+| [**Tale**](https://github.com/tale-project/tale) | Self-hosted project workspace where people and AI agents share tasks, files, knowledge, and review reports and work outputs. `Open source` `Self-hosted` `AI agents` |
 </details>
 
 <details> 
