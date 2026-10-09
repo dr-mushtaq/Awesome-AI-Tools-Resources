@@ -459,9 +459,12 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>✍️ Text to Spech </h2> </summary>
 
-| Title/Link | Description |
-|---|---|
+| Title/Link | Description |Paid-Free|
+|---|---|---|
 | [**✅tts**](https://tts.thinkins.xyz/) | convert text to spech |
+| **✅Whisper (OpenAI)** | Free, open-source speech recognition |Free|
+| **✅Rev**| Professional transcription service |
+| **✅Sonix**|Automatic transcription and translation|
 </details>
 
 <details> 
