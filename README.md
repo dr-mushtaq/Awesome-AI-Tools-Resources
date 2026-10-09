@@ -494,12 +494,12 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>✅ Project & Task Management </h2> </summary>
 
-| Title/Link | Description |
-|---|---|
+| Title/Link | Description |Free-Paid
+|---|---|---|
 | [**Dooe**](https://dooe.io/) | AI-powered task management assistant. |
 | [**Microsoft Project**](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Project planning and tracking tool. |
 | [**SmartSheet**](https://www.smartsheet.com/) | Cloud-based platform for work management. |
-| [**Tale**](https://github.com/tale-project/tale) | Self-hosted project workspace where people and AI agents share tasks, files, knowledge, and review reports and work outputs. `Open source` `Self-hosted` `AI agents` |
+| [**Tale**](https://github.com/tale-project/tale) | Self-hosted project workspace where people and AI agents share tasks, files, knowledge, and review reports and work outputs. `Open source` `Self-hosted` `AI agents` |Free|
 </details>
 
 <details> 
@@ -632,8 +632,8 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>✨ Prompt Engineering Tools</h2> </summary>
 
-| Title/Link | Description |
-|---|---|
+| Title/Link | Description |Free-Paid|
+|---|---|---|
 | [**✅Prompt Refiner**](https://promptrefiner.ai/) | Optimizes rough ideas into high-quality prompts. |
 | [**✅Enhanceaigpt**](https://enhanceaigpt.com/auth) | It enghance the prompt and give high-quality prompts. |
 | [**✅Prompt Engine**](https://www.promptengine.cc/free-tools/chatgpt-prompt-improver) | Turn your existing ChatGPT prompt into a more powerful version that will get you the best result possible every single time.|
