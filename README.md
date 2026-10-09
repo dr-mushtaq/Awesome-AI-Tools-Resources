@@ -660,6 +660,17 @@ Star this repo if you find it useful ⭐
 | [**🚀 Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help) | Important tool and webiste for education |
 </details>
 
+<details> 
+<summary> <h2>🎙️ Voice AI Agents & Tools</h2> </summary>
+
+| Title/Link | Description | Free-Paid |
+|---|---|---|
+| [**✅Voiceflow**](https://www.voiceflow.com/) | Build conversational voice experiences and chatbots without coding for voice and chat platforms. | Free/Paid |
+| [**✅Rasa**](https://rasa.com/) | Open-source framework for building contextual AI assistants with natural language understanding and voice capabilities. | Open-Source, Free |
+| [**✅Dialogflow**](https://cloud.google.com/dialogflow) | Google's conversational AI platform for building voice and text agents with NLU and multi-channel deployment. | Free/Paid |
+
+</details>
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
