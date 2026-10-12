@@ -434,6 +434,7 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
+| [**WarmQuant**](https://warmquant.com/) | Turns notes into editable English drafts using writing angles, author and reader personas, with saved drafts. `Writing, Web, Freemium` |
 | [**You.com**](https://you.com/) | AI-powered search and writing assistant. |
 | [**Video to Blog**](https://www.videotoblog.com/) | Converts video content into written blog posts. |
 | [**Perplexity.ai**](https://www.perplexity.ai/) | Research assistant that answers questions with citations. |
@@ -628,7 +629,9 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
+| [**Botstest**](https://botstest.com/) | Categorized embodied-AI and robotics resource directory covering robot learning, simulation, models, datasets, ROS 2 and hardware. `Robotics, Web, Free` |
 | [**FreeToolSuite**](https://freetoolsuite.com/tools/mass-converter) | A collection of handy online tools including converters, calculators, and other utilities — all available for free. |
+| [**WeWorkBuddy**](https://weworkbuddy.com/) | Research workspace for AI creators to review traceable sources, save topic candidates, organize tasks and export assessments. `Research, Web, Free Explorer` |
 
 </details>
 
