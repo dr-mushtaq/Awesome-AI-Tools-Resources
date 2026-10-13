@@ -555,6 +555,7 @@ Star this repo if you find it useful ⭐
 |---|---|
 | [**LifeIsTooShort**](https://lifeistooshort.dev/) | Dev-focused productivity tools and quotes. |
 | [**NextReset**](https://nextreset.ai/) | Source-linked public Codex reset history, official AI service incidents, and a browser-local personal timer. |
+| [**QuietTake**](https://noiseremover.site/) | Free browser-based speech noise reduction with local RNNoise processing, playback comparison, and mono WAV export; 50MB/five-minute limits. `Free, Web, Speech Cleanup, Local` |
 </details>
 
 <details> 
