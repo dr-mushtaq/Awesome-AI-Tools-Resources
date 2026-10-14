@@ -546,6 +546,7 @@ Star this repo if you find it useful ⭐
 | [**NotFair**](https://github.com/nowork-studio/NotFair) | Open-source Claude Code agent skills (~2.9k stars) for SEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. |
 | [**AISO Tools**](https://aisotools.com) | AI-search visibility (GEO) auditing — checks whether ChatGPT, Perplexity, and Google AI Overviews recommend a given site for a query, and reports the gaps blocking citation. Free audit; MCP server for agent access. |
 | [**LogNorm**](https://lognorm.com) | SEO and GEO growth backlog worked by AI agents (Claude Code, Codex, Cursor) via MCP; free plan for 1 website. |
+| [**looot-seo**](https://github.com/loootai/looot-seo) | Self-hosted, MIT-licensed SEO workspace for rank tracking, keyword research, SERP snapshots and backlinks; shows the price of each refresh before it runs. Data is prepaid per call through looot. |Paid|
 </details>
 
 <details> 
