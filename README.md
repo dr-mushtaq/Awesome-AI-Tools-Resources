@@ -576,6 +576,7 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
+| [**Aident Loadout**](https://aident.ai) | Remote MCP for coding agents (Codex, Claude Code, Cursor): 400+ Skills and app actions with vaulted credentials and audit. `MCP, Agents, Freemium` |
 | [**Agent QA**](https://github.com/vostride/agent-qa) | Runs natural-language web and mobile tests with persistent test memory, self-healing flows, and coding-agent integrations. `Testing, MCP, Free` |
 | [**AI Code Convert**](https://aicodeconvert.com/) | Translate code between programming languages. |
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
