@@ -674,6 +674,7 @@ Star this repo if you find it useful ⭐
 | [**✅Voiceflow**](https://www.voiceflow.com/) | Build conversational voice experiences and chatbots without coding for voice and chat platforms. | Free/Paid |
 | [**✅Rasa**](https://rasa.com/) | Open-source framework for building contextual AI assistants with natural language understanding and voice capabilities. | Open-Source, Free |
 | [**✅Dialogflow**](https://cloud.google.com/dialogflow) | Google's conversational AI platform for building voice and text agents with NLU and multi-channel deployment. | Free/Paid |
+| [**✅CareJobs.Now**](https://carejobs.now) | Free AI job search for US healthcare workers: describe the job in plain words and it matches 170,000+ hospital and clinic jobs with posted pay |
 
 </details>
 
