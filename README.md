@@ -171,6 +171,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 | [**StudyArena**](https://studyarena.com) | Students compare three anonymous AI answers to a study question, vote, and then reveal the models for free. | Multi-Model, Chatbot, Free Tier, Web |
 | [**AI Tools Radar**](https://aitoolsradar.com/) | Multilingual directory for comparing AI tools, models, agent skills, and prompts, with industry news and newsletters. | Directory, Web, Free browsing |
+| [**CodeTrendy**](https://codetrendy.com/) | Curated directory of newly launched startups, SaaS and AI tools, with a free read-only MCP server for AI assistants. | Directory, Web, Free, MCP |
 | [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |Directory,Paid,Free,Tire|
 | [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |Chatbot, Paid, Free Tier|
 | [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. | Assistant, Free, Microsoft
