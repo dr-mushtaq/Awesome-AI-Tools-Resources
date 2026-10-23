@@ -291,6 +291,7 @@ Star this repo if you find it useful ⭐
 | [**✅ SaveDay**](https://chromewebstore.google.com/detail/saveday-ai-bookmark-manag/gmfaoihlkhopieoibopcponemocgbloj) |Save and organize bookmarks with AI|
 | [**✅ Save my Chatbot**](https://chromewebstore.google.com/detail/save-my-chatbot-ai-conver/agklnagmfeooogcppjccdnoallkhgkod) |Download any AI chat as a markdown file|
 | [**✅ Scholarcy**](https://chromewebstore.google.com/detail/scholarcy-browser-extensi/oekgknkmgmaehhpegfeioenikocgbcib) |Make research papers more digestible|
+| [**✅ SummarizAI**](https://chromewebstore.google.com/detail/gadopdpeiejacbbmabahjpoikfdojjne) |AI summaries, chapters, chat, and Study flashcards on the YouTube watch page; free plan for students|
 | [**✅ Scribe**](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii?hl=en) |Save your process as a shareable doc|
 | [**✅ Teleprompt AI**](https://chromewebstore.google.com/detail/teleprompt-ai-%E2%80%93-prompt-ge/alfpjlcndmeoainjfgbbnphcidpnmoae) |Write better prompts inside any AI chat|
 | [**✅ Trancy**](https://chromewebstore.google.com/detail/trancy-immersive-translat/mjdbhokoopacimoekfgkcoogikbfgngb) |Learn languages while watching videos|
