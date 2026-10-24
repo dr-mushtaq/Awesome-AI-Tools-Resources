@@ -348,6 +348,7 @@ Star this repo if you find it useful ⭐
 | [**✅HairWow**](https://www.gohairwow.com) | AI hairstyle try-on for previewing haircuts, colors, beards, and barber references from one photo. |
 | [**✅Image Describer**](https://imagedescriber.dev) | Generate detailed descriptions of uploaded images for accessibility, study, and content workflows in the browser. |
 | [**✅ImageChanger**](https://aiimagechanger.app/) | Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations. |
+| [**artgen**](https://artgen.net/en/tools/image-to-pixel-art) | Free browser AI image tools: pixel art converter, ASCII art generator, and background removal. |
 | [**✅YingTu**](https://yingtu.ai/en) | Browser playground for testing AI image and video routes, prompts, reference inputs, sizes, and downloadable outputs. |
 | [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
 | [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |Free|
@@ -583,6 +584,7 @@ Star this repo if you find it useful ⭐
 |---|---|
 | [**Aident Loadout**](https://aident.ai) | Remote MCP for coding agents (Codex, Claude Code, Cursor): 400+ Skills and app actions with vaulted credentials and audit. `MCP, Agents, Freemium` |
 | [**Agent QA**](https://github.com/vostride/agent-qa) | Runs natural-language web and mobile tests with persistent test memory, self-healing flows, and coding-agent integrations. `Testing, MCP, Free` |
+| [**System One API**](https://system-one.dev/en/api) | Unified AI API and open-source SDK (`@system-one-ai/core`) for models and agents. Early OSS (~2 GitHub stars). `API, Agents, Open-Source` |
 | [**AI Code Convert**](https://aicodeconvert.com/) | Translate code between programming languages. |
 | [**Traycer**](https://traycer.dev/) | Real-time code reviews with AI. |
 | [**Hugging Face**](https://huggingface.co/) | Model hosting, datasets, and ML pipelines. |
