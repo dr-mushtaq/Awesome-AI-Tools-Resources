@@ -413,6 +413,9 @@ Star this repo if you find it useful ⭐
 | [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |Free|
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
+| [**Alors On Danse Video Maker**](https://alorsondansevideo.com/) | Independent AI: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok. |Paid|
+| [**Bad Times AI**](https://badtimesai.dev/) | Independent AI dance effect: one photo → 14–15s portrait dance video. |Paid|
+| [**I Found You in the Crowd AI**](https://ifoundyouinthecrowdai.com/) | Independent AI scene effect: two photos → balcony/spotlight meeting video. |Paid|
 | [**Kling 2.1 Master**](https://klingai.com/global/) | for image-to-video (Kling ended up at "God tier" in my most recent image-to-video test. Kling often upgrades its platform, introduces cool features, and gives free credits.. |
 | [**Wan 2.1**](https://github.com/Wan-Video/Wan2.1) |is still the best open-source video model and was Tier #1 in my image-to-video test. If you have the know-how and the hardware, you can even run it locally. If not, wan.video gives you free daily credits. |
 | [**CapCut**](https://www.capcut.com/my-edit?from_page=landing_page&start_tab=video) | it free site for video creation and editing |
