@@ -173,6 +173,7 @@ Star this repo if you find it useful ⭐
 | [**AI Tools Radar**](https://aitoolsradar.com/) | Multilingual directory for comparing AI tools, models, agent skills, and prompts, with industry news and newsletters. | Directory, Web, Free browsing |
 | [**CodeTrendy**](https://codetrendy.com/) | Curated directory of newly launched startups, SaaS and AI tools, with a free read-only MCP server for AI assistants. | Directory, Web, Free, MCP |
 | [**MEDIAPRONET**](https://mediapronet.com/) | Launch and discovery directory where builders list newly shipped startups and SaaS tools, with a free read-only MCP server. | Directory, Web, Free, MCP |
+| [**SitePatent**](https://sitepatent.com/) | Human-reviewed discovery directory of startups, tools and online products, with a free read-only MCP server for AI assistants. | Directory, Web, Free, MCP |
 | [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |Directory,Paid,Free,Tire|
 | [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |Chatbot, Paid, Free Tier|
 | [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. | Assistant, Free, Microsoft
