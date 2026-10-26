@@ -307,6 +307,14 @@ Star this repo if you find it useful ⭐
 | [**✅ ExtendLM — NotebookLM Extension**](https://chromewebstore.google.com/detail/notebooklm-extension-exte/jefclkefiknlccjcjmkkhlcfkdgcmgcm) |You want one extension that handles importing, language switching, audio playlists, and a prompt manager — without paying fordfd anything.|
 | [**✅ kortex-notebooklm**](https://www.kortex-notebooklm.com/roadmap) |helps you make your workflow with notebooklm seamless and save you a lot of time..|
 | [**✅ Chrome extension to track AI and NLP conference deadlines**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**✅  ExCitation**](https://excitation.tech/ ) |Journal Rankings Data|
+| **[Rapid Journal Quality Check**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**Orbit Scholar Grade Overlay*](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**Impact Factor Fider**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**Paperpop**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**google scholar pdf reader**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines
+| [**google scholar author highlighter**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**alt metrix for pubmed and google scholar**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
 
 </details>
 
