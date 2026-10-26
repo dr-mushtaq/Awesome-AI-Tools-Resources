@@ -454,6 +454,7 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
+| [**✅NeverApply**](https://neverapply.co) | AI job-search agent that matches you to jobs, tailors your resume for each role, and applies with your approval |
 | [**WarmQuant**](https://warmquant.com/) | Turns notes into editable English drafts using writing angles, author and reader personas, with saved drafts. `Writing, Web, Freemium` |
 | [**You.com**](https://you.com/) | AI-powered search and writing assistant. |
 | [**Video to Blog**](https://www.videotoblog.com/) | Converts video content into written blog posts. |
@@ -475,6 +476,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅interviews.chat**](https://www.interviews.chat/#interview-copilot) | Interview AI delivers real-time suggestions and live transcription to keep you sharp and confident throughout your interview |
+| [**✅NeverApply**](https://neverapply.co) | AI job-search agent that matches you to jobs, tailors your resume for each role, and applies with your approval |
 </details>
 
 <details> 
