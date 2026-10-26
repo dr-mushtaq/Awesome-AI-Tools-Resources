@@ -501,6 +501,7 @@ Star this repo if you find it useful ⭐
 
 | Title/Link | Description |
 |---|---|
+| [**deed.page**](https://deed.page) | Static hosting for AI agents: publish HTML or a folder with one HTTP PUT or remote MCP server and get a live https URL. `Hosting, AI Agents, MCP, Free plan` |
 | [**Hex Colors**](https://www.hexcolortool.com/) | Tool for picking and converting color codes. |
 </details>
 
