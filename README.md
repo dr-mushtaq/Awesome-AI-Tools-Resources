@@ -475,6 +475,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅interviews.chat**](https://www.interviews.chat/#interview-copilot) | Interview AI delivers real-time suggestions and live transcription to keep you sharp and confident throughout your interview |
+| [**JobEmerge**](https://www.jobemerge.work) | Job-fit test, 19-language resume translator, Markdown editor, text mock interviews, and application tracker. `Career, Web, Freemium` |
 </details>
 
 <details> 
