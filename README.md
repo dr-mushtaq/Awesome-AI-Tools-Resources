@@ -475,6 +475,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅interviews.chat**](https://www.interviews.chat/#interview-copilot) | Interview AI delivers real-time suggestions and live transcription to keep you sharp and confident throughout your interview |
+| [**✅NeverApply**](https://neverapply.co) | AI job-search agent that matches you to jobs, tailors your resume for each role, and applies with your approval |
 </details>
 
 <details> 
