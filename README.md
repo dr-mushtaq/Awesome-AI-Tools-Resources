@@ -430,6 +430,36 @@ Star this repo if you find it useful ⭐
 | [**KDA Firestarter AI Dance**](https://kdafirestarterai.dev/) | Independent unofficial AI: one photo → 13s 21:9 solo dance video. Not affiliated with Riot Games or K/DA. |Paid|
 | [**A2O LITE NEON AI Dance**](https://a2oliteai.org/) | Independent AI: two photos → 15s neon duo dance with reference soundtrack. |Paid|
 | [**dime dime baby ai**](https://dimedimebabyai.dev/) | Independent AI: one photo → ~5s 9:16 AI dance (Quince Classic or Party Groove). |Paid|
+| [**airapvideo**](https://ai-rap-video.asia/) | Independent AI: Vocals + photo → 9:16 lip-sync rap video. From $8.88. Unofficial fan tool. |Paid|
+| [**Alors on Danse AI**](https://tryalorsondanse.video/) | Independent AI: Two photos to ~15s white-studio duo dance. From $8.88. Unofficial fan tool. |Paid|
+| [**Bad Times AI**](https://badtimesai.cc/) | Independent AI: One photo to ~15s 9:16 quarrel / lip-sync dance. From $8.88. Unofficial fan tool. |Paid|
+| [**bbywowguy AI**](https://bbywowguyai.cc/) | Independent AI: One photo to ~10s 9:16 quince/concha meme video. From $8.88. Unofficial fan tool. |Paid|
+| [**Burning Bridges AI**](https://burningbridgesvideoai.com/) | Independent AI: 1–2 photos to party template clip (silver cup / where she at). From $8.88. Unofficial fan tool. |Paid|
+| [**Cat in the Hat AI**](https://catinthehat.cc/) | Independent AI: One photo to ~10s 9:16 doorbell Halloween prank. From $8.88. Unofficial fan tool. |Paid|
+| [**ChatGPT Millionaire AI**](https://chatgptmillionaire.cc/) | Independent AI: One selfie to ~10–13s “Get a job.” meme short. From $8.88. Unofficial fan tool. |Paid|
+| [**ChatGTT**](https://chatgtt.cc/) | Independent AI: One photo to ~10–13s 9:16 card-declined meme. From $8.88. Unofficial fan tool. |Paid|
+| [**Cheba Man AI**](https://chebamanai.cc/) | Independent AI: One full-body photo to ~15–17s red stage Tecktonik clip. From $8.88. Unofficial fan tool. |Paid|
+| [**Choosin Texas AI**](https://choosintexas.run/) | Independent AI: One photo to ~15s 9:16 emo rooftop cover. From $8.88. Unofficial fan tool. |Paid|
+| [**Chuttamalle Dance AI**](https://trychuttamalle.app/) | Independent AI: Authorized portrait to ~15s 9:16 generative dance clip. From $8.88. Unofficial fan tool. |Paid|
+| [**coralineai**](https://coralineai.run/) | Independent AI: One selfie to ~10s 9:16 button-eyes doll reveal. From $8.88. Unofficial fan tool. |Paid|
+| [**Corpse Bride AI**](https://corpsebride.cc/) | Independent AI: One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88. Unofficial fan tool. |Paid|
+| [**Devil Wears Prada AI**](https://pradaai.cc/) | Independent AI: One photo to ~15s 9:16 street glow-up video. From $8.88. Unofficial fan tool. |Paid|
+| [**Flying Roadster AI**](https://flyingcarai.cc/) | Independent AI: One selfie to ~10–12s night ramp jet/flip short. From $8.88. Unofficial fan tool. |Paid|
+| [**Hotel Lobby AI**](https://tryhotellobby.app/) | Independent AI: Two photos to ~15s hotel lobby booth duo. From $8.88. Unofficial fan tool. |Paid|
+| [**Hug In Heaven AI**](https://huginheaven.cc/) | Independent AI: Two photos to ~12–15s stairway reunion memorial short (18+). From $8.88. Unofficial fan tool. |Paid|
+| [**JeanPhilAI**](https://jeanphilai.cc/) | Independent AI: One photo to ~12–15s blond bob + moustache clip. From $8.88. Unofficial fan tool. |Paid|
+| [**Kiss Cam AI**](https://coldplayaffairai.cc/) | Independent AI: 1–2 photos to ~10s stadium kiss-cam clip. From $8.88. Unofficial fan tool. |Paid|
+| [**Raindance AI**](https://raindanceai.click/) | Independent AI: Two photos to ~15s pier/dock sequence. From $8.88. Unofficial fan tool. |Paid|
+| [**RemixMeme**](https://remixmeme.com/) | Independent AI: AI meme video generator from photos with dance, pet and funny templates for TikTok/Reels. Unofficial fan tool. |Paid|
+| [**Rumpelstiltskin Dance AI**](https://rumpelstiltskindance.video/) | Independent AI: 1–2 photos to barn tip-toe dance short. From $8.88. Unofficial fan tool. |Paid|
+| [**ShanShenBu AI**](https://shanshenbuai.cc/) | Independent AI: One photo to ~13–15s 9:16 flash-step dance. From $8.88. Unofficial fan tool. |Paid|
+| [**Unforgettable Car AI**](https://unforgettablecarai.cc/) | Independent AI: One selfie to ~10s 9:16 24 card car reveal. From $8.88. Unofficial fan tool. |Paid|
+| [**Venom Car AI**](https://venomcarai.cc/) | Independent AI: One car photo to ~15s goo garage-build short. From $8.88. Unofficial fan tool. |Paid|
+| [**venommakeup AI**](https://venommakeup.cc/) | Independent AI: One photo to ~10s 9:16 Halloween half-face goo video. From $8.88. Unofficial fan tool. |Paid|
+| [**Victoria Secret AI**](https://victoriasecretai.cc/) | Independent AI: One photo to ~10s 9:16 angel-wing runway walk. From $8.88. Unofficial fan tool. |Paid|
+| [**White Chicks AI**](https://whitechicks.cc/) | Independent AI: 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88. Unofficial fan tool. |Paid|
+| [**wywmysweetie AI**](https://wywmysweetie.run/) | Independent AI: One photo to ~13s 9:16 jersey-club dance. From $8.88. Unofficial fan tool. |Paid|
+| [**ZombieHug**](https://aizombie.app/) | Independent AI: Two photos to a vertical zombie love-story video. From $9.99. Unofficial fan tool. |Paid|
 | [**Kling 2.1 Master**](https://klingai.com/global/) | for image-to-video (Kling ended up at "God tier" in my most recent image-to-video test. Kling often upgrades its platform, introduces cool features, and gives free credits.. |
 | [**Wan 2.1**](https://github.com/Wan-Video/Wan2.1) |is still the best open-source video model and was Tier #1 in my image-to-video test. If you have the know-how and the hardware, you can even run it locally. If not, wan.video gives you free daily credits. |
 | [**CapCut**](https://www.capcut.com/my-edit?from_page=landing_page&start_tab=video) | it free site for video creation and editing |
