@@ -308,13 +308,13 @@ Star this repo if you find it useful ⭐
 | [**✅ kortex-notebooklm**](https://www.kortex-notebooklm.com/roadmap) |helps you make your workflow with notebooklm seamless and save you a lot of time..|
 | [**✅ Chrome extension to track AI and NLP conference deadlines**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
 | [**✅  ExCitation**](https://excitation.tech/ ) |Journal Rankings Data|
-| **[Rapid Journal Quality Check**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
-| [**Orbit Scholar Grade Overlay*](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
-| [**Impact Factor Fider**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
-| [**Paperpop**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
-| [**google scholar pdf reader**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines
-| [**google scholar author highlighter**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
-| [**alt metrix for pubmed and google scholar**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Chrome extension to track AI and NLP conference deadlines|
+| [**Rapid Journal Quality Check**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Quickly evaluates academic journal quality, credibility, and rankings.|
+| [**Orbit Scholar Grade Overlay**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Displays journal quality grades directly in Google Scholar search results.|
+| [**Impact Factor Fider**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Helps researchers find journal impact factors and assess journal influence.|
+| [**Paperpop**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Helps researchers discover, organize, and access academic research papers.|
+| [**google scholar pdf reader**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Makes academic PDFs easier to read, navigate, and reference|
+| [**google scholar author highlighter**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Highlights specific authors in Google Scholar results for easier identification.|
+| [**alt metrix for pubmed and google scholar**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Displays research attention metrics, including online mentions and social media engagement.|
 
 </details>
 
