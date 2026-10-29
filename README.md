@@ -359,6 +359,7 @@ Star this repo if you find it useful ⭐
 | [**✅Image Describer**](https://imagedescriber.dev) | Generate detailed descriptions of uploaded images for accessibility, study, and content workflows in the browser. |
 | [**✅ImageChanger**](https://aiimagechanger.app/) | Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations. |
 | [**artgen**](https://artgen.net/en/tools/image-to-pixel-art) | Free browser AI image tools: pixel art converter, ASCII art generator, and background removal. |
+| [**✅Background Remover**](https://tomaserben.com/free-tools/image-background-remover) | Background remover that runs entirely in your browser; photos never upload to a server, no signup needed. |Free|
 | [**✅YingTu**](https://yingtu.ai/en) | Browser playground for testing AI image and video routes, prompts, reference inputs, sizes, and downloadable outputs. |
 | [**✅MimicBrush**](https://mimicbrush.com/) | Edit and mimic styles in images. |
 | [**✅Make Me A Zombie**](https://makemeazombie.com/) | Turns your photo into a zombie character. |Free|
