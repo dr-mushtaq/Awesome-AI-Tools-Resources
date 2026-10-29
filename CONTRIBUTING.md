@@ -76,8 +76,9 @@ If you notice:
 - missing tag
 - duplicate entries
 - incorrect category placement
+- Give feedback 
 
-please open an issue or submit a PR with the fix.
+please open an issue or submit a PR with the fix email on my ID:mushtaqmsit@gmail.com
 
 ## Suggesting a Tool Without a Pull Request
 
