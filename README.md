@@ -47,6 +47,7 @@ We welcome suggestions and contributions to this list of awesome AI tools!
    - A **short description** (15–20 words)
    - Relevant **Tags** (e.g., `Chatbot, Free, Web`)
 4. Create a **Pull Request (PR)** with a clear title and description of your changes.
+5.  Please read:[CONTRIBUTING.md](https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/CONTRIBUTING.md)
 
 ---
 
