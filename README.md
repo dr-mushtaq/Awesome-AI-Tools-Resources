@@ -216,6 +216,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**AskSurf.ai**](https://asksurf.ai/chat) | Perfect for those in finance, crypto, or research-heavy fields. You can ask complex questions about markets, compani |
+| [**DisconfirmAI**](https://disconfirmai.com/en) | AI investment research and reading tool that looks for evidence against your thesis, with daily source reading, earnings research and condition alerts. |
 </details>
 
 <details> 
