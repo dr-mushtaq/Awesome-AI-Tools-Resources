@@ -311,7 +311,7 @@ Star this repo if you find it useful ⭐
 | [**✅  ExCitation**](https://excitation.tech/ ) |Journal Rankings Data|
 | [**✅Rapid Journal Quality Check**](https://chromewebstore.google.com/detail/rapid-journal-quality-che/mfkbhgdamgfcifnhcdebfahkgnbkagmo) |Quickly evaluates academic journal quality, credibility, and rankings.|
 | [**✅Orbit Scholar Grade Overlay**](https://chromewebstore.google.com/detail/orbit-scholar-grade-overl/hbengkmdmcmfdoinhollflaodliejmpf) |Displays journal quality grades directly in Google Scholar search results.|
-| [**Impact Factor Fider**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Helps researchers find journal impact factors and assess journal influence.|
+| [**✅Impact Factor Fider**](https://chromewebstore.google.com/detail/impact-factor-finder/damonelhcfhpjhgnikakjpjinakfejhe?pli=1) |Helps researchers find journal impact factors and assess journal influence.|
 | [**Paperpop**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Helps researchers discover, organize, and access academic research papers.|
 | [**google scholar pdf reader**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Makes academic PDFs easier to read, navigate, and reference|
 | [**google scholar author highlighter**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Highlights specific authors in Google Scholar results for easier identification.|
