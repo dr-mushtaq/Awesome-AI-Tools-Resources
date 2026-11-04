@@ -245,6 +245,56 @@ Star this repo if you find it useful ⭐
 | [✅**NVIDIA Deep Learning Institute**](https://www.nvidia.com/en-us/training/) | Develop hands-on skills in Generative AI, LLMs, deep learning, AI infrastructure, and accelerated computing.  |
 | [✅**AWS Skill Builder**](https://skillbuilder.aws/) | Build practical cloud and AI skills with AWS training, hands-on labs, and AI-focused learning experiences.   |
 | [✅**IBM SkillsBuild**]( [Learn AI, data, cybersecurity, and other technology skills through free learning resources from IBM.](https://skillsbuild.org/) ) |  Learn AI, data, cybersecurity, and other technology skills through free learning resources from IBM.   |
+| [1. Harvard CS50 AI](https://cs50.harvard.edu/ai) | Harvard's free AI course covering artificial intelligence concepts and practical projects. |
+| [2. fast.ai](https://course.fast.ai/) | Learn practical deep learning through free courses and hands-on projects. |
+| [3. Hugging Face Learn](https://huggingface.co/learn) | Free courses on large language models, transformers, and AI agents. |
+| [4. Anthropic Academy](https://anthropic.skilljar.com/) | Free official courses on Claude and AI development. |
+| [5. OpenAI Academy](https://academy.openai.com/) | Learn AI foundations, applied AI, agents, workflows, and practical AI skills. |
+| [6. Zero to Hero – Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) | Learn how to build neural networks and GPT models from scratch. |
+| [7. Dive into Deep Learning](https://d2l.ai/) | An interactive deep learning book with practical code examples. |
+| [8. Elements of AI](https://www.elementsofai.com/) | Learn AI fundamentals without requiring advanced mathematics. |
+| [9. Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) | Google's practical introduction to machine learning concepts. |
+| [10. Kaggle Learn](https://www.kaggle.com/learn) | Free, bite-sized courses on machine learning, Python, and data science. |
+| [11. Learn Prompting](https://learnprompting.org/) | Learn prompt engineering techniques and effective AI communication. |
+| [12. AI Engineer Roadmap](https://roadmap.sh/ai-engineer) | A step-by-step roadmap for becoming an AI engineer. |
+| [13. LLM Visualization](https://bbycroft.net/llm) | Explore how large language models work through interactive 3D visualization. |
+| [14. Transformer Explainer](https://poloclub.github.io/transformer-explainer/) | Understand transformer architecture through interactive visualization. |
+| [15. Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Learn transformer architecture through easy-to-understand illustrations. |
+| [16. Tiktokenizer](https://tiktokenizer.vercel.app/) | See how AI models split text into tokens. |
+| [17. TensorFlow Playground](https://playground.tensorflow.org/) | Experiment with and train neural networks directly in your browser. |
+| [18. Google Teachable Machine](https://teachablemachine.withgoogle.com/) | Train simple AI models using images, audio, and webcam input. |
+| [19. Google Quick, Draw!](https://quickdraw.withgoogle.com/) | Draw pictures and let AI guess what you are drawing. |
+| [20. Transformer Circuits](https://transformer-circuits.pub/) | Explore Anthropic's research into the internal workings of AI models. |
+| [21. Neuronpedia](https://neuronpedia.org/) | Explore and visualize the internal features of AI models. |
+| [22. arXiv](https://arxiv.org/) | Discover research papers covering AI, machine learning, and computer science. |
+| [23. Hugging Face Papers](https://huggingface.co/papers) | Discover trending and important AI research papers. |
+| [24. AlphaXiv](https://alphaxiv.org/) | Explore, discuss, and annotate academic research papers. |
+| [25. ResearchRabbit](https://www.researchrabbit.ai/) | Discover related research papers and visualize academic connections. |
+| [26. Distill](https://distill.pub/) | Explore interactive explanations of machine learning research. |
+| [27. Epoch AI](https://epoch.ai/) | Explore data and research tracking AI progress and development. |
+| [28. Our World in Data – AI](https://ourworldindata.org/artificial-intelligence) | Explore charts, statistics, and global data about artificial intelligence. |
+| [29. Stanford AI Index](https://hai.stanford.edu/ai-index) | Access Stanford's annual reports on AI research, development, and adoption. |
+| [30. Arena](https://arena.ai/) | Compare AI models through anonymous, side-by-side user evaluations. |
+| [31. Artificial Analysis](https://artificialanalysis.ai/) | Compare AI models based on performance, speed, and pricing. |
+| [32. OpenRouter](https://openrouter.ai/) | Access hundreds of AI models through a unified API. |
+| [33. Hugging Face Spaces](https://huggingface.co/spaces) | Explore and experiment with thousands of community-built AI applications. |
+| [34. Ollama](https://ollama.com/) | Run large language models locally on your computer. |
+| [35. LM Studio](https://lmstudio.ai/) | Download and run local AI models without coding. |
+| [36. Google AI Studio](https://aistudio.google.com/) | Experiment with Gemini models using Google's AI playground. |
+| [37. Hugging Face Datasets](https://huggingface.co/datasets) | Discover and download open datasets for AI and machine learning projects. |
+| [38. Google Colab](https://colab.research.google.com/) | Write and execute Python notebooks with access to cloud computing resources. |
+| [39. Claude Documentation](https://platform.claude.com/docs) | Explore official documentation for Claude models and API development. |
+| [40. Model Context Protocol](https://modelcontextprotocol.io/) | Learn how to connect AI applications with external tools and data sources. |
+| [41. OpenAI Cookbook](https://developers.openai.com/cookbook) | Explore practical code examples, tutorials, and recipes for OpenAI APIs. |
+| [42. Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) | Explore practical examples and code recipes for building with Claude. |
+| [43. v0](https://v0.app/) | Generate user interfaces and frontend code from natural-language prompts. |
+| [44. Bolt.new](https://bolt.new/) | Build and run full-stack applications directly in your browser using AI. |
+| [45. Gradio](https://www.gradio.app/) | Build interactive machine learning demos and AI interfaces using Python. |
+| [46. Google NotebookLM](https://notebooklm.google.com/) | Turn your documents and research materials into AI-powered summaries and audio discussions. |
+| [47. ElevenLabs](https://elevenlabs.io/) | Generate realistic AI voices, speech, and audio content. |
+| [48. Suno](https://suno.com/) | Create AI-generated songs and music from text prompts. |
+| [49. Excalidraw](https://excalidraw.com/) | Create free, hand-drawn-style diagrams and visual explanations. |
+| [50. Google Labs](https://labs.google/) | Explore Google's latest AI experiments and emerging technologies. |
 
 </details>
 
