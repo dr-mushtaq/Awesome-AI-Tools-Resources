@@ -530,6 +530,7 @@ Star this repo if you find it useful ⭐
 | [**OpenShot**](https://www.openshot.org/) | free, open-source, beginner-friendly editor |
 | [**OrkasVideoStudio**](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed CLI and MCP toolkit for coding agents to build editable JSON timelines and assemble videos automatically. `Open-Source, TypeScript` |
 | [**shortshort**](https://www.shortshort.io/) | Turns a long video upload or YouTube link into vertical 9:16 shorts with word-by-word captions and face-tracked reframing. `Video, Web, Freemium` |Freemium|
+| [**Seedance Now**](https://seedancenow.com/) | Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s at 1080p. Independent, not affiliated with ByteDance. |Freemium|
 </details>
 
 <details>
