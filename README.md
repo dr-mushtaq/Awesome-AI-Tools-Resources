@@ -112,6 +112,15 @@ Star this repo if you find it useful ⭐
 
 ## Contents
 
+<details> 
+<summary> <h2>📚 To Do List </h2> </summary>
+
+| Title/Link | Task |Complete-Pending
+|---|---|
+| [**40 AI websites every student wishes they found sooner 🎓**](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all website and arragne in categroy|Pending|
+
+</details>
+
 <details>
 <summary><h2>🔍 Literature Management and Search</h2></summary>
 
