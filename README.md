@@ -67,6 +67,7 @@ Tags: Free, Web, Chatbot
 <details> 
 The tasks listed below are pending completion. If any team member has availability, kindly take them up and complete them.
 <summary> <h2>📚 Todo List </h2> </summary>
+	
 | Title/Link | Task |Status|
 |---|---|---|---|
 | [**[Learn any thing](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true). | Create new category(Learn any thing) and put all data from link|Pending|
