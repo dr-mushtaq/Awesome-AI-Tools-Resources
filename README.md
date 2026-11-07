@@ -67,12 +67,12 @@ Tags: Free, Web, Chatbot
 <details> 
 The tasks listed below are pending completion. If any team member has availability, kindly take them up and complete them.
 <summary> <h2>📚 Todo List </h2> </summary>
-
 | Title/Link | Task |Status|
 |---|---|---|---|
 | [**[Learn any thing](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true). | Create new category(Learn any thing) and put all data from link|Pending|
 | [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
 | [**Create Screen recording to tools| Wee need Screen recording to every tool|Pending|
+| [**40 AI websites every student wishes they found sooner 🎓**](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all website and arragne in categroy|Pending|
 </details>
 
 
@@ -111,15 +111,6 @@ Star this repo if you find it useful ⭐
 
 
 ## Contents
-
-<details> 
-<summary> <h2>📚 To Do List </h2> </summary>
-
-| Title/Link | Task |Complete-Pending
-|---|---|
-| [**40 AI websites every student wishes they found sooner 🎓**](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all website and arragne in categroy|Pending|
-
-</details>
 
 <details>
 <summary><h2>🔍 Literature Management and Search</h2></summary>
