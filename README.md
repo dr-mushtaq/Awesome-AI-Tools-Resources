@@ -64,8 +64,16 @@ Tags: Free, Web, Chatbot
 
 ---
 
-<details> 
-<summary> <h2>📚 Todo List- Need to Complete </h2> </summary>
+
+<details>
+<summary>
+
+## 📚 My Learning & Projects Hub
+
+</summary>
+
+### 📌 Task Dashboard
+
 | # | Title / Link | Description | Status | Priority |
 |---|---|---|---|---|
 | 01 | 📖 [Learn Anything](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true) | Create a new **Learn Anything** category and organize all resources from the article. | 🟡 Pending | 🔥 High |
@@ -74,6 +82,37 @@ Tags: Free, Web, Chatbot
 | 04 | 🤖 [40 AI Websites for Students](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all 40 AI websites and organize them into relevant categories. | 🟡 Pending | 🔥 High |
 
 ---
+
+### 🗂️ Categories
+
+- 📚 Learning & Education
+- 🤖 AI Tools & Resources
+- 🎮 Games & Experiments
+- 🛠️ Development & Projects
+- 🎥 Media & Screen Recording
+- 💡 Ideas & Inspiration
+
+---
+
+### 📊 Status Legend
+
+| Status | Meaning |
+|---|---|
+| ⚪ Not Started | Haven't started yet |
+| 🟡 Pending | Waiting to be completed |
+| 🔵 In Progress | Currently working |
+| 🟢 Completed | Successfully finished |
+| 🔴 On Hold | Temporarily paused |
+| ⚫ Cancelled | No longer needed |
+
+---
+
+### 🎯 Priority Legend
+
+- 🚨 Critical
+- 🔥 High
+- ⭐ Medium
+- 🌱 Low
 
 </details>
 
