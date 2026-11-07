@@ -65,14 +65,14 @@ Tags: Free, Web, Chatbot
 ---
 
 <details> 
-<summary> <h2>📚 Todo List </h2> </summary>
-	
-| Title-Link | Task |Status|
+<summary> <h2>📚 Todo List- Need to Complete </h2> </summary>
 |---|---|---|
-| [[Learn any thing](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true)| Create new category(Learn any thing) and put all data from link|Pending|
-| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
-| [**Create Screen recording to tools| Wee need Screen recording to every tool|Pending|
-| [**40 AI websites every student wishes they found sooner 🎓**](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all website and arragne in categroy|Pending|
+| # | Title / Link | Description | Status | Priority |
+|---|---|---|---|---|
+| 01 | 📖 [Learn Anything](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true) | Create a new **Learn Anything** category and organize all resources from the article. | 🟡 Pending | 🔥 High |
+| 02 | 🎲 [Auferet](https://auferet.com) | AI Game Master with persistent memory for characters, places, and lore. Supports solo/multiplayer, D&D 5e and Pathfinder 2e. | ⚪ Not Started | 🟢 Medium |
+| 03 | 🎥 Screen Recording Tools | Create a screen-recording feature for every tool. | 🟡 Pending | 🔥 High |
+| 04 | 🤖 [40 AI Websites for Students](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all 40 AI websites and organize them into relevant categories. | 🟡 Pending | 🔥 High |
 
 </details>
 
