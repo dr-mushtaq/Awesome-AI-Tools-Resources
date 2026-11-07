@@ -68,7 +68,7 @@ Tags: Free, Web, Chatbot
 <details>
 <summary>
 
-## 📚 My Learning & Projects Hub
+## 📚 To Do List
 
 </summary>
 
@@ -80,39 +80,6 @@ Tags: Free, Web, Chatbot
 | 02 | 🎲 [Auferet](https://auferet.com) | AI Game Master with persistent memory for characters, places, and lore. Supports solo/multiplayer, D&D 5e and Pathfinder 2e. | ⚪ Not Started | 🟢 Medium |
 | 03 | 🎥 Screen Recording Tools | Create a screen-recording feature for every tool. | 🟡 Pending | 🔥 High |
 | 04 | 🤖 [40 AI Websites for Students](https://substack.com/@gencay/note/c-374796363?r=f2squ) | Extract all 40 AI websites and organize them into relevant categories. | 🟡 Pending | 🔥 High |
-
----
-
-### 🗂️ Categories
-
-- 📚 Learning & Education
-- 🤖 AI Tools & Resources
-- 🎮 Games & Experiments
-- 🛠️ Development & Projects
-- 🎥 Media & Screen Recording
-- 💡 Ideas & Inspiration
-
----
-
-### 📊 Status Legend
-
-| Status | Meaning |
-|---|---|
-| ⚪ Not Started | Haven't started yet |
-| 🟡 Pending | Waiting to be completed |
-| 🔵 In Progress | Currently working |
-| 🟢 Completed | Successfully finished |
-| 🔴 On Hold | Temporarily paused |
-| ⚫ Cancelled | No longer needed |
-
----
-
-### 🎯 Priority Legend
-
-- 🚨 Critical
-- 🔥 High
-- ⭐ Medium
-- 🌱 Low
 
 </details>
 
