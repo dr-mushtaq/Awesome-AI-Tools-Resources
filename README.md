@@ -485,6 +485,7 @@ Star this repo if you find it useful ⭐
 | [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |Free|
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
+| [**ReelAI**](https://tryreelai.com/) | Creates short AI videos from photos using ready-to-use templates for creators. |Paid|
 | [**Alors On Danse Video Maker**](https://alorsondansevideo.com/) | Independent AI: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok. |Paid|
 | [**Bad Times AI**](https://badtimesai.dev/) | Independent AI dance effect: one photo → 14–15s portrait dance video. |Paid|
 | [**I Found You in the Crowd AI**](https://ifoundyouinthecrowdai.com/) | Independent AI scene effect: two photos → balcony/spotlight meeting video. |Paid|
