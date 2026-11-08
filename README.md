@@ -313,6 +313,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva's AI suite (Magic Write, Magic Design, Magic Edit…)|
+| [**objekto.io**](https://objekto.io/en) | Describe an object in a few words, a photo or a sketch: AI designs a print-ready multi-part 3D model, then it is 3D printed and delivered (France only for now). `Design, 3D, Web, Freemium` |
 </details>
 
 <details> 
