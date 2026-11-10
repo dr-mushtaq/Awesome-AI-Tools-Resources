@@ -752,7 +752,7 @@ Star this repo if you find it useful ⭐
 | [**Botstest**](https://botstest.com/) | Categorized embodied-AI and robotics resource directory covering robot learning, simulation, models, datasets, ROS 2 and hardware. `Robotics, Web, Free` |
 | [**FreeToolSuite**](https://freetoolsuite.com/tools/mass-converter) | A collection of handy online tools including converters, calculators, and other utilities — all available for free. |
 | [**WeWorkBuddy**](https://weworkbuddy.com/) | Research workspace for AI creators to review traceable sources, save topic candidates, organize tasks and export assessments. `Research, Web, Free Explorer` |
-
+| [**The best of GitHub, picked daily**](https://bestgithubrepositories.com/) | Research workspace for AI creators to review traceable sources, save topic candidates, organize tasks and export assessments. `Research, Web, Free Explorer` |
 </details>
 
 
