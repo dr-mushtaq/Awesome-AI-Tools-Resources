@@ -369,6 +369,7 @@ Star this repo if you find it useful ⭐
 | [**✅ClearCrowds**](https://www.clearcrowds.com/) | AI photo cleanup editor for removing crowds, objects, shadows, glare, glasses, and product-photo distractions with focused presets. |
 | [**✅photopea**](https://www.photopea.com/) | Free image edit tool|
 | [**✅PhotoRestore.ai**](https://photorestore.ai) | AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images. Free trial. |
+| [**✅EmptyRoom AI**](https://emptyroomai.com/) | AI virtual staging for real estate listing photos: furnish vacant rooms in any style, pay per room with free restages. |Paid|
 | [**✅Image-to-Text**](https://www.imagetotext.info/) | Extract text from any image using OCR. |
 | [**✅Imagen 4**](https://labs.google/fx/tools/image-fx) | for your everyday image needs. It's close to GPT-4o on benchmarks, creates images faster, and you can run it for free at gemini.google.com and in products like Image FX and Whisk. |
 | [**✅Adobe Firefly**](https://firefly.adobe.com/) | Free monthly generative credits, no card required to start. |Free/Paid|
