@@ -218,6 +218,16 @@ Star this repo if you find it useful ⭐
 | [**✅WizGenerator Story Generator**](https://wizgenerator.com/tools/story-generator/) | Free browser-based story generator for drafting original fiction by prompt, genre, tone, length, and point of view. |
 </details>
 
+
+<details> 
+<summary> <h2>📚 Downloader   </h2> </summary>
+
+| Title/Link | Description |Free-Paid|
+|---|---|----|
+| [**Mister Download Manager**](https://github.com/anefzaoui/misterdownloadmanager?fbclid=IwY2xjawVg_yBleHRuA2FlbQIxMABwZG9mAWJyaWQRMVR3WWhhMzZFU2NkSkdwVjFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfmo2Bmp-1GjJWO8bTujupzjW61SqkwjYJ1aX8XzKNvX1IBG7V9iSogErst0E_aem_HgclL_1JKdvY2QSx1evvbA) |Downloads faster than IDM. Free, forever.|Fee|
+
+</details>
+
 <details> 
 <summary> <h2>📚 Tools about prediction about Market </h2> </summary>
 
