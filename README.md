@@ -485,6 +485,7 @@ Star this repo if you find it useful ⭐
 | [**Kapwing**](https://www.kapwing.com/) | Online video editing and content creation platform. |
 | [**Canvas**](https://www.canva.com/) | (Also supports video creation and editing.) |
 | [**CapCut**](https://www.capcut.com/) | Free video editor from ByteDance. |Free|
+| [**MotionCasa**](https://motioncasa.com/) | Turns a set of real estate listing photos into a video with generated camera motion for property marketing. |Paid|
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
 | [**Alors On Danse Video Maker**](https://alorsondansevideo.com/) | Independent AI: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok. |Paid|
