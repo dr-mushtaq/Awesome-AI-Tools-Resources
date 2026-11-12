@@ -764,6 +764,46 @@ Star this repo if you find it useful ⭐
 | [**FreeToolSuite**](https://freetoolsuite.com/tools/mass-converter) | A collection of handy online tools including converters, calculators, and other utilities — all available for free. |
 | [**WeWorkBuddy**](https://weworkbuddy.com/) | Research workspace for AI creators to review traceable sources, save topic candidates, organize tasks and export assessments. `Research, Web, Free Explorer` |
 | [**The best of GitHub, picked daily**](https://bestgithubrepositories.com/) | Research workspace for AI creators to review traceable sources, save topic candidates, organize tasks and export assessments. `Research, Web, Free Explorer` |
+| [**Ventusky**](https://www.ventusky.com/) | Live wind, rain and temperature maps of Earth. `Weather, Maps, Free` |
+| [**Zoom Earth**](https://zoom.earth/) | Near real-time satellite view of storms and weather conditions. `Satellite, Weather, Free` |
+| [**ADS-B Exchange**](https://www.adsbexchange.com/) | Live map of planes flying around the world. `Aviation, Tracking, Free` |
+| [**USGS Earthquake Map**](https://earthquake.usgs.gov/) | Explore recent earthquakes around the world on an interactive map. `Earthquakes, Science, Free` |
+| [**SpaceWeatherLive**](https://www.spaceweatherlive.com/) | Live solar activity updates and aurora forecasts. `Space, Weather, Free` |
+| [**Light Pollution Map**](https://www.lightpollutionmap.info/) | Find the darkest night skies and best stargazing locations near you. `Astronomy, Maps, Free` |
+| [**Sentinel Hub EO Browser**](https://apps.sentinel-hub.com/eo-browser/) | Explore fresh satellite imagery of locations around the world. `Satellite, Earth Observation, Free` |
+| [**Space Telescope Live**](https://spacetelescopelive.org/) | Discover what the Hubble and James Webb Space Telescopes are observing. `Space, Astronomy, Free` |
+| [**SunCalc**](https://www.suncalc.org/) | Explore sunrise, sunset and the sun's path anywhere on Earth. `Sun, Astronomy, Free` |
+| [**PeakVisor**](https://peakvisor.com/) | Identify surrounding mountains using interactive 3D maps. `Mountains, 3D Maps, Freemium` |
+| [**OpenRailwayMap**](https://www.openrailwaymap.org/) | Explore railway lines and infrastructure across the world on an interactive map. `Railways, Maps, Free` |
+| [**Earth.fm**](https://earth.fm/) | Listen to nature sounds recorded in different locations around the world. `Nature, Audio, Free` |
+| [**Aporee**](https://aporee.org/) | Explore field recordings and environmental sounds pinned to a world map. `Audio, Nature, Free` |
+| [**Conserve the Sound**](https://www.conservethesound.de/en) | An archive preserving sounds that are gradually disappearing. `Sound Archive, History, Free` |
+| [**Typatone**](https://typatone.com/) | Turn your typing into music and create melodies with letters. `Music, Creative, Free` |
+| [**BeepBox**](https://www.beepbox.co/) | Create chiptune music and electronic melodies directly in your browser. `Music, Audio Editor, Free` |
+| [**Google Experiments**](https://experiments.withgoogle.com/) | Explore Google's creative playground of interactive and AI experiments. `AI, Experiments, Free` |
+| [**Pointer Pointer**](https://pointerpointer.com/) | Displays a photograph of someone pointing directly at your cursor. `Fun, Interactive, Free` |
+| [**Sandspiel**](https://sandspiel.club/) | Interactive falling-sand simulation featuring water, fire, plants and other elements. `Simulation, Game, Free` |
+| [**Orb.Farm**](https://orb.farm/) | Build and grow a tiny underwater ecosystem inside a virtual aquarium. `Simulation, Nature, Free` |
+| [**Pixel Thoughts**](https://pixelthoughts.co/) | A 60-second interactive experience designed to help you let go of stressful thoughts. `Mindfulness, Relaxation, Free` |
+| [**Floor796**](https://floor796.com/) | Explore a massive animated scene filled with pop culture references and characters. `Animation, Entertainment, Free` |
+| [**This Person Does Not Exist**](https://thispersondoesnotexist.com/) | Generate realistic AI-created human faces with every page refresh. `AI, Image Generation, Free` |
+| [**Draw a Stickman**](https://drawastickman.com/) | Draw your own stickman character and take part in an interactive adventure. `Drawing, Game, Free` |
+| [**JS Paint**](https://jspaint.app/) | Use a browser-based recreation of classic Microsoft Paint. `Drawing, Creative, Free` |
+| [**Windows93**](https://windows93.net/) | Explore a fictional retro operating system packed with interactive features and surprises. `Retro, Entertainment, Free` |
+| [**Cameron's World**](https://cameronsworld.net/) | Explore a nostalgic collage of old GeoCities websites and early internet culture. `Internet History, Retro, Free` |
+| [**Hacker Typer**](https://hackertyper.net/) | Type random keys and instantly look like a movie-style computer hacker. `Fun, Simulation, Free` |
+| [**Bruno Simon Portfolio**](https://bruno-simon.com/) | Explore an interactive 3D portfolio by driving a small toy car through the website. `3D, Portfolio, Web Design` |
+| [**Which Face Is Real?**](https://whichfaceisreal.com/) | Test your ability to distinguish real human photographs from AI-generated faces. `AI, Quiz, Free` |
+| [**Six Degrees of Wikipedia**](https://sixdegreesofwikipedia.com/) | Discover the shortest connection between two different Wikipedia articles. `Wikipedia, Knowledge, Free` |
+| [**The Wiki Game**](https://thewikigame.com/) | Race through Wikipedia articles and links to reach a specific destination page. `Education, Game, Free` |
+| [**Rare Historical Photos**](https://rarehistoricalphotos.com/) | Discover rare historical photographs along with the stories behind them. `History, Photography, Free` |
+| [**WikiArt**](https://www.wikiart.org/) | Explore an extensive encyclopedia of paintings and artworks from different historical periods. `Art, Education, Free` |
+| [**MapCrunch**](https://www.mapcrunch.com/) | Travel virtually to random locations around the world using Street View. `Travel, Maps, Free` |
+| [**TimeGuessr**](https://timeguessr.com/) | Guess where and when historical and modern photographs were taken. `Geography, History, Game` |
+| [**Worldle**](https://worldle.teuteuf.fr/) | Test your geographical knowledge by identifying countries from their shapes. `Geography, Puzzle, Free` |
+| [**Explore.org**](https://explore.org/) | Watch live wildlife cameras featuring animals and natural environments around the world. `Wildlife, Live Cameras, Free` |
+| [**AirPano**](https://www.airpano.com/) | Explore famous destinations through immersive 360-degree aerial photography. `Travel, Photography, Free` |
+| [**Lofi Cafe**](https://lofi.cafe/) | Listen to relaxing lo-fi music accompanied by calm animated visuals. `Music, Relaxation, Free` |
 </details>
 
 
