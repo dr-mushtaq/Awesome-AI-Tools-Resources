@@ -551,6 +551,7 @@ Star this repo if you find it useful ⭐
 | [**OpenShot**](https://www.openshot.org/) | free, open-source, beginner-friendly editor |
 | [**OrkasVideoStudio**](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed CLI and MCP toolkit for coding agents to build editable JSON timelines and assemble videos automatically. `Open-Source, TypeScript` |
 | [**shortshort**](https://www.shortshort.io/) | Turns a long video upload or YouTube link into vertical 9:16 shorts with word-by-word captions and face-tracked reframing. `Video, Web, Freemium` |Freemium|
+| [**RefVid**](https://refvid.com/) | Consistent character and product AI videos from 1-10 reference photos; first 5-second clip free, no card. `Video, Web, Freemium` |Freemium|
 </details>
 
 <details>
