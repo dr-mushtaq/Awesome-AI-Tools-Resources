@@ -599,6 +599,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**NoteGPT**](https://notegpt.io/) | Take, organize, and summarize notes with AI. |
+| [**Glasp**](https://glasp.co/) | Highlight web pages and PDFs, view YouTube transcripts with AI summaries, and export notes to Markdown, Notion and Obsidian. |
 </details>
 
 <details> 
