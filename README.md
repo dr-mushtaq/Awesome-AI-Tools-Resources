@@ -340,6 +340,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅pdf24**](https://tools.pdf24.org/en/extract-pdf-pages) |extract specific page from pdf files|
+| [**EveryApp PDF tools**](https://everyapp.pro/pdf-tools) | Free browser tools to merge, split, compress, convert, sign and edit PDF files, part of a 300+ tool collection. `PDF, Web, Free Tier` |
 </details>
 
 <details> 
