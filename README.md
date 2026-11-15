@@ -229,6 +229,21 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
+<summary> <h2>📚 🧑‍💻FIND & COMPARE MODELS</h2> </summary>
+
+| Title/Link | Description |Free-Paid|
+|---|---|----|
+| [**Hugging Face**](https://huggingface.co/) | The GitHub of AI models and datasets | Free |
+| [**LMArena**](https://lmarena.ai/) | Models battle, humans vote | Free |
+| [**Artificial Analysis**](https://artificialanalysis.ai/) | Speed, price and quality side by side | Free |
+| [**OpenRouter**](https://openrouter.ai/) | One API, hundreds of models | Free |
+| [**Ollama**](https://ollama.com/) | Run open models on your own laptop | Free |
+| [**Epoch AI**](https://epoch.ai/) | Hard data on where AI is heading | Free |
+
+</details>
+
+
+<details> 
 <summary> <h2>📚 Tools about prediction about Market </h2> </summary>
 
 | Title/Link | Description |
