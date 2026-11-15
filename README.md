@@ -229,6 +229,19 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
+<summary> <h2>🧑‍💻TURN DATA INTO PICTURES</h2> </summary>
+
+| Title/Link | Description |Free-Paid|
+|---|---|----|
+| [**Datawrapper**](https://www.datawrapper.de/) | Clean, newsroom-quality charts | Free |
+| [**RAWGraphs**](https://www.rawgraphs.io/) | Unusual charts, zero code | Free |
+| [**Flourish**](https://flourish.studio/) | Animated, interactive data stories | Free |
+| [**Observable**](https://observablehq.com/) | Live notebooks for data visualization | Free |
+| [**Tableau Public**](https://public.tableau.com/) | Free Tableau, plus endless inspiration | Free |
+
+</details>
+
+<details> 
 <summary> <h2>🧑‍💻FREE DATA, EVERYWHERE</h2> </summary>
 
 | Title/Link | Description |Free-Paid|
