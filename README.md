@@ -521,6 +521,14 @@ Star this repo if you find it useful ⭐
 | [**✅Streamlit Community Cloud**](https://streamlit.io/cloud) | Its Community Cloud (formerly Streamlit Sharing) lets you deploy Streamlit (or plain Python) apps directly from a GitHub repo. |
 | [**✅Render (Free Web Services)**](https://render.com/docs/free) |Render is a cloud hosting provider (like Heroku) that offers a free tier. You can deploy web services (e.g. a Flask or FastAPI model server) or static sites to Render. |
 | [**✅PythonAnywhere**](https://www.pythonanywhere.com/) |You upload your code or connect a Git repo. It's very beginner-friendly for small projects. You get a small amount of CPU and disk. |
+| [**Vercel**](https://vercel.com/) | Deploy a website in one click | Free |
+| [**Netlify**](https://www.netlify.com/) | Free hosting with forms and functions | Free |
+| [**Render**](https://render.com/) | Free web services and databases | Free |
+| [**Cloudflare Pages**](https://pages.cloudflare.com/) | Fast global hosting, free | Free |
+| [**Supabase**](https://supabase.com/) | A free Postgres backend with authentication | Free |
+| [**Neon**](https://neon.com/) | Serverless Postgres with a generous free tier | Free |
+| [**Oracle Cloud Free Tier**](https://www.oracle.com/cloud/free/) | Always-free cloud VMs | Free |
+| [**GitHub Student Developer Pack**](https://education.github.com/pack) | Free developer tools for students | Free |
 </details>
 
 <details> 
