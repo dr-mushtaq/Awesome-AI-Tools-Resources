@@ -229,6 +229,19 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
+<summary> <h2>🧑‍💻FREE DATA, EVERYWHERE</h2> </summary>
+
+| Title/Link | Description |Free-Paid|
+|---|---|----|
+| [**Kaggle**](https://www.kaggle.com/) | Datasets, notebooks, competitions, free GPUs | Free |
+| [**Google Dataset Search**](https://datasetsearch.research.google.com/) | Google, but only for datasets | Free |
+| [**Our World in Data**](https://ourworldindata.org/) | The world's biggest problems, in charts | Free |
+| [**Data.gov**](https://data.gov/) | 300K+ US government datasets | Free |
+| [**Awesome Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) | The ultimate dataset list | Free |
+
+</details>
+
+<details> 
 <summary> <h2>📚 🧑‍💻FIND & COMPARE MODELS</h2> </summary>
 
 | Title/Link | Description |Free-Paid|
