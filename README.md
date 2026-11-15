@@ -337,10 +337,10 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚 PDF Tools</h2> </summary>
 
-| Title/Link | Description |
-|---|---|
+| Title/Link | Description |Paid-Free|Feedback|
+|---|---|---|----|
 | [**✅pdf24**](https://tools.pdf24.org/en/extract-pdf-pages) |extract specific page from pdf files|
-| [**EveryApp PDF tools**](https://everyapp.pro/pdf-tools) | Free browser tools to merge, split, compress, convert, sign and edit PDF files, part of a 300+ tool collection. `PDF, Web, Free Tier` |
+| [**EveryApp PDF tools**](https://everyapp.pro/pdf-tools) | Free browser tools to merge, split, compress, convert, sign and edit PDF files, part of a 300+ tool collection. `PDF, Web, Free Tier` |Free|
 </details>
 
 <details> 
