@@ -195,6 +195,7 @@ Star this repo if you find it useful ⭐
 | [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |Search, Chatbot, Free |
 | [**✅kimi**](https://www.kimi.com/) | AI assistant known for long-context reading and reasoning. Works in the browser with no install, and can handle large document uploads.. |Search, Chatbot, Free |
 | [**✅kimi**](https://www.kimi.com/) | AI assistant known for long-context reading and reasoning. Works in the browser with no install, and can handle large document uploads.. |Search, Chatbot, Free |
+| [**EveryApp AI tools**](https://everyapp.pro/collections/ai-tools) | Chat with Claude, GPT and Gemini, generate and edit images, video and 3D models, and upscale, subtitle, dub and translate, in one place. | Multi-Model, Chatbot, Web, Freemium |
 </details>
 
 <details> 
@@ -365,6 +366,9 @@ Star this repo if you find it useful ⭐
 |---|---|
 | [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva's AI suite (Magic Write, Magic Design, Magic Edit…)|
 | [**objekto.io**](https://objekto.io/en) | Describe an object in a few words, a photo or a sketch: AI designs a print-ready multi-part 3D model, then it is 3D printed and delivered (France only for now). `Design, 3D, Web, Freemium` |
+| [**EveryApp AI 3D Model Generator**](https://everyapp.pro/ai-3d-model-generator) | Describe an object or upload a picture and get a textured 3D model to download as GLB, OBJ or STL for games, AR and 3D printing. `Design, 3D, Web, Freemium` |
+| [**EveryApp AI 3D World Generator**](https://everyapp.pro/ai-3d-world-generator) | Describe a place or start from a photo and get an explorable gaussian-splat 3D world, downloadable as SPZ or PLY for Blender and game engines. `Design, 3D, Web, Freemium` |
+| [**EveryApp 3D Scene Editor**](https://everyapp.pro/3d-scene-editor) | Build a 3D scene in the browser, frame it with a camera and turn it into an AI picture that keeps your layout. `Design, 3D, Web, Freemium` |
 </details>
 
 <details> 
@@ -373,6 +377,7 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |
 |---|---|
 | [**✅Screen Recorder**](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden?hl=en) | chrom extension|
+| [**EveryApp Screen Recorder**](https://everyapp.pro/screen-recorder) | Record your screen, a window or a browser tab with microphone sound in the browser; no sign-up, watermark or time limit. `Screen Recording, Web, Free` |
 </details>
 
 <details> 
@@ -499,6 +504,7 @@ Star this repo if you find it useful ⭐
 | [**✅ComfyUI**](https://github.com/comfyanonymous/ComfyUI) | Free, node-based interface for running Stable Diffusion/FLUX locally, the standard tool serious hobbyists use. |Free|
 | [**✅AUTOMATIC1111 WebUI**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | The most beginner-friendly free interface for running Stable Diffusion on your own machine. |Free|
 | [**✅Qwen-Image**](https://huggingface.co/Qwen) | Apache 2.0 license (clear commercial rights), particularly good at rendering readable text inside images. |Apache 2.0, Free|
+| [**EveryApp AI Image Generator**](https://everyapp.pro/ai-image-generator) | Describe a picture and get a finished image from a choice of nine models, including Nano Banana, Midjourney and FLUX.2. `Image, Web, Freemium` |Freemium|
 </details>
 
 <details> 
@@ -601,6 +607,7 @@ Star this repo if you find it useful ⭐
 | [**OpenShot**](https://www.openshot.org/) | free, open-source, beginner-friendly editor |
 | [**OrkasVideoStudio**](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed CLI and MCP toolkit for coding agents to build editable JSON timelines and assemble videos automatically. `Open-Source, TypeScript` |
 | [**shortshort**](https://www.shortshort.io/) | Turns a long video upload or YouTube link into vertical 9:16 shorts with word-by-word captions and face-tracked reframing. `Video, Web, Freemium` |Freemium|
+| [**EveryApp AI Video Generator**](https://everyapp.pro/ai-video-generator) | Describe a scene and get a 4 to 15 second clip with motion and sound from nine models, including Kling 3.0, Veo 3.1 and Seedance 2.0. `Video, Web, Freemium` |Freemium|
 </details>
 
 <details>
@@ -641,6 +648,7 @@ Star this repo if you find it useful ⭐
 | **✅Whisper (OpenAI)** | Free, open-source speech recognition |Free|
 | **✅Rev**| Professional transcription service |
 | **✅Sonix**|Automatic transcription and translation|
+| [**EveryApp Text to Speech**](https://everyapp.pro/text-to-speech) | Paste text, pick one of six natural English voices and download the speech as an MP3; free up to 1,000 characters. `Text to Speech, Web, Freemium` |Freemium|
 </details>
 
 <details> 
@@ -876,6 +884,7 @@ Star this repo if you find it useful ⭐
 | [**✅ Prompt Maker**](https://chatgpt.com/g/g-hhh4w3eov-prompt-maker) |Write better prompts inside any AI chat|
 | [**✅ ainews**](https://ainews.tech/skills) |A free index for AI learners — guides, prompts, skills, tools, glossary|
 | [**✅ 50 ChatGPT Image Prompts**](https://sifuyik.substack.com/p/50-chatgpt-image-prompts?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true) |50 ChatGPT Image Prompts|
+| [**EveryApp LLM Token Counter**](https://everyapp.pro/llm-token-counter) | Count the tokens in a prompt as you type: exact for GPT models, estimates for Claude and Gemini, with context window use. Text stays on your device. `Prompt, Web, Free` |Free|
 </details>
 
 <details> 
