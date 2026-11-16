@@ -846,6 +846,7 @@ Star this repo if you find it useful ⭐
 | [**Sandspiel**](https://sandspiel.club/) | Interactive falling-sand simulation featuring water, fire, plants and other elements. `Simulation, Game, Free` |
 | [**Orb.Farm**](https://orb.farm/) | Build and grow a tiny underwater ecosystem inside a virtual aquarium. `Simulation, Nature, Free` |
 | [**Pixel Thoughts**](https://pixelthoughts.co/) | A 60-second interactive experience designed to help you let go of stressful thoughts. `Mindfulness, Relaxation, Free` |
+| [**No Stairs Please**](https://nostairsplease.com/) | Directory and MCP server for under-400-capacity live music venues and booking contacts across all 50 US states. `Music, MCP, Directory, Free` |
 | [**Floor796**](https://floor796.com/) | Explore a massive animated scene filled with pop culture references and characters. `Animation, Entertainment, Free` |
 | [**This Person Does Not Exist**](https://thispersondoesnotexist.com/) | Generate realistic AI-created human faces with every page refresh. `AI, Image Generation, Free` |
 | [**Draw a Stickman**](https://drawastickman.com/) | Draw your own stickman character and take part in an interactive adventure. `Drawing, Game, Free` |
