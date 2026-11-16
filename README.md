@@ -789,6 +789,7 @@ Star this repo if you find it useful ⭐
 | [**✅5-Twee**](https://app.twee.com/auth/signin) | Twee is a web-based platform that uses artificial intelligence to create personalized and engaging lesson materials for English teachers and student |
 | [**✅6-Chalkie AI**](https://app.chalkie.ai/lessons/a015b88d-5fc0-4bff-90af-3ad93b6dc539) | Full lesson plans in seconds  |
 | [**✅7🎨 Canva Magic Write**](https://www.canva.com/magic-write/?msockid=1f75e1117964642c3e1bf73378656591) |  Stunning visuals, zero design stress  |
+| [**✅8-Harper**](https://writewithharper.com/)|  The Free Grammar Checker That Respects Your Privacy  |
 </details>
 </details>
 
