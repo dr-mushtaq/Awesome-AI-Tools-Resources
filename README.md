@@ -734,6 +734,7 @@ Star this repo if you find it useful ⭐
 | [**AISO Tools**](https://aisotools.com) | AI-search visibility (GEO) auditing — checks whether ChatGPT, Perplexity, and Google AI Overviews recommend a given site for a query, and reports the gaps blocking citation. Free audit; MCP server for agent access. |
 | [**LogNorm**](https://lognorm.com) | SEO and GEO growth backlog worked by AI agents (Claude Code, Codex, Cursor) via MCP; free plan for 1 website. |
 | [**looot-seo**](https://github.com/loootai/looot-seo) | Self-hosted, MIT-licensed SEO workspace for rank tracking, keyword research, SERP snapshots and backlinks; shows the price of each refresh before it runs. Data is prepaid per call through looot. |Paid|
+| [**AI Visibility Checker**](https://aivisibility.pro/) | See whether ChatGPT, Gemini, Claude and Perplexity recommend your brand, and where they leave you out. |Paid-Free|
 </details>
 
 <details> 
