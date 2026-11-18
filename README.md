@@ -355,6 +355,56 @@ Star this repo if you find it useful ⭐
 | [48. Suno](https://suno.com/) | Create AI-generated songs and music from text prompts. |
 | [49. Excalidraw](https://excalidraw.com/) | Create free, hand-drawn-style diagrams and visual explanations. |
 | [50. Google Labs](https://labs.google/) | Explore Google's latest AI experiments and emerging technologies. |
+| [1. MIT OpenCourseWare](https://ocw.mit.edu/) | MIT's course materials, free. |
+| [2. Harvard Online Courses](https://pll.harvard.edu/catalog/free) | Harvard's free online courses. |
+| [3. Stanford Free Courses](https://online.stanford.edu/free-courses) | Stanford's free online courses. |
+| [4. Open Yale Courses](https://oyc.yale.edu/) | Full university lectures from Yale. |
+| [5. Harvard CS50](https://cs50.harvard.edu/x) | Harvard's famous introduction to computer science. |
+| [6. NPTEL](https://nptel.ac.in/) | Free courses from IIT and other institutions. |
+| [7. TU Delft OpenCourseWare](https://ocw.tudelft.nl/) | TU Delft's open courses. |
+| [8. Khan Academy](https://www.khanacademy.org/) | Free learning from mathematics to economics. |
+| [9. OpenStax](https://openstax.org/) | Free peer-reviewed textbooks. |
+| [10. Open Textbook Library](https://open.umn.edu/opentextbooks) | A library of open textbooks. |
+| [11. Saylor Academy](https://www.saylor.org/) | Free college-level courses. |
+| [12. Lumen Learning](https://lumenlearning.com/) | Open educational course materials. |
+| [13. Class Central](https://www.classcentral.com/) | Find online courses from different platforms. |
+| [14. Open Culture](https://www.openculture.com/freeonlinecourses) | Free courses from top universities. |
+| [15. CosmoLearning](https://www.cosmolearning.org/) | Free educational videos. |
+| [16. Academic Earth](https://academicearth.org/) | University courses available online. |
+| [17. Crash Course](https://thecrashcourse.com/) | Short educational videos covering various subjects. |
+| [18. TED Talks](https://www.ted.com/talks) | Big ideas explained in approximately 18 minutes. |
+| [19. 3Blue1Brown](https://www.3blue1brown.com/) | Mathematics explained through animations. |
+| [20. BetterExplained](https://betterexplained.com/) | Intuitive and easy-to-understand mathematics. |
+| [21. Math Is Fun](https://www.mathsisfun.com/) | Mathematics basics explained simply. |
+| [22. Desmos](https://www.desmos.com/) | An interactive graphing calculator. |
+| [23. GeoGebra](https://www.geogebra.org/) | Interactive geometry and algebra tools. |
+| [24. Seeing Theory](https://seeing-theory.brown.edu/) | Probability and statistics explained visually. |
+| [25. PhET Interactive Simulations](https://phet.colorado.edu/) | Interactive science and mathematics simulations. |
+| [26. Explorables](https://explorabl.es/) | Interactive explanations you can explore. |
+| [27. The Physics Classroom](https://www.physicsclassroom.com/) | Physics concepts explained step by step. |
+| [28. VisuAlgo](https://visualgo.net/) | Algorithms and data structures explained through animations. |
+| [29. Gapminder](https://www.gapminder.org/) | Explore global development through data. |
+| [30. Our World in Data](https://ourworldindata.org/) | Research and statistics about global issues. |
+| [31. freeCodeCamp](https://www.freecodecamp.org/) | Learn programming and coding for free. |
+| [32. The Odin Project](https://www.theodinproject.com/) | A complete web development curriculum. |
+| [33. roadmap.sh](https://roadmap.sh/) | Learning roadmaps for technology careers. |
+| [34. Learn X in Y Minutes](https://learnxinyminutes.com/) | Quick programming language tutorials and references. |
+| [35. W3Schools](https://www.w3schools.com/) | Web development tutorials with practical examples. |
+| [36. MDN Web Docs](https://developer.mozilla.org/) | Comprehensive web development documentation. |
+| [37. Exercism](https://exercism.org/) | Coding exercises and mentorship. |
+| [38. CS Academy](https://csacademy.com/) | Algorithm and competitive programming practice. |
+| [39. SQLBolt](https://sqlbolt.com/) | Learn SQL through interactive lessons. |
+| [40. RegexOne](https://regexone.com/) | Learn regular expressions through interactive exercises. |
+| [41. CryptoPals](https://cryptopals.com/) | Practical cryptography challenges. |
+| [42. Scratch](https://scratch.mit.edu/) | Learn programming through creative projects. |
+| [43. Keybr](https://www.keybr.com/) | Learn touch typing and improve typing speed. |
+| [44. Microsoft Learn](https://learn.microsoft.com/training) | Microsoft's free technical training and tutorials. |
+| [45. Duolingo](https://www.duolingo.com/) | Learn foreign languages interactively. |
+| [46. MusicTheory.net](https://www.musictheory.net/) | Music theory lessons and exercises. |
+| [47. Lichess Learn](https://lichess.org/learn) | Learn chess for free. |
+| [48. Project Gutenberg](https://www.gutenberg.org/) | Free ebooks and classic literature. |
+| [49. Internet Archive](https://archive.org/) | Archived books, films, software, and digital resources. |
+| [50. arXiv](https://arxiv.org/) | Access academic research papers and preprints. |
 
 </details>
 
@@ -867,6 +917,60 @@ Star this repo if you find it useful ⭐
 | [**Explore.org**](https://explore.org/) | Watch live wildlife cameras featuring animals and natural environments around the world. `Wildlife, Live Cameras, Free` |
 | [**AirPano**](https://www.airpano.com/) | Explore famous destinations through immersive 360-degree aerial photography. `Travel, Photography, Free` |
 | [**Lofi Cafe**](https://lofi.cafe/) | Listen to relaxing lo-fi music accompanied by calm animated visuals. `Music, Relaxation, Free` |
+| [1. Affinity](https://affinity.studio/) | Professional photo editing and graphic design suite. |
+| [2. Polotno Studio](https://studio.polotno.com/) | Free browser-based editor for creating social media graphics. |
+| [3. PhotoDemon](https://photodemon.org/) | Free portable photo editor that runs without installation. |
+| [4. Pinta](https://pinta-project.com/) | Simple, free painting and image editing software. |
+| [5. PhotoFlare](https://photoflare.io/) | Simple cross-platform image editor. |
+| [6. Sketchbook](https://www.sketchbook.com/) | Sketching and digital painting application for different devices. |
+| [7. FireAlpaca](https://firealpaca.com/) | Free digital painting software for Windows and Mac. |
+| [8. Piskel](https://www.piskelapp.com/) | Free online pixel art and sprite editor. |
+| [9. LibreCAD](https://librecad.org/) | Free open-source 2D CAD drafting software. |
+| [10. Dust3D](https://dust3d.org/) | Free low-poly 3D modeling tool. |
+| **Video and Animation** | |
+| [11. DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Video editing, color grading, visual effects, and audio production in one application. |
+| [12. Lightworks](https://lwks.com/) | Professional video editor with a free download option. |
+| [13. OBS Studio](https://obsproject.com/) | Free open-source screen recording and live streaming software. |
+| [14. Clipchamp](https://clipchamp.com/) | Microsoft's online video editor with stock footage. |
+| [15. Shutter Encoder](https://www.shutterencoder.com/) | Free converter for professional video and audio codecs. |
+| [16. Cap](https://cap.so/) | Free open-source screen recorder and Loom alternative. |
+| [17. ShareX](https://getsharex.com/) | Free open-source screenshot and screen capture tool for Windows. |
+| [18. Jitter](https://jitter.video/) | Web-based motion graphics and animation design tool. |
+| [19. Synfig Studio](https://synfig.org/) | Free open-source 2D animation software. |
+| [20. Pencil2D](https://www.pencil2d.org/) | Simple open-source software for hand-drawn 2D animation. |
+| **Audio and Music** | |
+| [21. Ocenaudio](https://www.ocenaudio.com/) | Easy and fast audio editor for different operating systems. |
+| [22. Tenacity](https://tenacityaudio.org/) | Multitrack audio editor and recording software. |
+| [23. Audiotool](https://www.audiotool.com/) | Free browser-based digital audio workstation (DAW). |
+| [24. Mixxx](https://mixxx.org/) | Free DJ software with hardware controller support. |
+| [25. VCV Rack](https://vcvrack.com/) | Virtual Eurorack modular synthesizer studio. |
+| [26. Vital](https://vital.audio/) | Spectral-warping wavetable synthesizer. |
+| [27. OpenUtau](https://openutau.com/) | Open-source singing voice synthesizer. |
+| [28. LilyPond](https://lilypond.org/) | Creates professionally engraved sheet music from plain text. |
+| [29. Zapsplat](https://www.zapsplat.com/) | Large library of free sound effects. |
+| [30. Incompetech](https://incompetech.com/) | Royalty-free music by Kevin MacLeod. |
+| **Fonts and Type** | |
+| [31. Font Squirrel](https://www.fontsquirrel.com/) | Hand-picked fonts that are free for commercial use, subject to individual licenses. |
+| [32. FontSpace](https://www.fontspace.com/) | Large collection of free fonts with license information. |
+| [33. Bunny Fonts](https://fonts.bunny.net/) | Privacy-friendly web font hosting. |
+| [34. Velvetyne](https://velvetyne.fr/) | Libre fonts from a French type foundry. |
+| [35. The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | Open-source type foundry offering free fonts. |
+| [36. Collletttivo](https://www.collletttivo.it/) | Italian open-source type foundry. |
+| [37. Open Foundry](https://open-foundry.com/) | Curated collection of open-source typefaces. |
+| [38. Free Faces](https://freefaces.gallery/) | Gallery of typefaces available under free licenses. |
+| [39. FontStruct](https://fontstruct.com/) | Create custom fonts using simple geometric shapes. |
+| [40. Glyphr Studio](https://www.glyphrstudio.com/) | Free browser-based font editor. |
+| **Stock Photos and Graphics** | |
+| [41. Burst by Shopify](https://burst.shopify.com/) | Free stock photography from Shopify. |
+| [42. picjumbo](https://picjumbo.com/) | Free photos, backgrounds, and wallpapers. |
+| [43. ISO Republic](https://isorepublic.com/) | Free stock photos and videos. |
+| [44. Foodiesfeed](https://www.foodiesfeed.com/) | High-definition food photography. |
+| [45. PxHere](https://pxhere.com/) | Large collection of CC0 stock photos. |
+| [46. Magdeleine](https://magdeleine.co/) | Curated collection of high-resolution photographs. |
+| [47. Public Domain Vectors](https://publicdomainvectors.org/) | Public-domain vector clip art and SVG graphics. |
+| [48. iconmonstr](https://iconmonstr.com/) | Free simple icons for creative and commercial projects, subject to license terms. |
+| [49. Blush](https://blush.design/) | Customizable illustrations created by different artists. |
+| [50. Texturelabs](https://texturelabs.org/) | Free original textures and resources for art and graphic design. |
 </details>
 
 
