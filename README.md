@@ -971,6 +971,60 @@ Star this repo if you find it useful ⭐
 | [48. iconmonstr](https://iconmonstr.com/) | Free simple icons for creative and commercial projects, subject to license terms. |
 | [49. Blush](https://blush.design/) | Customizable illustrations created by different artists. |
 | [50. Texturelabs](https://texturelabs.org/) | Free original textures and resources for art and graphic design. |
+| [1. Convertio](https://convertio.co/) | Converts files across more than 300 formats. |
+| [2. FreeConvert](https://www.freeconvert.com/) | Converts audio, video, images, and ebooks. |
+| [3. Vertopal](https://www.vertopal.com/) | Free converter for documents, fonts, and 3D models. |
+| [4. CDKM](https://cdkm.com/) | Converts ebooks, images, and documents between different formats. |
+| [5. HEIC to JPG](https://heictojpg.com/) | Converts HEIC photos into JPG images in batches. |
+| [6. Online Audio Converter](https://online-audio-converter.com/) | Converts audio files into MP3, WAV, and ringtone formats. |
+| [7. Autotracer](https://autotracer.org/) | Converts JPG and PNG images into vector SVG files. |
+| [8. Transfonter](https://transfonter.org/) | Converts fonts into web-ready WOFF formats. |
+| [9. Subtitle Tools](https://subtitletools.com/) | Converts, synchronizes, and fixes subtitle files. |
+| [10. TableConvert](https://tableconvert.com/) | Converts tables between more than 30 formats. |
+| **Shrink and Resize** | |
+| [11. Compressor.io](https://compressor.io/) | Compresses JPEG, PNG, SVG, and WebP images. |
+| [12. Birme](https://birme.net/) | Resizes and crops multiple images in bulk. |
+| [13. Bulk Resize Photos](https://bulkresizephotos.com/) | Free batch image resizer without requiring an account. |
+| [14. ImageResizer](https://imageresizer.com/) | Resizes images online without installing software. |
+| [15. Compress JPEG](https://compressjpeg.com/) | Reduces JPEG file sizes for easier sharing and emailing. |
+| [16. CompressImage](https://compressimage.io/) | Compresses images directly in your browser. |
+| [17. VideoSmaller](https://www.videosmaller.com/) | Reduces the file size of MP4 and MOV videos. |
+| [18. 8mb.video](https://8mb.video/) | Compresses videos to fit Discord upload limits. |
+| [19. MP3Smaller](https://www.mp3smaller.com/) | Reduces MP3 file sizes by adjusting audio bitrate. |
+| [20. AudioTrimmer](https://audiotrimmer.com/) | Trims audio files and creates custom ringtones. |
+| **Generate in One Click** | |
+| [21. QRCode Monkey](https://www.qrcode-monkey.com/) | Creates free customizable QR codes with logos and colors. |
+| [22. QiFi](https://qifi.org/) | Generates QR codes for Wi-Fi network access. |
+| [23. RealFaviconGenerator](https://realfavicongenerator.net/) | Generates favicons compatible with different browsers and devices. |
+| [24. TEC-IT Barcode Generator](https://barcode.tec-it.com/) | Free generator for 1D and 2D barcodes. |
+| [25. PrintablePaper](https://printablepaper.net/) | Provides free printable paper templates in PDF format. |
+| [26. HTMLsig](https://htmlsig.com/) | Creates HTML email signatures with social media icons. |
+| [27. MyColor.Space](https://mycolor.space/) | Generates color palettes from a single color. |
+| [28. WordClouds](https://wordclouds.com/) | Creates free word clouds and tag clouds. |
+| [29. ASCII Art Generator](https://patorjk.com/software/taag/) | Converts plain text into ASCII art. |
+| [30. Picker Wheel](https://pickerwheel.com/) | Spins a customizable wheel to make random selections. |
+| **Calculate Anything** | |
+| [31. Calculator Soup](https://www.calculatorsoup.com/) | Offers calculators for mathematics, statistics, and loans. |
+| [32. GigaCalculator](https://www.gigacalculator.com/) | Free calculators and converters for everyday calculations. |
+| [33. Percentage Calculator](https://www.percentagecalculator.net/) | Solves percentage calculations quickly. |
+| [34. Web 2.0 Calc](https://web2.0calc.com/) | Free online scientific calculator. |
+| [35. InstaCalc](https://instacalc.com/) | Online calculator that displays calculations and working steps. |
+| [36. Numbat](https://numbat.dev/) | Scientific calculator that understands physical units. |
+| [37. UnitJuggler](https://unitjuggler.com/) | Converts units of mass, area, volume, and more. |
+| [38. Aspect Ratio Calculator](https://aspectratiocalculator.com/) | Calculates image and video dimensions using aspect ratios. |
+| [39. HowLongAgoGo](https://howlongagogo.com/) | Calculates the number of days since or until a date. |
+| [40. Savvy Time](https://savvytime.com/) | Converts time between cities and time zones worldwide. |
+| **Fix Text and Data** | |
+| [41. TextFixer](https://www.textfixer.com/) | Removes line breaks and cleans up text formatting. |
+| [42. Text Compare](https://text-compare.com/) | Compares two text documents and highlights differences. |
+| [43. Text Mechanic](https://textmechanic.com/) | Sorts, removes duplicates, and edits text directly in your browser. |
+| [44. PineTools](https://pinetools.com/) | Provides quick online tools for text and image editing. |
+| [45. ConvertCSV](https://www.convertcsv.com/) | Converts CSV and Excel files into JSON, SQL, and other formats. |
+| [46. JSON Formatter](https://jsonformatter.org/) | Formats, validates, and organizes JSON data. |
+| [47. RegExr](https://regexr.com/) | Builds, tests, and explains regular expressions. |
+| [48. IT Tools](https://it-tools.tech/) | Open-source collection of useful tools for developers. |
+| [49. Symbl](https://symbl.cc/) | Finds, explores, and copies Unicode symbols and characters. |
+| [50. HTML Color Codes](https://htmlcolorcodes.com/) | Provides HEX, RGB, and HSL color pickers and converters. |
 </details>
 
 
