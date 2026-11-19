@@ -230,7 +230,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🧑‍💻TURN DATA INTO PICTURES</h2> </summary>
+<summary> <h2>🧑‍💻Turn Data into Pictures</h2> </summary>
 
 | Title/Link | Description |Free-Paid|
 |---|---|----|
