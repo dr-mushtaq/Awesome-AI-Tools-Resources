@@ -658,6 +658,7 @@ Star this repo if you find it useful ⭐
 | [**OrkasVideoStudio**](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed CLI and MCP toolkit for coding agents to build editable JSON timelines and assemble videos automatically. `Open-Source, TypeScript` |
 | [**shortshort**](https://www.shortshort.io/) | Turns a long video upload or YouTube link into vertical 9:16 shorts with word-by-word captions and face-tracked reframing. `Video, Web, Freemium` |Freemium|
 | [**EveryApp AI Video Generator**](https://everyapp.pro/ai-video-generator) | Describe a scene and get a 4 to 15 second clip with motion and sound from nine models, including Kling 3.0, Veo 3.1 and Seedance 2.0. `Video, Web, Freemium` |Freemium|
+| [**Makeaicreator**](https://makeaicreator.com/) | Build a face-consistent AI influencer from a plain description for photos, voiceover videos, and product-placement scenes. `Video, Web, Paid` |Paid|
 </details>
 
 <details>
