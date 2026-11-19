@@ -482,7 +482,7 @@ Star this repo if you find it useful ⭐
 | [**✅Paperpop**](https://chromewebstore.google.com/detail/%E6%96%87%E7%8C%AE%E6%B3%A1%E6%B3%A1-%E5%9C%A8%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E3%80%81pubmed%E7%AD%89%E8%AE%BA%E6%96%87%E5%B9%B3%E5%8F%B0%E5%85%8D%E8%B4%B9%E6%98%BE/pdmgonafkgopgipcmgfpfobgknbofnpn?hl=en&pli=1 ) |Helps researchers discover, organize, and access academic research papers.|
 | [**✅google scholar pdf reader**](https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp) |Makes academic PDFs easier to read, navigate, and reference|
 | [**✅google scholar author highlighter**](https://chromewebstore.google.com/detail/google-scholar-author-hig/ijmngekkpaccbbjimedfkjpigplaikah) |Highlights specific authors in Google Scholar results for easier identification.|
-| [**alt metrix for pubmed and google scholar**](https://chromewebstore.google.com/detail/deadline-dog-%E2%80%94-dates-to-c/ipllicdjdefjbiejcoaejcjimaknlael ) |Displays research attention metrics, including online mentions and social media engagement.|
+| [**✅alt metrix for pubmed and google scholar**](https://chromewebstore.google.com/detail/altmetric-for-pubmed-and/moognpmgdkhdnljndnbbfahhajjhjjac) |Displays research attention metrics, including online mentions and social media engagement.|
 
 </details>
 
