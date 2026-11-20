@@ -167,6 +167,7 @@ Star this repo if you find it useful ⭐
 | 37 | [✅ undermind.ai](https://www.undermind.ai/mcp) |AI research agent that hunts deeply through scientific literature | — | — |
 | 38 | [✅ Afforai](https://logically.app/reference-manager) |Research assistant for searching and analysing multiple source | — | — |
 | 39 | [✅ Sourcely](https://app.sourcely.net/signup) |Finds credible academic sources for your writing | — | — |
+| 40 | [JournalCompass](https://journalcompass.com) | Free bilingual search across 43,499 SCI/SSCI journals with CAS zones, IF, review time, APC and AI journal matching | — | — |
 | — | — |
  
 
