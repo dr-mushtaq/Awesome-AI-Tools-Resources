@@ -206,6 +206,36 @@ Star this repo if you find it useful ⭐
 |---|---|
 | [**paperreview.ai**](https://paperreview.ai/) | Stanford Agentic Reviewer|
 
+
+</details>
+
+
+<details> 
+<summary> <h2>📚 📌 Journal Finder Tools  </h2> </summary>
+
+| Title/Link | Description |
+|---|---|
+| [**journalcompass**](https://journalcompass.com/en/) | See the journal clearly, then decide where to submit|
+| [**Elsevier Journal Finder**](https://journalfinder.elsevier.com/) | Elsevier Journal Recommendation Tool |
+| [**Web of Science**](https://www.webofscience.com/) | Research Discovery and Journal Indexing |
+| [**Wiley Journal Finder**](https://journalfinder.wiley.com/) | Wiley Journal Recommendation Tool |
+| [**JANE**](https://jane.biosemantics.org/) | Journal Author Name Estimator |
+| [**IEEE Publication Recommender**](https://journals.ieeeauthorcenter.ieee.org/) | IEEE Publication Recommendation Tool |
+| [**Springer Journal Suggester**](https://journalsuggester.springer.com/) | Springer Journal Recommendation Tool |
+| [**EDANZ Journal Selector**](https://www.edanz.com/journal-selector) | Academic Journal Selection Tool |
+| [**SAGE Journal Recommender**](https://journals.sagepub.com/) | SAGE Journal Recommendation Platform |
+| [**MDPI Journal Finder**](https://www.mdpi.com/journalfinder) | MDPI Journal Recommendation Tool |
+| [**Taylor & Francis Journal Suggester**](https://authorservices.taylorandfrancis.com/) | Taylor & Francis Journal Recommendation Tool |
+| [**ENAGO Journal Finder**](https://www.enago.com/) | Academic Journal Selection Tool |
+| [**Researcher.Life Journal Recommender**](https://researcher.life/) | AI-Powered Journal Recommendation Tool |
+| [**JournalGuide**](https://www.journalguide.com/) | Academic Journal Discovery and Comparison |
+| [**Trinka**](https://www.trinka.ai/) | AI-Powered Academic Writing Assistant |
+| [**ExCITATION Journal Ranking**](https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia/support?pli=1) | Google Scholar Journal Ranking Extension |
+| [**ScienceGate**](https://www.sciencegate.app/app/journal-finder) | Academic Journal Finder |
+| [**Global Journal Database (Editage)**](https://researcher.life/journal/search?requestId=626565e3-381a-4de3-b3d6-23dda876cf81) | Global Academic Journal Database |
+| [**Journal Searches**](https://journalsearches.com/scopus.php) | Scopus Journal Search Tool |
+| [**Think. Check. Submit.**](https://thinkchecksubmit.org/journals/) | Journal Credibility and Predatory Journal Checker |
+
 </details>
 
 <details> 
