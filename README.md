@@ -514,7 +514,7 @@ Star this repo if you find it useful ⭐
 | [**✅google scholar pdf reader**](https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp) |Makes academic PDFs easier to read, navigate, and reference|
 | [**✅google scholar author highlighter**](https://chromewebstore.google.com/detail/google-scholar-author-hig/ijmngekkpaccbbjimedfkjpigplaikah) |Highlights specific authors in Google Scholar results for easier identification.|
 | [**✅alt metrix for pubmed and google scholar**](https://chromewebstore.google.com/detail/altmetric-for-pubmed-and/moognpmgdkhdnljndnbbfahhajjhjjac) |Displays research attention metrics, including online mentions and social media engagement.|
-
+| [**✅ChatSequel**](https://chromewebstore.google.com/detail/chatsequel-chatgpt-auto-c/cdkihfdcmchokmfbpeglffiiknmmjdcj) |ChatSequel is a Chrome extension that automatically continues ChatGPT responses after a user-configurable delay.|
 </details>
 
 <details> 
