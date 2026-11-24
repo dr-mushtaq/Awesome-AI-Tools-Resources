@@ -257,6 +257,10 @@ Star this repo if you find it useful ⭐
 | Title/Link | Description |Free-Paid|
 |---|---|----|
 | [**Mister Download Manager**](https://github.com/anefzaoui/misterdownloadmanager?fbclid=IwY2xjawVg_yBleHRuA2FlbQIxMABwZG9mAWJyaWQRMVR3WWhhMzZFU2NkSkdwVjFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfmo2Bmp-1GjJWO8bTujupzjW61SqkwjYJ1aX8XzKNvX1IBG7V9iSogErst0E_aem_HgclL_1JKdvY2QSx1evvbA) |Downloads faster than IDM. Free, forever.|Fee|
+| [**Complete Website Downloader**](https://github.com/AhmadIbrahiim/Website-downloader) |Download the complete source code of any website (including all assets) 🔨.
+
+.|Fee|
+
 
 </details>
 
