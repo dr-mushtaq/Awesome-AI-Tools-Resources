@@ -312,6 +312,7 @@ Star this repo if you find it useful ⭐
 |---|---|
 | [**AskSurf.ai**](https://asksurf.ai/chat) | Perfect for those in finance, crypto, or research-heavy fields. You can ask complex questions about markets, compani |
 | [**DisconfirmAI**](https://disconfirmai.com/en) | AI investment research and reading tool that looks for evidence against your thesis, with daily source reading, earnings research and condition alerts. |
+| [**FlowFeed**](https://flowfeed.cc) | Real-time macro, forex and crypto news, economic calendar and central bank releases inside Claude, ChatGPT, Grok and Cursor, via a hosted MCP server (paid). |
 </details>
 
 <details> 
