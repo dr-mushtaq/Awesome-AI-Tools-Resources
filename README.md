@@ -442,6 +442,8 @@ Star this repo if you find it useful ⭐
 | [48. Project Gutenberg](https://www.gutenberg.org/) | Free ebooks and classic literature. |
 | [49. Internet Archive](https://archive.org/) | Archived books, films, software, and digital resources. |
 | [50. arXiv](https://arxiv.org/) | Access academic research papers and preprints. |
+| [51.AI learning hub by Microsoft](https://learn.microsoft.com/en-us/ai/?wt.mc_id=studentamb_693885&tabs=business-technical-leader) | Access academic research papers and preprints. |
+
 
 </details>
 
