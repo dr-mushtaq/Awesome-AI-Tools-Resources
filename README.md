@@ -1070,6 +1070,56 @@ Star this repo if you find it useful ⭐
 | [48. IT Tools](https://it-tools.tech/) | Open-source collection of useful tools for developers. |
 | [49. Symbl](https://symbl.cc/) | Finds, explores, and copies Unicode symbols and characters. |
 | [50. HTML Color Codes](https://htmlcolorcodes.com/) | Provides HEX, RGB, and HSL color pickers and converters. |
+| [1. Cobalt Tools](https://cobalt.tools/) | Download videos from social media platforms. |
+| [2. Photopea](https://photopea.com/) | Free online Photoshop alternative for editing images. |
+| [3. Temp Mail](https://temp-mail.org/) | Create temporary email addresses instantly. |
+| [4. TinyWow](https://tinywow.com/) | Access over 100 free online tools. |
+| [5. Internet Archive](https://archive.org/) | Access archived websites, books, videos, and digital resources. |
+| [6. Library Genesis](https://libgen.li/) | Search for books and academic textbooks. |
+| [7. Sci-Hub](https://sci-hub.al/) | Access scientific research articles. |
+| [8. AlternativeTo](https://alternativeto.net/) | Discover free alternatives to apps and software. |
+| [9. JustWatch](https://justwatch.com/) | Find where movies and TV shows are available to stream. |
+| [10. Project Gutenberg](https://gutenberg.org/) | Read over 70,000 free classic books. |
+| [11. PDF Drive](https://pdfdrive.com/) | Search for downloadable PDF books and documents. |
+| [12. Open Culture](https://openculture.com/) | Discover free online courses from leading universities. |
+| [13. Wolfram Alpha](https://wolframalpha.com/) | Solve mathematical problems and explore computational knowledge. |
+| [14. Remove.bg](https://remove.bg/) | Remove image backgrounds automatically. |
+| [15. Cleanup Pictures](https://cleanup.pictures/) | Remove unwanted objects from photos. |
+| [16. Unscreen](https://unscreen.com/) | Remove backgrounds from videos. |
+| [17. Squoosh](https://squoosh.app/) | Compress and optimize images for free. |
+| [18. Excalidraw](https://excalidraw.com/) | Create hand-drawn-style diagrams and graphics. |
+| [19. Carbon](https://carbon.now.sh/) | Turn code snippets into beautiful images. |
+| [20. Ray.so](https://ray.so/) | Create stunning screenshots of code. |
+| [21. Flightradar24](https://flightradar24.com/) | Track flights around the world in real time. |
+| [22. CamelCamelCamel](https://camelcamelcamel.com/) | Track Amazon product price history and price drops. |
+| [23. Have I Been Pwned](https://haveibeenpwned.com/) | Check whether your email address has appeared in data breaches. |
+| [24. VirusTotal](https://virustotal.com/) | Scan files and URLs for malware and security threats. |
+| [25. Privnote](https://privnote.com/) | Send private messages that self-destruct after being read. |
+| [26. File.io](https://file.io/) | Share files with automatic deletion options. |
+| [27. Archive.ph](https://archive.ph/) | Save and access archived copies of webpages. |
+| [28. AccountKiller](https://accountkiller.com/) | Find instructions for deleting online accounts. |
+| [29. Radio Garden](https://radio.garden/) | Listen to radio stations from around the world. |
+| [30. TuneFind](https://tunefind.com/) | Identify songs featured in movies and TV shows. |
+| [31. Music for Programming](https://musicforprogramming.net/) | Listen to music designed for focused programming sessions. |
+| [32. myNoise](https://mynoise.net/) | Create customized background sounds and soundscapes. |
+| [33. Anna's Archive](https://annasarchive.org/) | Search a large index of books and digital publications. |
+| [34. Elicit](https://elicit.com/) | Use AI to research and analyze academic papers. |
+| [35. Consensus](https://consensus.app/) | Find research-backed answers using scientific studies. |
+| [36. Connected Papers](https://connectedpapers.com/) | Visually explore connections between academic research papers. |
+| [37. Semantic Scholar](https://semanticscholar.org/) | Search millions of academic research papers. |
+| [38. SciSpace](https://scispace.com/) | Understand, analyze, and explore research papers with AI. |
+| [39. Summarize.tech](https://summarize.tech/) | Generate summaries of lengthy YouTube videos. |
+| [40. Phind](https://phind.com/) | AI-powered search engine for developers and programmers. |
+| [41. Regex101](https://regex101.com/) | Create, test, and debug regular expressions. |
+| [42. Code Beautify](https://codebeautify.org/) | Format, validate, and beautify code. |
+| [43. ExplainShell](https://explainshell.com/) | Understand Linux and terminal commands with explanations. |
+| [44. tldraw](https://tldraw.com/) | Create diagrams, sketches, and ideas on an infinite whiteboard. |
+| [45. Downdetector](https://downdetector.com/) | Check whether websites and online services are experiencing outages. |
+| [46. TinEye](https://tineye.com/) | Perform reverse image searches to find image sources. |
+| [47. Fast.com](https://fast.com/) | Test your internet download speed instantly. |
+| [48. Smallpdf](https://smallpdf.com/) | Edit, convert, compress, and manage PDF files. |
+| [49. iLovePDF](https://ilovepdf.com/) | Merge, split, compress, and convert PDF documents. |
+| [50. 10 Minute Mail](https://10minutemail.com/) | Generate temporary email addresses that expire automatically. |
 </details>
 
 
