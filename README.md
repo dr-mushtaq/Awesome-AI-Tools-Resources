@@ -459,6 +459,7 @@ Star this repo if you find it useful ⭐
 | [**EveryApp AI 3D World Generator**](https://everyapp.pro/ai-3d-world-generator) | Describe a place or start from a photo and get an explorable gaussian-splat 3D world, downloadable as SPZ or PLY for Blender and game engines. `Design, 3D, Web, Freemium` |
 | [**EveryApp 3D Scene Editor**](https://everyapp.pro/3d-scene-editor) | Build a 3D scene in the browser, frame it with a camera and turn it into an AI picture that keeps your layout. `Design, 3D, Web, Freemium` |
 | [**DESIGN:OS Studio**](https://jangtrinh.github.io/design-os-studio/) | Free native design app that opens and saves .fig files and ships a local MCP server, so a coding agent can inspect and edit the open file. `Design, MCP, Desktop, Free` |
+| [**Tweenery**](https://tweenery.com) | AI agent that turns an idea or a post you like into a written and designed Instagram carousel or TikTok slideshow. `Design, Social Media, Web, Freemium` |
 </details>
 
 <details> 
