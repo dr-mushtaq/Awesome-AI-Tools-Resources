@@ -645,6 +645,7 @@ Star this repo if you find it useful ⭐
 | [**MotionCasa**](https://motioncasa.com/) | Turns a set of real estate listing photos into a video with generated camera motion for property marketing. |Paid|
 | [**Foreffect**](https://www.foreffect.io/) | AI-generated video edits. |
 | [**AIVideoCut**](https://aivideocut.com/) | Automatic video cutting and editing with AI. |
+| [**Valmera**](https://valmera.io/tools/highlight-reel) | Edit recorded footage from a written brief, review and revise the cut, and export the approved MP4. |Paid AI editing|
 | [**Alors On Danse Video Maker**](https://alorsondansevideo.com/) | Independent AI: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok. |Paid|
 | [**Bad Times AI**](https://badtimesai.dev/) | Independent AI dance effect: one photo → 14–15s portrait dance video. |Paid|
 | [**I Found You in the Crowd AI**](https://ifoundyouinthecrowdai.com/) | Independent AI scene effect: two photos → balcony/spotlight meeting video. |Paid|
